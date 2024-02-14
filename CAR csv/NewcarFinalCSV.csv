@@ -1,0 +1,1501 @@
+Date,Salesperson,Customer Name,Car Make,Car Model,Car Year,Sale Price,Commission Rate,Commission Earned,Reason,Age
+01 August 2022,Monica Moore MD,Mary Butler,Nissan,Altima,2018,377899,7%,26640.07605,Income issues,43
+15 March 2023,Roberto Rose,Richard Pierce,Nissan,F-150,2016,377899,13%,50804.30202,Income issues,61
+29 April 2023,Ashley Ramos,Sandra Moore,Ford,Civic,2016,435599,11%,49891.73291,Budget,55
+04 September 2022,Patrick Harris,Johnny Scott,Ford,Altima,2013,417799,9%,38517.19138,Budget,56
+16 June 2022,Eric Lopez,Vanessa Jones,Honda,Silverado,2022,199799,11%,22675.14706,Income issues,33
+18 December 2022,Terry Perkins MD,John Olsen,Ford,Altima,2015,232199,8%,17936.66109,Income issues,43
+12 June 2022,Ashley Brown,Tyler Lawson,Honda,F-150,2013,430399,14%,61452.42107,Budget,21
+20 June 2022,Norma Watkins,Michael Bond,Ford,Altima,2015,507799,7%,36370.47265,Budget,58
+02 September 2022,Scott Parker,Stephanie Smith,Ford,Corolla,2021,205899,10%,20487.70217,Budget,41
+06 April 2023,Andrew Smith,Ashley Moreno DDS,Ford,Civic,2018,133199,15%,19969.96423,Budget,39
+12 March 2023,Harold Nelson,Isaac Patton,Honda,Silverado,2021,252699,9%,23385.0585,Budget,54
+29 January 2023,Richard Richardson,Justin Gray,Toyota,Silverado,2022,1105948,9%,100190.2028,Budget,43
+29 May 2022,Mia Acosta,Rebecca Best,Ford,Altima,2017,323699,12%,39604.20114,High traffic urban area,28
+12 August 2022,Lisa Campbell,Lisa Anderson,Toyota,F-150,2011,244799,11%,27497.3644,High traffic urban area,59
+06 April 2023,Carrie Howard,Rodney Black,Chevrolet,Altima,2021,615099,10%,63893.34381,High traffic urban area,28
+21 December 2022,James Velasquez,Natalie Thompson,Honda,Corolla,2016,648899,6%,35852.30459,High traffic urban area,68
+12 August 2022,Kristin Holmes,Michael Hill,Nissan,Altima,2010,361899,5%,18821.56159,High traffic urban area,20
+23 August 2022,Amy Solomon,Taylor Moore,Nissan,Silverado,2018,400299,9%,34499.89891,High traffic urban area,21
+18 October 2022,William Williams,Jordan Taylor,Toyota,Civic,2013,291999,13%,37150.38914,High traffic urban area,50
+09 March 2023,Patricia Reynolds,Alison Walker,Ford,Altima,2014,376799,9%,35212.32223,High traffic urban area,32
+28 September 2022,Michelle Gonzalez,Juan Davies,Ford,Corolla,2014,341599,8%,28961.06455,High traffic urban area,24
+20 December 2022,Jennifer Morris,Kristin Robinson,Toyota,Civic,2011,329999,13%,42334.94764,High traffic urban area,55
+26 July 2022,Jeremiah Thompson,Clifford Evans,Nissan,Altima,2013,239199,14%,34501.42534,Pandemic,61
+18 July 2022,Matthew White,Nancy Martinez,Chevrolet,Altima,2020,481899,14%,66015.91912,High traffic urban area,61
+19 December 2022,Jason Riley,Ruben Gomez,Nissan,Civic,2010,534599,8%,45122.51185,High traffic urban area,28
+15 February 2023,Faith Pierce,Jimmy Dunn,Honda,Silverado,2016,145799,6%,9243.60766,High traffic urban area,60
+23 June 2022,Samuel Brown,David Wagner,Chevrolet,F-150,2016,337399,12%,41474.20713,High traffic urban area,49
+14 July 2022,Amber Cooper,Claire Day,Nissan,F-150,2018,702299,10%,70349.54606,High traffic urban area,33
+17 July 2022,Paul Potter,Corey West,Honda,Corolla,2018,259199,9%,22095.84339,High traffic urban area,45
+11 December 2022,Jason Cabrera,Rebecca Hansen,Chevrolet,F-150,2012,222999,15%,32351.23218,High traffic urban area,29
+18 July 2022,Brenda Morales,Jason Hahn,Ford,Altima,2011,203099,7%,14009.92247,High traffic urban area,58
+13 May 2022,Christian Williams,Jerry Baker,Chevrolet,Silverado,2019,476899,13%,61372.59945,High traffic urban area,22
+05 September 2022,Stephanie Trujillo,April Morales,Ford,Silverado,2022,432299,10%,42892.76758,High traffic urban area,55
+30 December 2022,Shawn Cummings,Kelly Beasley,Chevrolet,Altima,2013,219899,5%,11738.57162,High traffic urban area,19
+02 July 2022,Lacey Cooper,Jennifer Brown,Toyota,Altima,2015,607799,10%,59768.47817,High traffic urban area,68
+04 February 2023,Jennifer Stevens MD,Brittany Gonzales,Chevrolet,Civic,2019,430699,14%,60996.47129,High traffic urban area,61
+08 October 2022,Kristen Becker,Ryan Medina,Nissan,Civic,2016,531499,6%,29944.80214,Pandemic,68
+24 January 2023,Julie Aguirre,Timothy Mccoy,Nissan,Silverado,2018,239999,8%,19087.40614,High traffic urban area,52
+15 April 2023,Victor Murillo,Matthew Anderson,Chevrolet,Corolla,2015,321099,8%,25975.53662,High traffic urban area,41
+10 August 2022,Nicole Williams,Richard Wolf,Ford,Civic,2012,230999,10%,23759.36473,High traffic urban area,29
+25 May 2022,Heather Davidson,Rachel Madden,Honda,Civic,2011,407299,6%,25534.74069,High traffic urban area,68
+15 February 2023,Betty Young,Lynn Villarreal,Honda,Corolla,2015,175199,12%,20155.66396,High traffic urban area,36
+18 April 2023,Chad Davis,Jesse Dunn,Nissan,Corolla,2013,231299,12%,27436.97912,High traffic urban area,55
+14 November 2022,Lauren Hernandez,Amanda Combs,Ford,Civic,2012,552599,12%,67956.76176,High traffic urban area,28
+24 May 2022,David Diaz,Amy Sanchez,Chevrolet,F-150,2013,317299,14%,43235.68952,High traffic urban area,39
+23 March 2023,Brian Moran,Matthew Peterson,Chevrolet,Civic,2013,236999,8%,18425.31532,Pandemic,54
+03 September 2022,Amanda Butler,Sabrina Williams,Toyota,Corolla,2012,407799,6%,25223.04384,Pandemic,40
+02 July 2022,Jacob Bishop,Marc Caldwell,Nissan,Corolla,2021,605099,9%,56282.81603,High traffic urban area,31
+16 December 2022,Michael Walton,Edgar Smith,Nissan,Corolla,2011,426399,15%,62240.91488,High traffic urban area,30
+13 March 2023,John Newton,Carrie Hudson,Toyota,F-150,2016,373599,8%,30535.76743,High traffic urban area,45
+17 August 2022,Kristen Martinez,Colleen Fischer,Chevrolet,Altima,2021,700000,5%,36297.01349,High traffic urban area,48
+03 January 2023,Kimberly Maldonado,Kristine Hernandez,Ford,Civic,2014,200000,11%,21797.01455,High traffic urban area,45
+30 November 2022,Tara Hubbard,Virginia Joyce,Toyota,Corolla,2016,669799,9%,61225.89926,Pandemic,60
+13 April 2023,Valerie Sanchez,Carlos Fields,Nissan,Altima,2022,373299,15%,54783.99991,High traffic urban area,59
+24 December 2022,Kevin Mitchell,Christie Odonnell,Chevrolet,F-150,2022,376799,12%,46303.31317,High traffic urban area,18
+11 February 2023,David Gomez,Linda Conrad,Nissan,Altima,2019,1021411,14%,147771.4152,Pandemic,70
+10 August 2022,Rebecca Pearson,Randall Thompson,Ford,F-150,2013,238799,9%,20320.03307,High traffic urban area,20
+20 May 2022,Jessica Flores,Carol Turner,Ford,Civic,2014,618199,9%,55822.3432,High traffic urban area,65
+19 July 2022,Joseph Patterson,James Velazquez,Honda,Corolla,2010,274399,10%,26193.39647,High traffic urban area,29
+20 January 2023,Carrie Gordon,Joseph Marquez,Honda,Silverado,2015,1041510,11%,109900.1309,High traffic urban area,22
+19 April 2023,Christina Avery,Courtney Miller,Nissan,Silverado,2017,379999,15%,55228.27389,High traffic urban area,27
+07 October 2022,Monique Green,Audrey Perry,Toyota,Corolla,2022,264999,10%,25210.68239,Pandemic,36
+18 November 2022,Tom Hunt,Tammy Wood,Chevrolet,F-150,2010,237499,10%,24330.71134,High traffic urban area,59
+01 February 2023,Walter Robinson,Jeffrey Gillespie,Honda,Civic,2020,156899,13%,20132.45088,High traffic urban area,62
+24 January 2023,Robert Gordon,Jennifer Cohen,Chevrolet,F-150,2019,218999,12%,25328.26323,High traffic urban area,34
+04 June 2022,Michelle Moore,Sharon Brooks,Ford,Civic,2019,329499,10%,34594.41056,High traffic urban area,59
+06 January 2023,Lindsey Knight,Haley Sanders,Nissan,Altima,2019,231899,12%,28600.48925,High traffic urban area,49
+04 October 2022,Christopher Taylor,Denise Carter,Chevrolet,F-150,2017,181399,7%,13173.9624,High traffic urban area,18
+03 January 2023,Kathy Evans,Claudia Ali,Toyota,Altima,2022,325000,15%,47625.77692,High traffic urban area,55
+16 November 2022,Katherine Harris,Lori Byrd,Ford,Altima,2022,630899,15%,92677.8741,High traffic urban area,38
+03 April 2023,Laura Huff,Michael Lewis,Chevrolet,Altima,2017,855199,12%,105387.8963,High traffic urban area,50
+25 August 2022,Charles Cruz,Debra Hudson,Toyota,Altima,2015,362699,15%,53744.996,High traffic urban area,61
+12 April 2023,Hayley Day,Anthony Glover,Honda,F-150,2015,812499,10%,81114.68045,High traffic urban area,48
+01 April 2023,Hunter King,Toni Acosta,Toyota,Civic,2016,205799,13%,27125.84077,High traffic urban area,22
+08 August 2022,Kimberly Rasmussen,Brian Lamb,Nissan,Civic,2016,354199,11%,37482.44223,Pandemic,48
+19 February 2023,Shawn Mullen,Jeremy Jones,Nissan,Civic,2018,332999,15%,49731.24491,High traffic urban area,57
+10 May 2022,Matthew Campos,Brandon Kim,Chevrolet,Silverado,2016,374299,7%,25407.25085,High traffic urban area,33
+14 May 2022,Tyler Freeman,Shannon Sutton,Honda,Altima,2021,582599,10%,60982.49477,High traffic urban area,58
+16 October 2022,Matthew Ortiz,Mr. Kyle Patrick MD,Honda,Civic,2022,550000,10%,54205.40448,High traffic urban area,37
+01 February 2023,Anna Johnson,Damon Baker,Chevrolet,Civic,2012,238599,12%,29661.09971,High traffic urban area,18
+23 February 2023,Carl Miller,Amy Burns,Honda,Corolla,2012,456999,8%,38059.06397,Pandemic,65
+08 September 2022,Ashley English,Adrian Miller,Chevrolet,Corolla,2022,826299,12%,96060.84628,High traffic urban area,62
+09 June 2022,Mark Mayo,Jesse Walker,Chevrolet,F-150,2014,533599,10%,54486.18998,Pandemic,54
+01 June 2022,Becky Stafford,Seth Horne,Nissan,Silverado,2016,391699,12%,48854.39814,High traffic urban area,35
+24 May 2022,Shaun Johnson,Zachary Freeman,Toyota,Civic,2012,317399,8%,25209.20148,High traffic urban area,34
+23 September 2022,Deanna Rodriguez,Christopher Cruz,Toyota,Corolla,2014,233699,12%,27743.3612,Pandemic,25
+13 June 2022,Jennifer Wallace,Michael Smith,Ford,Corolla,2011,1063528,12%,132347.982,Pandemic,53
+14 February 2023,Matthew Walker,Mary Perry,Chevrolet,Corolla,2019,200000,13%,26741.36433,High traffic urban area,45
+16 March 2023,Kenneth Fields,Audrey Gomez,Honda,Civic,2018,224499,9%,20710.89419,High traffic urban area,49
+04 April 2023,Deborah Whitney,Sarah Watkins,Ford,Civic,2013,223999,14%,30661.59734,High traffic urban area,40
+21 September 2022,David Wood,Brent Mays,Toyota,Altima,2013,358899,9%,32772.16929,High traffic urban area,38
+23 June 2022,Christopher Oneill,Phillip Cox,Toyota,Altima,2022,555699,10%,54057.06499,High traffic urban area,44
+04 June 2022,William Daniel,Jamie Smith,Honda,Corolla,2015,80000,5%,4379.593219,High traffic urban area,68
+02 December 2022,Stephen Ward,Chase Oneill,Ford,Corolla,2022,505999,8%,41249.22504,High traffic urban area,60
+23 January 2023,Donald Guerra,John Goodwin,Ford,Altima,2020,405099,10%,39788.27475,Pandemic,25
+13 March 2023,Alyssa Boyd,James Turner,Nissan,F-150,2016,703899,11%,77109.95623,Pandemic,19
+31 December 2022,Ryan Barnes,Mary Wong,Toyota,Silverado,2018,206499,11%,21835.27926,High traffic urban area,57
+29 December 2022,Megan Kaiser,Christopher Alexander,Ford,Civic,2013,385499,6%,21441.79424,High traffic urban area,58
+16 April 2023,Michael Jordan,Thomas Blankenship,Chevrolet,Altima,2014,328599,10%,34158.20159,Pandemic,49
+16 October 2022,Nicole Gonzales,Leslie Shepherd,HYUNDAI,GRAND I10(2017-2020),2020,285199,11%,31824.40485,High traffic urban area,19
+18 October 2022,Wendy Lopez,Peter Cole,MARUTI SUZUKI,BALENO,2012,470799,7%,31296.45651,Pandemic,50
+14 May 2022,Michael Rogers,Ronald Sullivan,HYUNDAI,VERNA,2020,310299,6%,17068.36165,High traffic urban area,30
+06 October 2022,Tina Lynch,Erika Davis,TATA,HARRIER,2022,548299,10%,56190.59047,High traffic urban area,52
+27 January 2023,Kimberly Hall,Catherine Ortega,TATA,TIGOR(2018-2020),2011,1189172,14%,168825.3388,Pandemic,35
+05 April 2023,Kayla Perez,Adrian Parker,HONDA,WR V,2014,400000,9%,34178.41393,High traffic urban area,35
+09 December 2022,Sandra Taylor,Kelly Tran,TATA,HARRIER,2012,647999,5%,35313.45272,High traffic urban area,33
+10 October 2022,Thomas Dixon,Dawn Bell,HONDA,AMAZE,2014,383199,10%,38956.89568,High traffic urban area,52
+26 October 2022,Tony Stone,Brianna Henderson,HYUNDAI,GRAND I10,2019,732299,12%,85871.96449,High traffic urban area,69
+24 December 2022,Nicholas Rodriguez,Eric Edwards,MAHINDRA,SCORPIO(2014-2017),2011,668299,14%,95600.9664,High traffic urban area,27
+21 March 2023,Dennis Davis,Frances Castillo,TATA,HARRIER,2016,880799,13%,111383.1245,Pandemic,66
+20 November 2022,William Brock,Mike Harris,HYUNDAI,CRETA,2021,520499,13%,66178.87325,Budget,28
+18 July 2022,Tanya Joyce,Madeline Mosley,HONDA,CITY,2021,480000,12%,59960.25078,Income issues,22
+14 March 2023,Michael Lewis,Joshua Brown,HONDA,AMAZE,2012,524399,15%,76285.4649,Budget,69
+17 August 2022,Amanda Robinson,Jason Hernandez,FORD,ECOSPORT,2010,247799,6%,15118.76551,Income issues,28
+21 February 2023,Gabrielle Fields,Richard Warner,HYUNDAI,TUCSON,2016,928599,15%,136652.786,Budget,55
+29 May 2022,Michael Chavez,Eric Durham,RENAULT,DUSTER(2016-2019),2020,264499,8%,20579.28774,Budget,30
+05 July 2022,Dr. Nicole Lopez,Dustin Taylor,MAHINDRA,XUV 500,2016,325799,8%,24885.77994,Budget,67
+17 July 2022,Miguel Waters,Katherine Henry,MARUTI SUZUKI,BALENO,2010,381599,8%,31953.94333,Budget,25
+14 December 2022,Gina Boyer,Elizabeth Jimenez,MARUTI SUZUKI,CELERIO(2017-2019),2013,529899,12%,62342.59568,Income issues,49
+11 August 2022,Lindsey Baker,Carl Maldonado,MARUTI SUZUKI,DZIRE,2021,252499,10%,25211.92716,Income issues,34
+01 May 2023,Jennifer Odonnell,Holly Jones,MARUTI SUZUKI,BALENO,2022,493599,13%,62035.94296,Budget,22
+06 January 2023,Brenda Reyes,Joseph Sutton,HYUNDAI,EON,2016,360699,12%,43359.66888,Budget,63
+27 April 2023,Brenda Gardner,Anna Owen,SKODA,OCTAVIA,2017,388199,12%,47297.34872,Income issues,70
+19 October 2022,Karen Dennis,Karen Rogers,NISSAN,TERRANO,2010,259499,9%,22872.07316,Budget,36
+27 June 2022,Natalie Rivera,Lisa Harding,FORD,ECOSPORT,2015,492199,14%,66940.51554,Budget,42
+12 May 2022,Donald Higgins,Sarah Martin,HONDA,CITY,2012,542499,11%,61540.34828,Budget,27
+08 August 2022,Bernard Barnes,Blake Barrera,TOYOTA,INNOVA CRYSTA,2016,220899,10%,22986.02517,Budget,23
+28 June 2022,Christian Gay,Jesse Miller,TOYOTA,COROLLA ALTIS,2019,293099,11%,33456.0208,Budget,50
+16 July 2022,Tyler Wolfe,Nicholas Thomas,HONDA,CITY,2022,217299,13%,28666.41693,Income issues,56
+28 May 2022,Linda Richard,Lisa Robinson,MARUTI SUZUKI,BALENO,2012,540000,10%,55808.64294,Budget,37
+11 December 2022,Kathryn Le,Jennifer Williams,SKODA,RAPID,2019,482099,5%,24497.32091,Budget,67
+01 April 2023,Debbie Powers,Kenneth Hernandez,HONDA,AMAZE,2014,523499,11%,58393.79205,Budget,67
+07 April 2023,Kelly Ho,Alejandra Olson,MAHINDRA,BOLERO(2007-2011),2014,443599,6%,24922.82942,Budget,50
+15 April 2023,Desiree Hill,Mary Nielsen,HYUNDAI,CRETA(2020-2023),2021,492399,14%,69395.2697,Budget,36
+19 April 2023,Richard Williams,Cody Benton,FORD,ASPIRE(2015_2018),2018,344999,10%,32954.44589,Income issues,62
+27 September 2022,Yolanda Jones,Christopher Morris,HYUNDAI,CRETA,2015,199299,11%,21764.54994,Budget,65
+26 September 2022,Meagan Shaw,Rebecca Boone,MARUTI SUZUKI,CIAZ(2018-2020),2012,232799,9%,20883.20318,Budget,23
+24 January 2023,Joseph Smith,Gary Rowland,MARUTI SUZUKI,WAGON R,2020,302499,15%,44039.25826,Budget,46
+21 May 2022,Isabella Barrett,Kathleen Stone,AUDI,Q3 2.0,2012,244699,11%,26308.68672,Income issues,18
+12 May 2022,Mr. Joshua Johnson,Patricia Serrano,RENAULT,KWID,2016,346499,9%,32211.09758,Budget,58
+09 August 2022,Levi Cox,Daniel Carpenter,HYUNDAI,GRAND I10,2014,252799,6%,16115.06819,Budget,31
+14 August 2022,Diane Anderson,David Peck,MAHINDRA,TUV 300,2013,476999,12%,56535.40306,Income issues,39
+13 March 2023,Cheyenne Sampson,Robert Shaw,RENAULT,KWID,2012,582299,12%,71504.15658,Budget,69
+12 January 2023,Phillip Dougherty,William Weber,HONDA,AMAZE,2020,444499,6%,25332.52736,Budget,68
+07 October 2022,Jared Taylor,Benjamin Wilson,MARUTI SUZUKI,SWIFT(2014_2018),2020,263899,15%,39281.61271,Budget,41
+22 August 2022,Heather Romero,Mark Olson,MARUTI SUZUKI,CELERIO,2017,531599,8%,41041.221,Income issues,31
+11 July 2022,Daniel Richmond,Tiffany Arnold,HONDA,WR-V,2013,248999,10%,25967.43092,Budget,48
+31 July 2022,William Taylor,Meredith Gomez,MAHINDRA,TUV 300,2012,422099,10%,43087.41031,Income issues,59
+31 December 2022,Matthew Brown,Christina Holmes,HYUNDAI,I10,2021,301199,15%,44117.01427,Income issues,34
+18 July 2022,Ryan Waters,Diana Brown,HYUNDAI,SANTRO(2018-2020),2017,251099,8%,20900.02226,Income issues,21
+21 September 2022,Steven Sexton,Eric Tucker,MAHINDRA,XUV500,2011,441799,9%,38353.96958,Income issues,29
+08 June 2022,Michael Olson,Krista Walters,HONDA,CITY,2016,565699,11%,63461.61204,Budget,41
+17 July 2022,Darryl Hernandez,Gregory Phillips Jr.,MARUTI SUZUKI,S CROSS,2020,130000,15%,19119.7594,Budget,62
+02 May 2022,Linda White,Pamela Sullivan,HYUNDAI,GRAND I10,2018,397099,15%,58297.9923,Income issues,27
+12 October 2022,Samantha Graham MD,Angela Dudley,TATA,NEXON,2012,572699,14%,81904.79975,Income issues,49
+17 May 2022,Caroline Howell,Rachel Dillon,HONDA,MOBILIO,2020,1031006,7%,76662.80145,Budget,67
+07 June 2022,Paula Williams,Crystal Davis,MARUTI SUZUKI,WAGON R(2019-2022),2012,199899,13%,25997.46778,Income issues,20
+13 August 2022,Blake Garcia,Joseph James,HONDA,AMAZE,2019,179399,12%,21115.11018,Budget,37
+28 April 2023,James Klein,Cameron James,VOLKSWAGEN,VENTO,2022,307199,13%,40191.53139,Budget,69
+25 July 2022,Matthew Rollins,Heather Heath,HYUNDAI,VERNA,2018,575000,11%,63456.08004,Budget,66
+21 August 2022,Matthew Johnson,James Perkins,HYUNDAI,GRAND I10,2021,416599,12%,50774.66843,Budget,37
+31 March 2023,Michael Pierce,Leslie Kim,HYUNDAI,ELANTRA(2016-2019),2013,238699,8%,18454.25984,Income issues,63
+14 October 2022,Crystal Williams,Henry King,HONDA,AMAZE,2014,350599,10%,36741.41883,Budget,47
+06 June 2022,Amanda Hernandez,Jacqueline Ortiz,HYUNDAI,I10,2022,607899,12%,74119.69007,Budget,26
+25 June 2022,Mr. Frank Wiggins,Joseph Pierce,NISSAN,TERRANO,2014,526899,10%,55237.35855,Budget,68
+12 May 2022,Joseph Lewis,Caroline Cooley,HONDA,BRIO,2019,357399,5%,18692.4837,Income issues,51
+23 June 2022,Miss Angela Evans,Kathy Shelton,MARUTI SUZUKI,ALTO K10,2015,301199,7%,22448.50026,Income issues,48
+28 June 2022,Thomas Bass,Douglas Roach,JEEP,COMPASS,2021,303899,14%,41799.63061,Income issues,60
+30 May 2022,Debra Wright,Kristin Hall,HYUNDAI,VERNA,2011,302099,14%,43242.50499,Budget,68
+15 September 2022,Nicholas Francis,Kevin Williams,HONDA,CITY(2017-2020),2010,472599,6%,29587.82509,Budget,25
+17 August 2022,Christina Jones,Shaun Brown,HONDA,CITY,2013,259099,11%,27440.20498,Budget,57
+07 July 2022,Frederick Hudson,Mariah Lee,MARUTI SUZUKI,ALTO,2016,387199,7%,25802.58439,Budget,41
+03 May 2022,Craig Booth,Jason Davis,HONDA,CITY,2020,103599,8%,7884.647202,Income issues,59
+26 September 2022,Mr. Shawn Scott MD,Mrs. Michele Edwards,HYUNDAI,ELITE I20(2018-2019),2010,358099,12%,42503.35678,Income issues,44
+02 September 2022,Michael Wright,Michael Moore,TOYOTA,INNOVA CRYSTA,2012,208499,6%,13194.60971,Budget,42
+18 December 2022,Lauren Miller,William Wilkerson,HONDA,JAZZ,2018,567499,8%,45844.5029,Income issues,35
+28 May 2022,Nicholas Lyons,Sara King,SKODA,RAPID(2011-2014),2018,243099,8%,19162.15182,Budget,36
+27 March 2023,Kimberly Allen,George Sanchez,HONDA,CITY,2021,572999,8%,46963.44097,Budget,54
+24 December 2022,Miss Carla Jones,Nicole Vargas,MARUTI SUZUKI,WAGON R,2015,761399,10%,75529.03123,Income issues,37
+12 September 2022,Keith Bell,Kevin Nguyen,TATA,TIGOR(2018-2020),2014,603699,11%,63532.60934,Budget,20
+05 September 2022,Ashley Spencer,Christina Roberts,BMW,3 SERIES,2016,424299,7%,29303.27968,Budget,23
+22 January 2023,Edward Christian,Tammy Cain,KIA,SELTOS,2019,503199,12%,60905.59381,Income issues,61
+28 September 2022,Gordon Rhodes,Jessica Washington,HYUNDAI,I10,2018,389899,7%,27377.90485,Income issues,37
+19 February 2023,Stefanie Jones,Jesse Snow,HONDA,AMAZE,2016,377199,11%,40758.89899,Budget,23
+22 October 2022,Cynthia Brown,Antonio Estrada,MARUTI SUZUKI,BALENO,2011,592499,5%,31752.2367,Income issues,63
+06 August 2022,Jessica Jackson,Jonathan Chaney,MARUTI SUZUKI,ALTO K10,2021,268799,6%,17257.72272,Budget,47
+04 February 2023,Oscar Atkins,Johnathan Ramos,HYUNDAI,VERNA,2020,403499,6%,25458.8004,Budget,63
+24 January 2023,Duane Garcia,Andrew Hudson,TOYOTA,INNOVA CRYSTA,2020,365099,10%,35530.37881,Budget,56
+25 April 2023,Howard Morris,Jeremy Spence,MARUTI SUZUKI,ALTO K10,2017,397999,8%,30242.21186,Budget,68
+12 May 2022,Michelle White,Jesse Wilson,MARUTI SUZUKI,WAGON R,2016,473799,15%,69465.65415,Budget,64
+04 February 2023,James Higgins,Casey Stone,TATA,TIAGO,2011,304399,10%,29750.22869,Budget,62
+08 August 2022,Tina Zamora,Anna Diaz,HONDA,AMAZE,2016,237199,14%,33200.60254,Budget,34
+30 October 2022,Carol Harmon,Chad Brown,HYUNDAI,EON,2022,374499,9%,32868.4964,Budget,49
+05 December 2022,Anna Ryan,William Lynn,MARUTI SUZUKI,CIAZ,2020,224399,12%,26407.03947,Budget,40
+17 June 2022,James Hall,Benjamin Robertson,HYUNDAI,I20,2015,293599,6%,17199.31947,Income issues,50
+29 September 2022,Daniel English,Brandon Turner,JEEP,COMPASS,2011,359199,11%,39895.04312,Budget,25
+21 March 2023,Tracey Williams,Michael Whitaker,MARUTI SUZUKI,ALTO 800,2020,262399,5%,14255.38495,Income issues,30
+22 September 2022,Joseph Delacruz,Cynthia Jones,MARUTI SUZUKI,VITARA BREZZA,2013,245599,12%,28320.0006,Budget,54
+27 December 2022,John Miles,Kyle Stanley,TATA,TIAGO,2017,332899,15%,49223.11501,Income issues,40
+19 September 2022,Christina Berry,Dennis Camacho,TATA,TIAGO,2014,251899,7%,16634.20902,Budget,49
+17 July 2022,Joseph Reed,Jordan Bell,SKODA,RAPID(2016-2020),2014,246499,13%,32389.61245,Income issues,27
+06 August 2022,Kari Salas,Stephanie Carter,TATA,ALTROZ,2022,590000,11%,66802.99548,Income issues,27
+09 September 2022,Steve Thompson,Christopher Perry,MARUTI SUZUKI,CIAZ,2015,1449045,13%,189146.0124,Budget,48
+26 March 2023,Donald Willis,Tracy Vaughn,MARUTI SUZUKI,WAGON R 1.0,2011,389899,10%,38712.08498,Income issues,40
+18 January 2023,Gregory Chapman,Stephanie Jones,RENAULT,KWID,2010,376099,11%,43137.03342,Income issues,67
+02 July 2022,William Palmer,Karen Roth,RENAULT,KWID,2013,302399,6%,19346.85927,Budget,52
+16 November 2022,Jacob Williams,Aaron Medina,MARUTI SUZUKI,ERTIGA,2014,550000,15%,80902.67241,Budget,22
+06 January 2023,Austin Garcia,Mckenzie Zavala,TATA,NEXON,2020,323099,6%,20676.86389,Budget,62
+11 May 2022,Karen Smith,Katherine Henderson,HYUNDAI,SANTRO XING,2010,449199,11%,47901.84285,Budget,20
+03 February 2023,Michael Pitts,Julie Jones,TOYOTA,INNOVA CRYSTA,2014,973399,13%,129784.6351,Budget,41
+30 May 2022,Stacie Johnson,Erin King,VOLKSWAGEN,POLO,2021,306599,11%,32198.70338,Budget,34
+18 June 2022,Erika Simpson,Loretta Diaz,HONDA,AMAZE,2022,829399,8%,68763.52771,Budget,23
+19 July 2022,Bonnie Moore,Dustin Lopez,MAHINDRA,SCORPIO,2021,251799,12%,29464.50279,Income issues,32
+01 July 2022,Brent Todd,Curtis Leonard,MAHINDRA,SCORPIO,2016,303099,12%,37322.97038,Budget,68
+05 January 2023,Julian Jimenez,Natalie Larson,HYUNDAI,I20,2021,258499,13%,34632.33371,Income issues,30
+08 June 2022,Joshua Hess,Matthew Guzman,TATA,TIAGO,2013,559399,9%,48293.72921,Budget,66
+23 September 2022,Robert Smith,Grant Lane,MAHINDRA,XUV500(2015_2017),2013,389399,9%,35627.83533,Income issues,62
+13 November 2022,Christopher Carter,Jessica Wilson,HONDA,WR V,2013,282399,8%,22286.97053,Budget,50
+19 June 2022,Suzanne Rocha,Raymond Hinton,HYUNDAI,VENUE,2018,247999,6%,15545.02658,Budget,55
+02 December 2022,Jessica Castaneda,Rebecca Rasmussen,MARUTI SUZUKI,VITARA BREZZA,2018,320000,7%,22986.5614,Budget,19
+26 May 2022,Jessica Conrad,Angela Santos,KIA,SONET,2012,269099,8%,22517.6344,Income issues,67
+19 April 2023,Teresa Nelson,Jessica Collins MD,TATA,TIAGO,2020,427299,10%,44166.64497,Income issues,18
+11 January 2023,Scott Wilson,Shane Wilson,VOLKSWAGEN,VENTO,2020,384799,6%,22961.27089,Budget,58
+17 September 2022,Chad Robinson,Zachary Reese,KIA,SELTOS,2011,186999,9%,17253.40271,Budget,69
+07 August 2022,Tim Herrera,Natalie Robertson,MAHINDRA,XYLO,2017,624999,15%,92234.49974,Budget,62
+30 December 2022,Crystal Small,Steven Liu,HYUNDAI,I20,2016,341999,10%,33139.78355,Budget,28
+02 August 2022,Robert Adams,Samuel Wolfe,HONDA,CITY,2018,584799,6%,33383.07451,Budget,53
+26 February 2023,Kimberly Jackson,Christopher Mason,MARUTI SUZUKI,S CROSS,2015,344799,15%,50821.66442,Income issues,27
+12 November 2022,Arthur Smith,Matthew Larson,MARUTI SUZUKI,VITARA BREZZA,2018,535399,13%,70305.76805,Budget,55
+19 April 2023,Kyle Chandler,Kelly Miller,HYUNDAI,GRAND I10(2013-2017),2015,294399,13%,39722.66406,Budget,34
+20 June 2022,Andrea Morris,Tiffany Stewart,MARUTI SUZUKI,SWIFT,2016,294299,11%,32146.19009,Budget,25
+04 August 2022,Gloria Mann,Chris Baker,MARUTI SUZUKI,SWIFT,2013,494999,12%,58004.03704,Income issues,66
+19 April 2023,Cindy Conner,Sandra Hart,HONDA,JAZZ,2015,312199,14%,45208.63618,Budget,57
+25 August 2022,Mary Ward,Cory Green,HYUNDAI,CRETA,2015,297899,11%,31721.7833,Income issues,46
+28 August 2022,Andrew Washington,Thomas White,HONDA,AMAZE,2022,351499,8%,27698.5122,Budget,38
+21 May 2022,Ashley Bender,Anthony Lopez,HYUNDAI,I10,2021,351399,15%,51432.59547,Income issues,23
+24 October 2022,Selena Smith,April Allen,TATA,NEXON,2020,150000,11%,16093.93947,Budget,42
+12 December 2022,Russell Atkinson,Kathleen Smith,HYUNDAI,I20,2017,180699,7%,13139.97362,Budget,25
+09 November 2022,Carol King,Joshua Edwards,MARUTI SUZUKI,BALENO,2012,310599,8%,24159.38375,Budget,55
+29 March 2023,Christopher Mendoza,Rose Johnson,MARUTI SUZUKI,VITARA BREZZA,2017,370999,5%,19171.32102,Budget,62
+13 May 2022,David Oconnor,Jean Ramirez,MARUTI SUZUKI,WAGON R 1.0,2013,507899,11%,56519.13922,Income issues,41
+10 December 2022,Alejandro Johnson,Brandon Walker,TOYOTA,COROLLA ALTIS,2018,173699,10%,18206.83273,Income issues,58
+25 January 2023,Kevin Johnson,Robert Henry DDS,HYUNDAI,ELITE I20(2018-2019),2017,284399,12%,34219.78697,Budget,56
+01 September 2022,Amanda Branch,Paul Pham,TATA,TIGOR,2022,257999,10%,26181.7692,Budget,25
+06 March 2023,Jacob Maldonado,Hannah Freeman,MARUTI SUZUKI,DZIRE,2021,186299,9%,17041.73385,Income issues,70
+12 May 2022,Tanner Horne,David Camacho,HYUNDAI,I20,2014,274399,14%,39582.87,Budget,42
+08 February 2023,April Brown,Dennis Cardenas,MARUTI SUZUKI,BALENO(2020-2022),2021,240499,8%,18375.46626,Budget,27
+28 January 2023,Elizabeth Swanson,Sherry Elliott,MARUTI SUZUKI,VITARA BREZZA,2014,287299,12%,35162.35103,Budget,65
+30 December 2022,Deborah Baker MD,Sarah Evans,JEEP,COMPASS,2011,358699,13%,47688.25751,Budget,62
+05 March 2023,Collin Turner,Stephanie Mendez,TATA,SAFARI,2015,165199,14%,22908.61345,Budget,62
+10 June 2022,Michelle Johnson,Joseph Davis,TOYOTA,INNOVA CRYSTA,2022,837999,10%,84880.29566,Income issues,52
+20 May 2022,Rebecca Mcguire,Antonio Atkins IV,HYUNDAI,CRETA,2019,415299,14%,57149.36946,Budget,56
+30 December 2022,David Kelly,Douglas Frank,MAHINDRA,XUV700,2016,273899,8%,22650.4205,Budget,28
+11 February 2023,Mrs. Shannon Frazier DVM,Travis Barnes,HONDA,CITY(2014-2017),2010,684199,6%,44148.9513,Budget,39
+10 August 2022,Brandi Anderson,Ethan Marquez,MARUTI SUZUKI,SWIFT,2020,213599,13%,28634.45075,Budget,54
+24 October 2022,Michael Ferguson,Sarah Cochran,MARUTI SUZUKI,CIAZ,2018,270699,14%,37934.44749,Budget,30
+28 April 2023,Susan Wagner,Andrea Shepherd,MAHINDRA,THAR,2020,570599,11%,60921.87697,Income issues,45
+07 March 2023,Timothy Mccormick,Renee Herrera,HYUNDAI,I20,2013,278699,9%,25132.3972,Budget,68
+01 August 2022,Drew Lambert,Sylvia Williams,HYUNDAI,CRETA,2019,200000,5%,10579.92234,Budget,47
+01 May 2022,Lee Wilson,Pamela Lynn,MAHINDRA,SCORPIO,2022,500199,10%,49688.45077,Budget,68
+24 January 2023,Matthew Carlson,John Santiago,FORD,ASPIRE(2015_2018),2013,291899,7%,21073.78721,Income issues,63
+28 July 2022,Vanessa Perry,Charles Bailey,MG,HECTOR(2020-2021),2017,337199,15%,49772.94066,Budget,20
+19 July 2022,Victor Griffin,Jacqueline Boyd,HONDA,CITY(2017-2020),2010,290299,11%,31522.15663,Budget,29
+08 December 2022,Dale Williams,Shannon Russell,MAHINDRA,XUV500,2011,274099,6%,17292.27338,Income issues,41
+14 January 2023,Paul Hall,Jeffrey Thompson,MAHINDRA,XUV700,2020,235199,8%,18160.46461,Budget,52
+14 December 2022,Daniel Farley,Paul Jackson,SKODA,KUSHAQ,2019,259099,12%,32002.15478,Budget,32
+10 December 2022,Bruce Martinez,Karen Yang,HYUNDAI,XCENT(2014-2017),2021,865399,6%,55637.66063,Budget,20
+09 June 2022,Candace Galloway,Dillon Solis,TATA,NEXON,2020,1445409,9%,128812.6724,Income issues,47
+26 March 2023,Angela Russell,Alexandra Knapp,HYUNDAI,CRETA,2017,478699,8%,37651.72804,Budget,23
+15 March 2023,David Chase,Christopher Landry,KIA,SELTOS,2012,357399,12%,41584.4775,Income issues,43
+27 February 2023,David Moreno,Jennifer Montes,HONDA,AMAZE,2014,300499,11%,34508.16537,Income issues,67
+30 July 2022,Darlene Smith,Lindsay Mccormick,TOYOTA,INNOVA CRYSTA,2019,468999,7%,33506.16609,Income issues,70
+27 February 2023,Marie Smith,Amanda Mitchell,CHEVROLET,SAIL UVA,2022,381699,12%,44522.50478,Income issues,35
+21 December 2022,Autumn Wu,Daniel Schmitt,HYUNDAI,SANTRO XING,2021,232199,5%,11836.6685,Budget,41
+19 November 2022,Donald Cortez,Cory Singleton,TATA,NEXON,2017,435899,12%,51960.19975,Budget,54
+26 July 2022,Jennifer Little,Brittany Miller,HONDA,CITY,2011,1047570,8%,86307.72122,Income issues,55
+15 March 2023,Heather Wright,Dr. Cindy Roberts,FORD,ECOSPORT,2010,825999,8%,68570.46717,Income issues,51
+05 March 2023,James Li,Kelly Mills,FORD,ECOSPORT,2021,223599,7%,16163.66108,Budget,19
+26 October 2022,Christopher Ho,Tanya Green,MARUTI SUZUKI,CELERIO(2017-2019),2013,364299,6%,22106.5621,Income issues,28
+29 December 2022,Kevin Ochoa,Travis Fox,AUDI,A6,2021,694799,11%,75843.30044,Budget,63
+20 May 2022,Dylan Martin,Rachel Whitehead,TOYOTA,ETIOS,2022,1012119,10%,99866.77473,Budget,30
+07 July 2022,Jamie Adams,Matthew Fisher MD,VOLKSWAGEN,POLO,2014,307999,9%,28589.36955,Budget,29
+12 March 2023,Mike Davis,Francisco Schneider,MARUTI SUZUKI,SWIFT,2019,323299,10%,30754.00637,Budget,24
+16 January 2023,Austin Beck,John Skinner,HYUNDAI,EON,2016,371299,5%,18565.75202,Income issues,69
+24 January 2023,Valerie Nolan,Shelley Welch,MARUTI SUZUKI,BALENO,2018,143399,9%,12399.91375,Budget,65
+26 December 2022,Robert Conrad,Stephanie Garcia,MARUTI SUZUKI,BALENO,2016,117099,11%,13287.68293,Budget,64
+20 February 2023,Diane Sanders,Denise Velez,MARUTI SUZUKI,SWIFT DZIRE,2021,259099,6%,14282.08242,Budget,40
+27 May 2022,Scott Martin,Christine Bradford,MAHINDRA,XUV300,2012,2750000,14%,372248.2332,Income issues,24
+11 July 2022,Daniel Roberts,Angela Ramos,MARUTI SUZUKI,CELERIO,2018,291599,7%,21622.78905,Income issues,66
+30 June 2022,David Lee,Andrew Townsend,RENAULT,KWID,2017,313099,12%,37060.83324,Income issues,35
+27 April 2023,Bonnie Gomez,Darlene Travis,MARUTI SUZUKI,ALTO K10,2017,317499,14%,45598.90868,Budget,67
+11 August 2022,Mariah Wood,Mary Taylor,HYUNDAI,I10,2015,678399,13%,90332.56448,Budget,69
+11 July 2022,Veronica Tyler,Leslie Scott,MARUTI SUZUKI,SWIFT DZIRE,2013,949799,12%,117461.7054,Budget,26
+03 March 2023,Jeremy Santiago,Eric Thornton,TATA,NEXON,2015,214699,7%,15972.83681,Budget,23
+16 June 2022,Jason Kerr,Lynn Harris,HYUNDAI,VERNA,2016,189699,14%,25766.45877,Income issues,27
+24 February 2023,Tara Glenn,Carl Hernandez,VOLKSWAGEN,POLO,2017,385399,8%,31130.09256,Income issues,30
+17 March 2023,Jamie Braun,Christine Parker,MAHINDRA,XUV500(2011_2015),2010,448699,14%,63435.60999,Budget,48
+12 August 2022,Robert Woods,Robin Mcintosh,TATA,TIAGO,2021,1646803,9%,143761.2323,Income issues,44
+24 April 2023,Lisa Riley DVM,Jessica Martin,MAHINDRA,MARAZZO,2014,314999,11%,34770.9364,Budget,29
+14 November 2022,Jenny Webster,Jason Pugh,Chevrolet,Corolla,2018,133199,14%,18372.59426,Budget,29
+22 November 2022,Michael Henderson,Ellen Brewer,Toyota,Altima,2010,233999,6%,15151.01103,Income issues,67
+14 May 2022,Melissa Cline,Mrs. Jessica Wilson MD,Toyota,Silverado,2017,301999,9%,25791.73812,Budget,42
+16 October 2022,Caleb Martinez DDS,Michelle Mendez,Chevrolet,Silverado,2021,35000,12%,4145.365316,Budget,23
+01 May 2022,Jason Jackson,Michael Payne,Nissan,Corolla,2022,499199,8%,38351.8252,Income issues,34
+18 February 2023,Michelle Fuller,Kristy Brown,Nissan,Altima,2011,480799,10%,46683.28881,Income issues,64
+11 January 2023,Shannon Cruz,Becky Castillo,Toyota,F-150,2020,257999,14%,34884.72573,Budget,31
+15 October 2022,Charles Guerra,Andrew Duncan,Toyota,Altima,2011,300000,12%,34675.16991,Income issues,54
+13 November 2022,Patrick Doyle,Nathan Diaz,Nissan,Corolla,2011,604299,9%,51962.96818,Budget,23
+16 June 2022,Robert Graham,Dana Mata,Ford,Corolla,2010,341799,7%,24357.42169,Budget,59
+25 April 2023,Amy Pierce,Kyle Hill,Honda,Corolla,2017,700000,11%,77065.85791,Budget,32
+02 September 2022,Joseph Galvan,Kevin Harvey,Nissan,Altima,2016,352399,11%,40317.99994,Budget,43
+17 June 2022,Kirsten Pope,Kendra Stein,Nissan,Altima,2015,216799,13%,28625.32755,Budget,32
+17 May 2022,Peter Schmidt,Sheena Lewis,Chevrolet,Silverado,2016,405499,9%,37350.87135,Budget,66
+27 November 2022,Jeffery Torres,Carol Henry,Honda,Corolla,2020,387399,12%,45990.68411,Budget,70
+19 August 2022,Levi Baker,Stephen Perez,Toyota,Silverado,2022,548599,12%,63693.71898,Budget,42
+23 October 2022,Robert Coleman,Brian Bates,Honda,Silverado,2017,313899,6%,18835.80436,Budget,56
+08 March 2023,Jill Melton,Alejandro Holt,Nissan,Civic,2014,285699,6%,17050.23152,Income issues,28
+30 August 2022,George Compton,Cynthia Wells,Honda,Corolla,2010,300000,7%,21226.75272,Budget,28
+22 March 2023,David Hughes,Eric Hickman,Toyota,F-150,2016,298099,14%,42477.79986,Income issues,52
+27 September 2022,Karen Herman,Jennifer Anderson,Nissan,Silverado,2014,248999,10%,23834.10934,Budget,65
+01 September 2022,Julia Fleming,Daniel Patterson Jr.,Honda,Corolla,2020,472699,5%,25482.2734,Income issues,56
+02 February 2023,Jasmine Ferguson,Molly Crawford,Nissan,Altima,2016,439499,12%,51424.30505,Budget,59
+01 November 2022,Patricia Brooks,Christie Hunter,Toyota,Altima,2015,508499,8%,40286.25235,Income issues,23
+23 October 2022,Kathryn White,Nancy Davis,Nissan,Altima,2014,574799,8%,46148.91386,Income issues,58
+24 January 2023,Eric Hernandez,Michele Morgan,Chevrolet,Silverado,2017,661599,8%,50142.73206,Budget,39
+17 February 2023,Kathryn Wolfe,John Miles,Nissan,Silverado,2018,357399,9%,31959.98368,Income issues,28
+12 April 2023,Andrew West,Renee Phillips,Toyota,Silverado,2017,562599,13%,73529.86943,Income issues,40
+09 February 2023,Stephen Newton,Emily Moses,Honda,Silverado,2014,323499,14%,44271.95846,Budget,52
+28 May 2022,Mary Henry,Ryan Barnes,Ford,Civic,2019,210699,10%,22090.60966,Budget,37
+03 January 2023,Michelle Sherman,Veronica White,Ford,Altima,2014,483299,14%,68670.26721,Budget,70
+20 December 2022,Dr. Kimberly Johnston,Christine Scott,Toyota,Silverado,2020,182799,13%,23637.61266,Budget,30
+19 August 2022,Richard Garcia,Jennifer Ritter,Honda,Corolla,2016,400499,12%,49313.28788,Budget,38
+04 March 2023,Michelle Ayala,Dominique Carlson,Ford,Civic,2020,284099,8%,22690.00505,Budget,66
+27 June 2022,Stephanie Spencer,Audrey Cooper,Ford,Civic,2017,233099,11%,25067.49778,Budget,29
+05 April 2023,Nicole Rivera,Mr. Jake Marquez,Ford,Altima,2019,338399,12%,41292.38518,Income issues,46
+04 May 2022,Edward Brown,Michael Murphy,Toyota,Silverado,2018,364699,13%,45869.22662,Budget,56
+03 February 2023,Sara Patrick,Patrick Thomas,Ford,Civic,2016,431999,9%,40090.35117,Income issues,23
+13 November 2022,Todd Edwards,Michael Chandler,Toyota,Silverado,2019,257199,6%,15211.50134,Budget,37
+25 February 2023,Eileen Guzman,Timothy Miller,Chevrolet,F-150,2013,1708615,10%,174482.8671,Income issues,56
+01 August 2022,Susan Williams,Robert Tucker,Ford,Civic,2013,298599,7%,21241.5328,Budget,36
+27 April 2023,Austin Montoya,John Rogers,Nissan,Silverado,2010,681899,14%,92903.06319,Budget,40
+23 December 2022,Teresa Thompson,John Glenn,Toyota,F-150,2015,313999,10%,32191.38643,Budget,26
+13 April 2023,Walter Wallace,Ashley Marquez,Toyota,F-150,2015,209999,8%,16917.12876,Income issues,57
+19 March 2023,Jose Roth,Joseph Kerr,Ford,Silverado,2014,209999,6%,12857.44072,Income issues,68
+25 May 2022,Jeffery Garcia,Alfred Butler,Honda,F-150,2017,248099,10%,23654.37233,Budget,56
+03 October 2022,Jonathan Burgess,Christopher Smith,Ford,Civic,2011,244399,9%,21391.88498,Budget,40
+14 August 2022,Christine Moyer,Ashley Carr,Chevrolet,Silverado,2015,299699,7%,20741.01247,Budget,44
+25 August 2022,Jeffrey Hicks,Kayla Hernandez,Ford,Silverado,2011,299699,13%,39159.17235,Budget,44
+21 November 2022,Terri Durham,Donna Jones,Ford,Civic,2017,350000,14%,49041.75654,Budget,19
+03 November 2022,Brandon Morrow,Maria White,Ford,Civic,2013,615799,12%,73054.51076,Income issues,21
+05 November 2022,Shawn Hunt,Joseph Livingston,Chevrolet,F-150,2014,615799,9%,57156.68281,Budget,31
+29 April 2023,David Garrison,Justin Moore,Ford,Civic,2017,549299,11%,58193.42426,Budget,30
+29 July 2022,David Grant,Maria Briggs,Nissan,Corolla,2016,378099,11%,40416.8467,Budget,65
+07 February 2023,Kimberly Hall,John Parker,Honda,Silverado,2015,378099,11%,40342.10822,Income issues,39
+06 February 2023,Roger Randolph,Gabriel Garcia,Chevrolet,Altima,2019,378099,15%,55374.07816,High traffic urban area,64
+08 August 2022,Jacob Moore,Randy Noble,Toyota,Corolla,2020,476299,14%,65547.45764,Pandemic,59
+25 January 2023,Joshua Wilson DDS,James Summers,Ford,F-150,2015,336299,14%,47938.32312,High traffic urban area,49
+31 January 2023,Nicholas Martinez,Kenneth Tyler,Nissan,Altima,2017,758099,10%,77624.62069,High traffic urban area,24
+23 April 2023,Robert Gibson,Kirk Lowe,Toyota,Altima,2017,508499,15%,76219.01914,High traffic urban area,19
+19 September 2022,Mary Torres,Kathleen Perry,Nissan,Corolla,2021,411499,9%,37877.6953,High traffic urban area,27
+28 September 2022,Gerald Peterson,Daniel Keller,Chevrolet,Civic,2017,285899,10%,28636.63672,Pandemic,56
+15 April 2023,Samuel Bailey,Pamela Fisher,Ford,Altima,2010,719499,14%,102073.94,High traffic urban area,49
+23 June 2022,Kevin Lyons,Anthony Fleming,Chevrolet,Corolla,2011,279999,9%,23872.49385,Pandemic,41
+10 February 2023,Joseph Adams,Barry Decker,Nissan,Silverado,2019,241699,6%,14951.03585,High traffic urban area,36
+14 April 2023,Gary Mccarthy,Mary Johnson,Nissan,Altima,2011,288599,7%,21352.84097,Pandemic,68
+17 July 2022,Rebecca Blair,Michael Carlson,Ford,Civic,2013,395399,8%,30108.64937,High traffic urban area,28
+11 June 2022,Brandon Brown,Kevin Davis,Honda,Civic,2011,396999,8%,33723.18117,Pandemic,45
+07 September 2022,Sharon Williams,Miranda Moore,Ford,F-150,2017,274599,8%,21761.02676,High traffic urban area,60
+11 February 2023,Hannah Perez,Stephanie Stanley,Honda,Altima,2012,297499,11%,32329.20318,High traffic urban area,21
+05 May 2022,Donald Hickman,Donald Smith,Chevrolet,Altima,2010,232499,9%,21393.85466,High traffic urban area,32
+18 July 2022,Jennifer Diaz DVM,Casey Saunders,Chevrolet,Corolla,2011,224999,5%,11469.68623,High traffic urban area,27
+14 February 2023,Kimberly Hall,Laura Jones,Toyota,F-150,2022,334199,14%,46343.68427,Pandemic,40
+16 November 2022,Anthony Brady MD,Kim Aguilar DDS,Toyota,F-150,2014,274399,8%,21133.20323,High traffic urban area,64
+31 May 2022,Bobby Kelly,Danielle Mack,Chevrolet,F-150,2012,329099,13%,43993.07173,High traffic urban area,18
+26 August 2022,Carol Liu,James Taylor,Honda,Corolla,2015,,15%,0,High traffic urban area,22
+17 August 2022,Michael Mcneil,Jessica Hamilton,Nissan,Altima,2020,374499,11%,42833.30891,High traffic urban area,42
+22 January 2023,Jessica Jimenez,Jennifer Hernandez,Honda,Altima,2022,176099,8%,14227.56837,High traffic urban area,57
+03 September 2022,Jessica Guerrero,Mark Dudley,Nissan,Silverado,2020,420299,6%,26196.1706,High traffic urban area,33
+18 March 2023,Christian Carter,Alexander Stokes,Chevrolet,F-150,2012,369999,13%,48909.55422,Pandemic,37
+07 August 2022,Gregory Lewis,Christina Murphy,Ford,Corolla,2012,,9%,0,Pandemic,21
+27 April 2023,Jesse Lawrence,Brandon Wolf,Ford,Civic,2016,187099,13%,24536.84307,High traffic urban area,51
+10 March 2023,Jordan Evans,Madison Rivera,Honda,F-150,2022,700000,10%,69555.09103,Pandemic,30
+08 October 2022,Nicholas Ballard,Sharon Maxwell,Chevrolet,Altima,2020,290399,7%,21257.56282,High traffic urban area,68
+03 December 2022,Mrs. Ruth Stanley MD,Christopher Dominguez,Chevrolet,Civic,2015,326599,10%,32984.32579,High traffic urban area,36
+29 September 2022,Tracy Ramirez,Kimberly Hughes,Toyota,Altima,2010,342699,11%,38189.03243,High traffic urban area,46
+10 December 2022,Casey Cohen,Michelle Beck,Ford,Silverado,2021,312299,9%,26840.59395,High traffic urban area,41
+13 February 2023,Darlene Johnson,Thomas Peters,Ford,F-150,2016,812999,13%,108191.4809,Pandemic,68
+18 October 2022,Karla Blackwell,Ryan Hernandez,Ford,Civic,2010,,13%,0,High traffic urban area,21
+27 May 2022,April Young,Courtney Sullivan,Nissan,Civic,2022,496099,14%,70356.66329,High traffic urban area,62
+13 November 2022,Megan Tate,Jennifer Hall,Chevrolet,Civic,2010,391899,11%,45062.97073,High traffic urban area,59
+08 June 2022,Erik Leonard,Joel Garrett,Nissan,Silverado,2014,691299,6%,40177.4205,High traffic urban area,25
+13 September 2022,Lance Flores,Jeffrey Cooper,Toyota,Civic,2020,305599,11%,34027.24243,High traffic urban area,53
+22 March 2023,Melissa Jacobs,Dillon Johnson,Honda,Silverado,2012,669799,9%,62581.79374,High traffic urban area,31
+25 July 2022,Todd Fisher,Jose King,Nissan,Corolla,2017,388799,5%,20815.52383,High traffic urban area,46
+29 January 2023,Zachary Hanson,Andrew Roth,Honda,Civic,2011,439399,9%,38354.75118,High traffic urban area,26
+12 May 2022,Mrs. Regina Walker,Courtney Wright,Honda,F-150,2012,240599,6%,14567.79299,Pandemic,47
+23 July 2022,Daniel Schaefer,Angel Rose,Ford,F-150,2019,272399,13%,36215.75615,High traffic urban area,37
+04 January 2023,Juan Diaz,Rachel Bowen,Nissan,F-150,2021,90000,8%,6936.50714,High traffic urban area,55
+02 March 2023,Jennifer Williams MD,Michael Orozco,Honda,Altima,2019,567599,11%,62428.49417,High traffic urban area,30
+07 March 2023,Nicholas Thompson PhD,Donald Diaz,Toyota,Silverado,2022,272199,6%,16939.78049,High traffic urban area,19
+23 December 2022,Seth Lewis,Joseph Tran,Toyota,Corolla,2010,,11%,0,High traffic urban area,36
+29 September 2022,Amanda Brown,Gabriel Anderson,Nissan,Civic,2021,,6%,0,High traffic urban area,23
+03 February 2023,Joshua Rogers,Leslie Garcia,Toyota,Corolla,2010,355799,13%,46452.21746,High traffic urban area,62
+26 April 2023,Jennifer Norman,Laura Brown,Toyota,Civic,2022,393299,13%,52221.7866,High traffic urban area,26
+25 October 2022,Peter Christensen,Cynthia Cabrera,Chevrolet,Silverado,2018,,13%,0,High traffic urban area,36
+17 December 2022,Alicia Mathis,Stephen Russell,Toyota,Silverado,2013,1154428,15%,169432.6425,High traffic urban area,33
+24 July 2022,Brandon Gonzalez,Patrick Brady,Honda,Silverado,2016,256999,14%,35144.14536,High traffic urban area,32
+20 August 2022,Carol Cabrera,Zachary Brown,Chevrolet,Civic,2017,655599,8%,54540.11927,High traffic urban area,56
+26 April 2023,Bradley Lopez,Jessica Reid,Chevrolet,Corolla,2015,401899,6%,25049.4942,High traffic urban area,58
+13 December 2022,Deborah Perez,Jason Murphy,Toyota,Silverado,2013,505799,9%,47321.51007,High traffic urban area,34
+21 August 2022,Rodney Thomas,Timothy Ellis,Toyota,Corolla,2011,,7%,0,High traffic urban area,61
+15 February 2023,Lauren Murphy,Randall Yang,Toyota,Silverado,2014,,14%,0,Pandemic,48
+11 May 2022,Angela Wood,Cory Rogers,Honda,F-150,2017,,9%,0,Income issues,25
+23 March 2023,Carol Taylor,Bradley Wilcox,Honda,Civic,2010,,7%,0,Income issues,51
+16 April 2023,Eduardo White,Brenda Werner,Honda,Corolla,2021,100000,7%,7133.194532,Budget,29
+24 August 2022,Debbie Smith,Scott Donovan,Honda,Civic,2017,500000,8%,41641.73669,Budget,54
+03 November 2022,Charles Patrick,Donald Gregory Jr.,Nissan,Altima,2020,273199,6%,15164.51382,Income issues,48
+22 March 2023,Roger Strong,Adam Richardson,Nissan,Altima,2019,289799,10%,28535.29292,Income issues,62
+23 December 2022,Tracy Li,Amber Wells,Honda,Civic,2014,213599,5%,11571.2232,Budget,18
+16 January 2023,Curtis Gutierrez,Jorge Williams,Toyota,F-150,2011,447599,14%,63467.62125,Budget,43
+31 August 2022,Russell Graham,Benjamin Boyle,Honda,Civic,2017,900799,14%,127711.4308,Budget,22
+13 December 2022,David Guzman,Sheila Frank,Nissan,Silverado,2022,432099,15%,64768.17882,Budget,68
+09 December 2022,Cindy Parker,Amanda Ferrell,Honda,Corolla,2011,481099,13%,62099.9379,Budget,44
+23 December 2022,Mrs. Jennifer Page,Kyle Collins,Honda,Altima,2018,411499,10%,42523.50392,Budget,51
+07 May 2022,Lindsay Scott,Roberta Wall,Nissan,F-150,2016,248699,13%,33047.13146,High traffic urban area,66
+10 January 2023,Katherine Castro,Colin Wilson,Chevrolet,Corolla,2021,429199,9%,39386.29134,High traffic urban area,59
+25 March 2023,Ian Armstrong,Ashlee Guzman,Nissan,Civic,2013,550000,12%,67161.60512,High traffic urban area,60
+29 May 2022,Charles Johnson,Robert Conley,Ford,Civic,2021,420099,9%,36262.32623,High traffic urban area,31
+03 February 2023,Jessica Thompson,Nancy Cooley,Nissan,Silverado,2012,488599,15%,72791.97557,High traffic urban area,20
+25 September 2022,Amy Hebert,Ashley Benton,Toyota,F-150,2011,345299,7%,22497.62412,High traffic urban area,24
+27 April 2023,Brian Mullen,Christine Perez,Chevrolet,Silverado,2014,353199,6%,20934.7887,High traffic urban area,48
+24 March 2023,Jessica Navarro,Michael Dawson,Chevrolet,F-150,2012,,12%,0,High traffic urban area,39
+01 May 2023,Chelsea Lucero,Stanley Perez,Nissan,Civic,2021,228299,12%,26986.61756,High traffic urban area,34
+02 December 2022,Amber Williams,Rachel Estrada,Toyota,Corolla,2013,1082011,13%,143004.902,High traffic urban area,70
+16 September 2022,Carl Wright,Mrs. Karla Horn,Ford,Corolla,2020,695999,14%,100116.2596,Pandemic,59
+20 February 2023,Angela Johnson,Samuel Duke,Ford,Altima,2017,384299,11%,44184.39754,High traffic urban area,45
+24 August 2022,Glenn Gonzalez,Kendra Clark,Ford,F-150,2014,272899,9%,23657.58727,High traffic urban area,35
+30 June 2022,James Sutton,Tammy Ward,Honda,Silverado,2016,375000,8%,30130.46616,High traffic urban area,69
+29 April 2023,Benjamin Burton,Valerie Salazar,Ford,Altima,2018,100000,8%,8359.025515,High traffic urban area,58
+04 January 2023,Danielle Murphy,Crystal Dean,Honda,Civic,2022,286399,12%,34819.32358,High traffic urban area,25
+25 October 2022,Brittney Hale,Anthony Peters,Toyota,Corolla,2018,163199,14%,22827.43724,High traffic urban area,27
+14 December 2022,Brenda Adams,Yvonne Harper,Honda,F-150,2015,283299,14%,40945.16225,High traffic urban area,34
+25 May 2022,Michelle Santana,Andrea Diaz,Ford,Silverado,2014,346399,15%,51170.48119,High traffic urban area,53
+18 April 2023,Stacey Bradley,Tina Simpson,Nissan,Civic,2013,205299,14%,28162.41827,High traffic urban area,58
+17 April 2023,Jerry King,Chelsea Webb,Chevrolet,Corolla,2014,1211594,15%,180514.721,High traffic urban area,32
+03 February 2023,Matthew Cooper,Julia Mcclain,Chevrolet,Altima,2019,253799,6%,16303.84513,High traffic urban area,64
+01 June 2022,Kenneth Leon,Tommy Gonzalez,Nissan,Silverado,2018,287299,9%,24512.44246,High traffic urban area,63
+29 April 2023,Joel Torres,Daniel Case DVM,Ford,Altima,2010,1184223,11%,127155.0596,High traffic urban area,23
+02 June 2022,Heather Gonzalez,Michelle Bush,Chevrolet,Corolla,2019,187099,9%,16647.05526,Pandemic,64
+28 February 2023,Colton Cooper,Dr. Michelle Guerra,Chevrolet,Altima,2010,185599,12%,22307.92876,High traffic urban area,18
+01 November 2022,Paul Taylor,Thomas Edwards,Ford,Silverado,2015,715299,11%,76292.17146,High traffic urban area,25
+28 November 2022,Ryan Williamson,Dana Hampton,Nissan,Corolla,2018,460099,13%,59253.25851,High traffic urban area,54
+19 January 2023,Kyle Jackson,Mr. Shawn Johnson,Ford,Corolla,2018,499099,15%,74107.6951,High traffic urban area,60
+04 May 2022,Richard Howard,Larry Andrews,Toyota,Altima,2022,623899,12%,75377.35819,High traffic urban area,36
+24 July 2022,Jacob Wade,Christopher Jenkins,Ford,Altima,2015,150000,9%,13863.87982,High traffic urban area,66
+09 March 2023,Richard Anderson,Caitlin Hughes,Nissan,Civic,2011,259599,9%,23425.4775,High traffic urban area,60
+15 March 2023,Sean Robinson,Lydia Fleming,Ford,F-150,2022,295000,6%,18303.12884,High traffic urban area,59
+29 June 2022,George Hawkins,William Juarez,Honda,Corolla,2016,338699,14%,47795.46356,Pandemic,58
+26 August 2022,Debbie Wells,Kathryn Park,Honda,Civic,2021,595999,8%,46119.24749,Pandemic,35
+14 February 2023,Haley Campbell,Kaitlin Rogers,Ford,Altima,2019,174000,7%,11520.81698,High traffic urban area,20
+28 March 2023,David Miles,Angela Hall,Toyota,Altima,2012,152000,13%,19970.78301,High traffic urban area,70
+16 March 2023,Albert George,Brian Wagner,Nissan,Silverado,2019,567099,13%,72695.51753,High traffic urban area,54
+03 January 2023,Nathan Whitehead,Jessica Becker,Ford,Civic,2011,203899,13%,25696.34541,High traffic urban area,38
+16 April 2023,Joseph Moore,Phillip Conley,Ford,F-150,2020,386599,7%,28606.54762,High traffic urban area,54
+30 January 2023,Miss Andrea Cox,Anthony Gordon,Ford,F-150,2010,423899,7%,29632.17852,Pandemic,33
+19 February 2023,Danny Hall,Kevin Morris,Honda,F-150,2019,70000,6%,4060.030082,High traffic urban area,46
+21 October 2022,Christina Adkins,Katie Bell,Honda,Civic,2022,604999,11%,67197.91078,High traffic urban area,58
+22 October 2022,Brian Ramos,Hunter Mccoy,Ford,Civic,2021,431499,10%,44662.96912,Pandemic,30
+07 November 2022,Edward Fowler,Jacob Woods,Honda,F-150,2018,224999,13%,29494.61142,High traffic urban area,42
+25 September 2022,Richard Garcia,Scott Humphrey,Chevrolet,Silverado,2010,307999,10%,29519.62026,High traffic urban area,28
+24 January 2023,Dr. Samantha Young,John Nunez,Chevrolet,Corolla,2011,448399,13%,57094.3891,High traffic urban area,43
+07 June 2022,Amber Shaw,Jeffrey Cameron,Ford,Silverado,2012,375000,14%,53119.40812,High traffic urban area,31
+04 February 2023,Warren Matthews,Debra Gaines,Toyota,Corolla,2013,622599,8%,46975.25314,High traffic urban area,39
+28 October 2022,Teresa Scott,Nancy Miller,Toyota,Altima,2012,367799,9%,32514.11563,Pandemic,69
+20 January 2023,Hannah Lawson,Stephanie Osborne,Nissan,Corolla,2022,472799,11%,52580.0809,High traffic urban area,31
+09 September 2022,David Long,Laura Mccullough,Ford,F-150,2012,1052216,8%,79121.84046,High traffic urban area,44
+22 November 2022,Tina Sanchez,Rebecca Thompson,Nissan,Civic,2014,286099,12%,33221.07308,High traffic urban area,39
+21 July 2022,Patricia West,Michael Michael,Toyota,F-150,2014,367699,5%,19728.79446,High traffic urban area,24
+01 January 2023,Paige Miller,Barbara Wong,Honda,Altima,2013,839099,15%,124314.1744,High traffic urban area,28
+16 December 2022,James Olsen,Joseph Richard,Nissan,F-150,2014,631699,5%,33748.22577,High traffic urban area,48
+26 March 2023,Daniel Branch,Nicholas Snow,Chevrolet,F-150,2010,356599,13%,45871.43099,High traffic urban area,39
+06 May 2022,Trevor Campbell,Mrs. Misty Porter,Honda,Altima,2022,671999,11%,75288.73219,High traffic urban area,64
+16 February 2023,John Pollard,Amy Ray,Ford,Silverado,2012,709499,10%,72899.5497,High traffic urban area,28
+03 July 2022,Craig Colon,Joseph Garcia,Toyota,Civic,2022,456899,12%,54045.0739,High traffic urban area,39
+27 April 2023,Kyle Atkins,Benjamin Meadows,Ford,Silverado,2011,878999,9%,78553.4681,High traffic urban area,49
+17 December 2022,Eric Byrd,Jasmine Crawford,Chevrolet,Civic,2015,483899,7%,35142.81625,High traffic urban area,22
+20 February 2023,Alexander Reed,Barbara Sanchez,Ford,F-150,2011,157399,15%,22970.48165,Pandemic,25
+16 January 2023,Meagan Mckenzie,Jessica Berry,Ford,Civic,2015,306999,5%,16835.41808,High traffic urban area,40
+22 December 2022,Kari Garcia,Sarah Mason,Chevrolet,Corolla,2016,536399,13%,71288.31235,High traffic urban area,23
+20 October 2022,Robert Navarro,Lauren Medina,Honda,Civic,2022,331799,10%,34417.5649,High traffic urban area,24
+26 May 2022,Pamela Smith,Stacey Brown,Ford,F-150,2016,1972932,12%,245330.4764,High traffic urban area,66
+16 August 2022,Madison Brewer,Erica Jones,Honda,Corolla,2011,733899,11%,77806.3867,High traffic urban area,27
+11 October 2022,Sarah Jackson,Julie Flowers,Ford,Civic,2010,383999,12%,47833.595,Pandemic,62
+21 October 2022,Anthony Baker,Claudia Campbell MD,Nissan,Corolla,2011,420000,8%,35024.45209,High traffic urban area,70
+31 January 2023,Robert Mack,Julia Gardner,Toyota,F-150,2018,286499,13%,38403.45475,Pandemic,43
+19 August 2022,Michael Parker,Ashley Nelson,Toyota,Corolla,2012,241499,7%,16385.97842,High traffic urban area,45
+24 January 2023,Amy Burke,Kevin Harrison,Ford,F-150,2018,408899,8%,33592.14475,High traffic urban area,63
+17 November 2022,Steven Hernandez,Miranda Stanley,Chevrolet,Altima,2022,351199,12%,42946.70059,Pandemic,69
+07 March 2023,Desiree Cannon,Robert Burke,Ford,Silverado,2021,620299,13%,79819.50442,Pandemic,59
+28 January 2023,Melissa Ford,John Orozco,Honda,F-150,2022,413499,7%,29183.53245,High traffic urban area,19
+09 October 2022,Vanessa Vance,Marie Evans,Chevrolet,F-150,2021,206999,8%,16907.75129,High traffic urban area,63
+24 July 2022,Mark Brooks,Tammy Brown,Chevrolet,F-150,2018,312699,6%,18779.82778,High traffic urban area,37
+05 July 2022,Gregory Gonzalez,James Gallagher,Toyota,Silverado,2014,188399,15%,28019.23933,High traffic urban area,37
+09 September 2022,Robert Blanchard,Daniel Lin,Toyota,Civic,2018,450000,15%,65679.14915,High traffic urban area,50
+25 April 2023,Mr. Ronald Nunez,Sara Fletcher,Chevrolet,Corolla,2017,334299,8%,26391.94586,High traffic urban area,60
+07 June 2022,Kyle Garrison,Krystal Glass,Honda,Corolla,2014,554499,9%,51709.73888,High traffic urban area,46
+12 September 2022,Bryan Robbins,Anne Ferrell,Toyota,Civic,2019,524699,10%,49897.66966,Pandemic,35
+18 October 2022,Andrew Martinez,David Garrett,Honda,Silverado,2015,441299,10%,45806.69132,Pandemic,66
+05 July 2022,David Russell,Michael Miller,Nissan,Silverado,2016,210099,9%,19135.66228,High traffic urban area,35
+18 December 2022,Edward Rodriguez,Amanda Anderson,Ford,Civic,2018,394499,12%,47597.51191,High traffic urban area,20
+21 July 2022,Bryan Jones,Nicole Parsons,Chevrolet,Civic,2017,331799,10%,33257.51159,Pandemic,55
+23 January 2023,Jason Sparks,John Olson,Honda,Corolla,2015,880799,8%,73956.05839,High traffic urban area,34
+10 January 2023,Mark Greene,Samantha Hill,Chevrolet,Civic,2014,224699,12%,26396.60308,Pandemic,60
+31 March 2023,David Yang,Christopher Roberts,Chevrolet,Altima,2012,322399,6%,17734.58582,High traffic urban area,22
+22 December 2022,Jonathan Sullivan,Joshua Ali,Ford,Corolla,2014,918099,12%,114682.5914,High traffic urban area,26
+03 May 2022,Daniel Garcia,David Johnson,Nissan,Altima,2015,212999,10%,22239.18302,Pandemic,39
+27 January 2023,William Kerr,Joseph Elliott,Ford,Civic,2022,374799,7%,24445.82721,High traffic urban area,20
+13 January 2023,Crystal Montoya,Kirsten Thompson DDS,Chevrolet,Civic,2012,471799,9%,44160.83899,High traffic urban area,57
+16 May 2022,Mark Wagner,Timothy Sims,Toyota,F-150,2018,409199,10%,39731.53275,High traffic urban area,68
+19 November 2022,Mary Griffin,Morgan Blair,Toyota,Altima,2012,246199,12%,30152.25439,High traffic urban area,50
+26 May 2022,Jacqueline Mcintosh,Virginia Christensen,Nissan,F-150,2014,526999,9%,45597.37916,High traffic urban area,21
+19 December 2022,Timothy Becker,Andrew Bowen,Ford,Civic,2012,268299,5%,14044.81995,Pandemic,29
+17 September 2022,Kathleen Richardson,Casey Marshall,Honda,Corolla,2020,517499,13%,68472.2189,Budget,38
+20 November 2022,Susan Maxwell,Jade Taylor,Nissan,Civic,2021,401000,8%,32495.41887,Income issues,54
+26 December 2022,Monica Patterson,Samuel Harris,Toyota,F-150,2017,625799,11%,71604.05164,Budget,22
+12 December 2022,Brianna Diaz,Kevin Aguilar,Chevrolet,F-150,2021,788399,14%,112776.0162,Income issues,29
+17 January 2023,Dr. Daniel Young PhD,Nicholas Lam,Ford,F-150,2013,244499,14%,34920.01575,Budget,41
+01 October 2022,Deanna Coleman,George Johnson,Ford,Altima,2022,364899,8%,28644.55888,Budget,26
+18 February 2023,David Haynes,Marie Green,Honda,Silverado,2019,235999,11%,26660.65404,Budget,69
+27 May 2022,Olivia Nunez,Allen Alvarado,Nissan,F-150,2020,371599,6%,23854.93766,Budget,20
+17 March 2023,Judy Booker,Herbert Harris PhD,Ford,F-150,2011,315299,9%,27274.32202,Income issues,59
+04 November 2022,Justin Fry,Pamela Anderson,Ford,F-150,2015,80000,12%,9803.354765,Income issues,63
+26 February 2023,Glenda Contreras,Joseph Salazar,Nissan,F-150,2011,238599,9%,21981.62033,Budget,68
+25 July 2022,Eric Johnson,Joshua Webb,Toyota,Corolla,2015,766099,9%,68302.99392,Budget,50
+13 May 2022,Edgar Jones,Kelly Herman,Chevrolet,F-150,2021,279599,9%,24547.3289,Income issues,55
+14 March 2023,Jay Parks,Michelle Hayes,Toyota,Corolla,2019,325299,10%,31285.92162,Budget,36
+18 May 2022,Anna Ponce,Sharon Tapia,Nissan,Civic,2022,1155236,14%,156373.9318,Budget,18
+13 June 2022,Anthony Hernandez,Toni Smith,Honda,Silverado,2016,257399,13%,32536.74194,Budget,68
+25 March 2023,Shannon Chambers,Shane Underwood,Nissan,F-150,2021,242299,13%,31093.04868,Budget,56
+21 February 2023,Jose Green,Ariana Boyd,Ford,Silverado,2018,280099,13%,36862.6565,Budget,32
+13 April 2023,Vanessa Clark,Olivia Hall,Nissan,F-150,2017,411099,11%,45154.61556,Income issues,28
+13 April 2023,Julie Carpenter,Kevin Marshall,Honda,F-150,2016,435099,6%,25905.94205,Budget,24
+02 December 2022,Jenna Gomez,Steven Jackson,Ford,Civic,2015,270799,14%,38274.76142,Budget,59
+28 December 2022,Emily Morse,Sarah Mason,Ford,Altima,2018,432099,10%,41619.67481,Budget,56
+21 November 2022,Maria Walker,Nicole Warren,Nissan,Corolla,2012,209599,10%,20612.96789,Budget,30
+17 August 2022,Charles Holland,Aaron Wells,Chevrolet,Civic,2020,773199,8%,64747.49608,Budget,48
+24 January 2023,Timothy Blanchard,Tiffany Mathews,Toyota,Silverado,2012,803399,6%,51888.45649,Income issues,60
+28 January 2023,Kevin Wolfe,Jason Yates,Chevrolet,Corolla,2010,557099,9%,49883.21261,Budget,46
+11 May 2022,Brian Cox,Jessica Gilmore,Ford,Corolla,2022,196999,7%,13037.25582,Budget,69
+29 November 2022,Andrea Hart MD,Raymond West,Honda,Corolla,2015,436999,11%,47988.80541,Budget,19
+25 September 2022,Jo Taylor,Holly Hardy,Ford,F-150,2012,453399,13%,58344.13107,Income issues,66
+07 September 2022,Angelica Hughes,Jacob Stokes,Honda,F-150,2013,387899,13%,49270.16069,Budget,64
+19 April 2023,Janice Curtis,Henry Ayala,Chevrolet,Corolla,2021,201899,9%,18603.43143,Budget,54
+04 December 2022,Melvin Martin,Carrie Boyd,Chevrolet,F-150,2013,417399,14%,60336.57876,Income issues,27
+24 May 2022,James Vega,Harold Hernandez DVM,Honda,Corolla,2021,651999,6%,37217.92709,Budget,64
+06 May 2022,Mr. Nicholas Reynolds,Tanner Collier,Chevrolet,Civic,2018,252799,7%,17232.32996,Budget,43
+26 March 2023,Debbie Roberts,Jose Ward,Chevrolet,Altima,2012,625199,7%,40918.15292,Budget,43
+22 December 2022,Emily Bean,Marcus Bullock,Ford,F-150,2017,500000,6%,31279.95401,Income issues,27
+01 December 2022,William Glover DDS,Erica Alexander,Honda,Civic,2022,338099,9%,31789.14792,Budget,35
+12 March 2023,Michael Brown,Carlos Phelps,Ford,Civic,2010,305099,5%,16292.53616,Income issues,43
+05 September 2022,Mr. Eric Harding,Martin Wells,Toyota,Civic,2017,552599,15%,81596.50191,Income issues,57
+29 August 2022,Cheryl Cook,Colin Welch,Chevrolet,Civic,2019,371499,6%,22270.98134,Income issues,50
+16 December 2022,Michele King,Katelyn Mercado,Nissan,F-150,2018,830699,12%,96857.92946,Income issues,37
+01 May 2022,Rodney Howell,Tina Zimmerman,Toyota,Altima,2010,691699,7%,46524.0004,Budget,68
+11 August 2022,Caitlyn Bennett,Sandra Chase,Honda,F-150,2012,612000,14%,87888.75975,Budget,22
+27 April 2023,Hannah Moore,Elizabeth Taylor,Chevrolet,Corolla,2013,714199,12%,86796.32477,Income issues,58
+05 May 2022,Victoria Lindsey,Jennifer Stark,Ford,Altima,2013,327799,7%,24110.95704,Income issues,48
+02 December 2022,Jesse Roberts,Raymond Rocha,Chevrolet,Silverado,2010,658899,9%,60613.67558,Budget,30
+22 June 2022,Richard Nguyen,John Bell,Chevrolet,Silverado,2017,790299,13%,103704.8468,Income issues,51
+20 April 2023,Thomas Franklin DDS,Jamie Tucker,Toyota,Civic,2013,240599,10%,25028.32386,Budget,20
+03 November 2022,Joseph Burnett,Pamela Johnson,Honda,F-150,2022,555899,9%,49909.10183,Budget,30
+16 February 2023,Robert Sparks,George Kennedy,Toyota,Silverado,2019,504899,10%,49037.83831,Budget,28
+12 December 2022,Andrea Maxwell,Todd Jordan,Toyota,Corolla,2017,89099,6%,4947.006163,Budget,37
+16 January 2023,Mark Sanders,Chris Hernandez,Chevrolet,Civic,2011,637399,11%,67071.55086,Income issues,36
+13 July 2022,Melissa Farmer,Candace Rowe,Toyota,F-150,2015,386599,6%,23752.20323,Budget,18
+21 April 2023,Brian Valencia,Allen Garcia,Chevrolet,F-150,2018,397499,15%,58367.37135,Budget,52
+06 September 2022,Patricia Castillo,Rickey Price,Toyota,Corolla,2019,380000,6%,23789.74523,Budget,56
+16 November 2022,Jacqueline Barr,Tammy Bright,Ford,F-150,2012,1071103,9%,93876.0273,Income issues,68
+19 November 2022,Cindy Lee,Jonathan Garner,Toyota,Silverado,2018,264199,7%,19211.13199,Income issues,62
+02 January 2023,Andrea Combs,Lisa Humphrey,Nissan,Altima,2020,221899,14%,30218.77058,Income issues,35
+20 January 2023,Laura Lee,Matthew King,Chevrolet,F-150,2011,402399,14%,55641.02568,Budget,65
+18 December 2022,Zachary Allen,Russell Davidson,Honda,Civic,2022,347699,11%,37607.0766,Budget,69
+29 April 2023,Robert Collins,Samantha Simmons,Toyota,Altima,2017,457099,10%,47697.27948,Budget,28
+03 July 2022,Haley Burns,Erica Hall,Toyota,Altima,2020,251299,10%,23938.16719,Budget,37
+09 July 2022,Jason Hodge,Mr. Michael Harmon,Nissan,Civic,2021,263599,13%,34744.28213,Income issues,41
+22 March 2023,Stacy Richmond,Heather Norris,Honda,Silverado,2020,260299,12%,30456.05412,Income issues,37
+16 March 2023,Tyler Montgomery,Janet Cole,Toyota,Altima,2018,802199,8%,60820.78447,Budget,25
+25 September 2022,Ronald Castillo,Jose Arroyo,Nissan,Silverado,2022,350000,12%,43720.43662,Income issues,41
+23 October 2022,Elizabeth Fields,Karen Kelley,Chevrolet,Altima,2020,290699,15%,42187.36543,Budget,48
+09 June 2022,Mary Perry,Nathaniel Baker,Chevrolet,F-150,2011,582899,13%,76644.11143,Budget,42
+21 June 2022,Jonathon Lawson,Casey Meyer,Nissan,Silverado,2014,478299,9%,45071.91404,Income issues,54
+26 October 2022,Marie Chapman,Monica Gray,Ford,Silverado,2014,987199,7%,66579.26921,Budget,18
+22 December 2022,Mark Romero,Krista Fletcher,Nissan,Altima,2014,1389758,8%,104284.0544,Budget,56
+14 October 2022,Rebecca Williams,Cassandra Ayala,Toyota,Corolla,2014,397799,8%,33365.08533,Income issues,61
+09 February 2023,Michael Terry,Andrew Malone,Ford,Silverado,2011,394099,10%,39644.40622,Income issues,40
+27 November 2022,Shaun Watson,Angela Martin,Honda,F-150,2011,564299,9%,49906.84259,Budget,34
+06 July 2022,Brandi Pineda,Mr. James Hill,Chevrolet,Silverado,2018,723199,9%,68239.93276,Income issues,42
+11 September 2022,Steven Bailey,Julian Johns,Nissan,Civic,2013,593599,8%,46899.89914,Budget,43
+19 September 2022,Cheryl Carroll,Tina Perez,Ford,Civic,2018,1122108,6%,62520.84801,Budget,47
+06 January 2023,Kaitlyn Stanley,Drew Cantu,Nissan,Silverado,2012,546199,10%,54014.45837,Budget,48
+20 August 2022,Patricia Thompson,John Jones,Nissan,Altima,2019,288499,8%,23434.14217,Budget,20
+29 March 2023,James Macias,Amy Johnson,Toyota,Civic,2015,401099,15%,59498.82329,Budget,65
+14 December 2022,Jane Blake,Steven Stevens,Nissan,Silverado,2017,218899,14%,30447.43265,Budget,54
+04 November 2022,Tiffany Hays,Richard Moore,Nissan,Civic,2017,349299,7%,24729.09107,Budget,23
+02 January 2023,Vickie Long,James Thomas,Toyota,Altima,2018,311399,14%,43210.16116,Budget,18
+23 July 2022,Scott Brown,Debra Freeman,Nissan,Altima,2021,623799,11%,70659.75775,Budget,70
+05 January 2023,Maria Jensen,Donna Walker,Ford,Altima,2018,777299,9%,69699.77824,Income issues,55
+03 May 2022,Aaron Williams,Christopher Macdonald,Ford,Corolla,2020,184699,13%,23427.78103,Budget,49
+05 November 2022,Elizabeth Riley,Seth Thomas,Chevrolet,Civic,2018,460899,8%,37403.41713,Income issues,26
+15 March 2023,Christine Terrell,Michael Owens,Toyota,F-150,2015,680899,12%,84609.95359,Budget,33
+28 April 2023,Michael Bond,Mario Rivera,Ford,Corolla,2014,936699,13%,124881.7753,Income issues,20
+08 June 2022,Abigail Morales,Tony Wilson,Ford,Corolla,2013,570399,13%,71902.8097,Budget,41
+07 August 2022,Michael Wilson MD,Julie Gonzalez,Toyota,F-150,2019,256099,7%,18815.80222,Income issues,18
+20 March 2023,Steven King,Cynthia Douglas,Nissan,Silverado,2022,614099,11%,70058.92664,Income issues,26
+08 January 2023,Robert Mendoza,Mr. Eric Powell,Ford,Altima,2010,189499,10%,19176.61427,Budget,30
+23 June 2022,Bryan Williams,Maria Padilla,Toyota,Altima,2015,775000,12%,93980.24949,Income issues,64
+04 October 2022,Patrick Cisneros,Jordan Sanford,Chevrolet,Altima,2012,607399,5%,32847.49473,Income issues,26
+24 July 2022,Alexander Munoz,Bryan Burton,Ford,F-150,2010,541499,5%,29213.84509,Budget,43
+12 June 2022,Cynthia Carter,Paul Robertson,Ford,Corolla,2020,240899,6%,14943.92003,Budget,63
+13 March 2023,Timothy Rhodes,Kimberly Cook,Toyota,Silverado,2021,443099,8%,36669.15219,Budget,57
+22 July 2022,Willie Rice,Ethan Bauer,Ford,Civic,2012,694399,12%,84632.43472,Budget,25
+21 January 2023,Matthew Wallace,Emma Taylor,Chevrolet,Silverado,2010,324199,14%,43924.32548,Budget,68
+04 July 2022,Tracey French,Mr. David Mack MD,Honda,Silverado,2014,380699,15%,55450.15792,Budget,31
+27 May 2022,Robert Li,Arthur Shepherd,Nissan,F-150,2017,180000,9%,15306.35371,Budget,64
+01 October 2022,Ronald Perry,Patrick Taylor,Ford,Altima,2014,590899,9%,54173.43084,Income issues,38
+29 June 2022,Heidi Parks,Juan Coleman,Toyota,Altima,2017,416299,10%,43311.69181,Budget,34
+30 May 2022,Mrs. Donna Mueller,Tonya Hart,Ford,Corolla,2022,756099,11%,85109.76832,Income issues,32
+07 March 2023,Maria Simpson,Michelle Scott,Toyota,Corolla,2022,659499,14%,90681.37543,Budget,69
+19 August 2022,Jason Gonzales,Sharon Fuller,Nissan,Corolla,2020,261699,6%,15074.08745,Income issues,45
+18 August 2022,Jessica Cook,Amy Hawkins,Toyota,Corolla,2022,589399,10%,61818.77046,Budget,35
+04 May 2022,Jeffrey Patel,Mark Lynch,Ford,F-150,2011,413899,10%,40326.52792,Budget,63
+15 July 2022,Jeffrey White,Jeffrey Shaffer,Nissan,Altima,2016,141399,6%,8859.320116,Budget,65
+03 May 2022,Teresa Franklin,Tammy Bailey,Honda,F-150,2021,170000,13%,22056.85261,Income issues,35
+24 October 2022,Joseph Meza,Danny Jackson,Nissan,Altima,2018,690699,9%,64645.5018,Income issues,54
+27 September 2022,Joshua Molina,Jessica Stevenson,Ford,Corolla,2022,476499,11%,52111.23379,Budget,28
+01 December 2022,Cassidy Douglas,Jonathon Davis,Toyota,Silverado,2012,489599,7%,33514.56859,Budget,68
+20 November 2022,Charles Franklin,John Bush,Chevrolet,Corolla,2016,306000,15%,45377.15288,Budget,58
+13 October 2022,Robert Hester,Larry Pugh,Chevrolet,Corolla,2021,575099,12%,69715.13342,Budget,35
+08 May 2022,Dr. Jordan Price,Robert Mills,Chevrolet,Corolla,2012,249299,10%,23924.89468,Budget,68
+19 October 2022,Lauren Lambert,Susan Phillips,Ford,F-150,2013,474499,15%,69419.37297,Income issues,41
+30 June 2022,David Franklin,Craig Hicks,Toyota,F-150,2022,504699,10%,48877.11314,Budget,65
+19 November 2022,Kimberly Sheppard,Melissa Jones,Toyota,Altima,2014,480399,5%,24350.82443,Budget,50
+09 January 2023,Ariana Jones,Alison Thomas,Honda,Corolla,2011,1818604,11%,192018.2105,Budget,18
+19 July 2022,Michael Stewart,Michael Torres,Honda,Corolla,2021,,7%,0,Income issues,38
+27 November 2022,David Adams,Jacqueline Pittman,Toyota,Silverado,2020,500000,8%,40763.13862,Budget,68
+24 April 2023,Mr. Andrew Dickson,Harold Berry,Chevrolet,Civic,2019,237199,12%,27375.32835,Income issues,53
+25 January 2023,Jeremy Smith,Chad Kim,Nissan,Corolla,2010,391999,12%,48057.09633,Budget,58
+30 December 2022,Amanda Riley,Shannon Martin,Toyota,F-150,2010,207499,10%,20242.41613,Income issues,34
+18 August 2022,Linda Ayala DDS,Joseph Wilcox,Chevrolet,Altima,2011,882599,5%,44203.24212,Budget,36
+06 February 2023,Martin Ellison,Holly Lee,Nissan,Altima,2011,622999,12%,73879.82705,Budget,58
+12 October 2022,Stuart Jackson,Krystal Johnson,Nissan,Civic,2016,772499,10%,76374.54122,Budget,60
+07 April 2023,Sarah Monroe,William Garcia,Nissan,Civic,2022,394199,10%,38500.60687,Budget,59
+05 December 2022,Debra Anderson,Brett Kim,Nissan,Silverado,2016,560999,11%,62616.83431,Income issues,65
+09 May 2022,Sherry Foster,Logan Johnston,Ford,Altima,2019,291999,8%,23605.53054,Income issues,31
+10 October 2022,Nathan Taylor,Brittany Hayes,Ford,Altima,2017,430999,6%,27707.76886,Budget,43
+29 September 2022,Lisa Carter,Timothy Mcbride,Ford,Altima,2017,215899,9%,18595.30246,Budget,37
+12 September 2022,Brian Mack,Barbara Garcia,Ford,F-150,2018,184799,11%,20367.10672,Income issues,21
+13 September 2022,Thomas Brown,Adrian Johnson,Nissan,Silverado,2012,616799,9%,54407.23302,Budget,69
+18 February 2023,Christina Morrison,Anna Patton,Ford,Civic,2019,460899,12%,54023.71448,Budget,32
+13 September 2022,Stephanie Jones,Cheryl Anthony,Ford,F-150,2021,343299,14%,49472.36029,Budget,53
+19 March 2023,Joseph Santos,Anne Carr,Nissan,Corolla,2015,465599,13%,59213.59023,Budget,59
+17 February 2023,Pamela Moore,Michael Hansen,Honda,Silverado,2016,,11%,0,Budget,64
+26 January 2023,Lee Rivera,Erin Adams,Chevrolet,F-150,2017,,7%,0,Income issues,63
+15 July 2022,Regina Park,Stephen Webb,Nissan,Altima,2019,,10%,0,Budget,43
+23 April 2023,Connor Martin,Frank Schwartz,Ford,F-150,2013,324599,8%,27585.89269,Budget,19
+19 March 2023,Kyle Foster,Kristina Pierce,Toyota,F-150,2013,421099,15%,62419.71815,Budget,40
+12 January 2023,Stuart Ramirez,Margaret Burke,Toyota,Altima,2010,371199,11%,42285.29918,Budget,51
+12 June 2022,Kevin Ross,Juan Edwards,Nissan,Corolla,2022,499000,15%,72476.18682,Budget,51
+23 January 2023,Rebecca Bryan,Vanessa Gallegos,Toyota,Corolla,2019,650999,6%,38358.25069,Income issues,66
+23 November 2022,Zachary Ross,Elaine Ortiz,Toyota,F-150,2010,884399,14%,122767.3175,Budget,42
+28 November 2022,Nicole Murray,Theresa Perry,Chevrolet,F-150,2019,304399,6%,18763.46065,Budget,22
+30 September 2022,Edward Burton,Jonathon Garcia,Toyota,Corolla,2019,202099,5%,10798.26387,Budget,31
+01 December 2022,Zachary Stevens,Crystal Hurley,Chevrolet,Civic,2014,400599,7%,28672.71943,Income issues,18
+26 August 2022,Joshua Wagner,Jasmine Hunt,Honda,Silverado,2010,361299,14%,49683.11526,Budget,21
+01 September 2022,Jacob Miller,Heather Mclaughlin,Honda,Corolla,2014,386099,10%,36781.32905,Budget,35
+20 August 2022,Anthony Vasquez,Shelby Baker,Honda,F-150,2018,676699,6%,37712.07845,Income issues,35
+10 November 2022,Jody White,Erica Merritt,Ford,Altima,2013,386799,11%,43128.13855,Budget,27
+06 August 2022,Amanda Ho,Michelle Ross,Chevrolet,F-150,2022,382799,13%,48970.26813,Budget,65
+19 June 2022,Matthew Gonzalez,Dylan Myers,Ford,Silverado,2021,,6%,0,Budget,41
+12 June 2022,Jason Gray,Jill Sanchez,Ford,Civic,2020,377299,8%,29548.29111,Income issues,60
+20 December 2022,Steven Clements,Zachary Wiggins,Nissan,Corolla,2017,,11%,0,Budget,61
+11 January 2023,Leslie Barrett,Belinda Williams,Nissan,Civic,2021,,8%,0,Income issues,24
+19 April 2023,Sarah Robinson,Ashley Smith,Toyota,Altima,2021,,7%,0,Income issues,65
+13 April 2023,Jennifer Moore,Jessica Brown,Chevrolet,F-150,2020,,11%,0,Income issues,23
+02 November 2022,Michelle Miller,Michael Payne,Toyota,F-150,2010,252199,12%,31479.23687,Income issues,30
+29 May 2022,Philip Wolf,Rachel Ward,Ford,F-150,2019,387599,15%,56288.06627,Budget,33
+03 March 2023,Mitchell Black,Tyler Fisher,Honda,Corolla,2011,522599,10%,50605.97163,Budget,22
+18 May 2022,Nathan Bell,Kathy King,Nissan,F-150,2019,241799,8%,19794.46544,Income issues,67
+02 October 2022,Lisa Middleton,Shannon Thomas,Honda,Silverado,2020,511499,8%,39020.17168,Income issues,28
+19 August 2022,William Cameron,Joanna Lamb,Toyota,Corolla,2012,289699,14%,39803.87002,Budget,32
+26 August 2022,Rachel Kim,Monica Anderson,Ford,F-150,2016,359199,9%,33311.48894,Income issues,40
+20 November 2022,Diana Clark,Krista Cortez,Chevrolet,Silverado,2010,290699,14%,41308.65359,Budget,64
+26 January 2023,Kevin Flynn,Elizabeth Huber,Nissan,Altima,2011,1182304,15%,174291.9463,Budget,56
+13 March 2023,Joshua Davis,Robert Mason,Nissan,Civic,2012,626999,7%,45815.08101,Budget,63
+12 August 2022,Jacob Lopez,David Ramirez,Chevrolet,Silverado,2018,257499,12%,30700.22807,Budget,20
+12 June 2022,Lauren Sanchez MD,Joshua Chapman,Ford,Corolla,2011,199999,13%,25777.07841,Income issues,54
+25 May 2022,Dennis Burke,Christine Ellis,Honda,Silverado,2015,469999,14%,65286.93759,Budget,31
+14 January 2023,Joseph Crosby,Robert Thompson,Toyota,Silverado,2011,386299,6%,21356.0108,Budget,36
+16 June 2022,Donald Figueroa,Shelia Patel,Nissan,Altima,2013,166199,13%,21520.22613,Budget,25
+14 June 2022,Lindsey Turner,Mark Kim,Ford,Silverado,2018,533399,11%,59255.97406,Income issues,20
+21 July 2022,Ellen Gonzalez,Sheryl Mason,Ford,Corolla,2019,335099,6%,21182.85541,Income issues,62
+27 February 2023,Kathy Kelly,Jessica Richards,Honda,Altima,2020,335099,12%,40483.84376,Income issues,69
+02 September 2022,Stephanie Galloway,Tina Garcia,Toyota,Altima,2014,431399,12%,50804.67772,Budget,54
+09 October 2022,Sheila Romero,Grace Elliott,Ford,F-150,2018,336699,6%,19067.33688,Budget,39
+23 March 2023,Thomas Jones,Dr. Martin Simmons PhD,Chevrolet,Civic,2022,354099,9%,32406.27321,Budget,56
+28 September 2022,Kenneth Morris,John Zimmerman,Ford,Silverado,2011,238299,11%,26126.32878,Budget,39
+13 October 2022,Janice Wolf,Deborah Lee,Nissan,Silverado,2012,199199,13%,26332.47411,Income issues,37
+26 March 2023,Caleb Harrington,Sara Torres,Ford,F-150,2021,280799,14%,38422.27449,Income issues,25
+20 September 2022,Jonathan Weeks,Mr. Johnny Bird Jr.,Nissan,Civic,2020,467399,5%,25465.03216,Budget,35
+02 October 2022,Lori Mckee,Traci Brown,Chevrolet,Silverado,2018,396499,8%,32059.54969,Income issues,45
+24 March 2023,Shelia Scott,Angela Dunlap,Nissan,Civic,2018,396499,9%,35229.84037,Budget,19
+03 September 2022,Craig Sanders,Luke Robinson,Ford,Corolla,2019,187599,11%,20584.5059,Budget,21
+04 February 2023,William Tran,Stephanie Jones,Ford,F-150,2012,567199,9%,52412.04942,Income issues,65
+22 July 2022,Christopher Evans,James Hatfield,Chevrolet,Corolla,2016,520499,9%,44249.87616,Budget,49
+06 May 2022,Jason Duffy,Monica Perez,Toyota,Altima,2019,249599,13%,31275.20882,Budget,30
+07 April 2023,Larry Banks,Roy Taylor DVM,Honda,F-150,2016,487499,6%,31651.53799,Income issues,23
+12 August 2022,Terry Ward,Sheila Huynh,Honda,Civic,2022,366399,7%,24323.18912,Income issues,69
+29 September 2022,Zachary Woods,Thomas Cantu,Honda,F-150,2013,623899,12%,77354.81435,Budget,29
+18 August 2022,Jim Patterson,Sara Patrick,Nissan,Corolla,2011,202899,9%,18029.17124,Income issues,54
+26 August 2022,Robin Johnson,Christopher Nunez,Chevrolet,Corolla,2019,694299,10%,72704.02365,Budget,45
+18 September 2022,Cindy Rodriguez MD,Alyssa Smith,Nissan,Civic,2017,1335521,7%,88282.37653,Budget,25
+06 December 2022,Karen Coffey,Kevin Miller,Toyota,Silverado,2015,376499,7%,26721.92809,Budget,34
+02 January 2023,Kayla Hardy,Caleb Bentley,Chevrolet,Altima,2011,707799,5%,35697.38222,Budget,46
+05 November 2022,Margaret Wilson,Bryan Becker,Ford,Civic,2015,973899,9%,89212.57482,Budget,70
+20 April 2023,David Aguirre,Austin Henry,Honda,F-150,2020,419199,9%,36713.42053,Budget,42
+09 August 2022,Amy Hernandez,Caleb Stewart,Chevrolet,Civic,2014,286899,6%,15963.065,Budget,45
+28 April 2023,Christopher Jenkins,Andrew Adams,Honda,Corolla,2021,384699,5%,20574.4106,Budget,57
+24 November 2022,Matthew Graham,Rebekah Holt,Toyota,Corolla,2010,806099,8%,66151.16791,Budget,49
+27 October 2022,Amanda Davis,Michael Lane,Nissan,Altima,2019,292799,7%,19884.02345,Income issues,23
+06 February 2023,Chris Ruiz,Michelle Hunter,Ford,Silverado,2020,438099,14%,61679.43567,Budget,47
+27 April 2023,Pamela Keller,Christina Daniels,Toyota,Civic,2010,788499,14%,112304.9496,Income issues,23
+13 January 2023,Tina Watson MD,Ashley Dixon,Ford,Corolla,2020,788499,8%,66746.88786,Budget,21
+06 October 2022,Kelly Morgan,Paula Moore,Toyota,Corolla,2021,788499,14%,111890.6822,Income issues,45
+01 May 2022,Stephanie Barber,Wesley Snow,Nissan,Silverado,2017,1248358,7%,82094.79758,Budget,67
+02 August 2022,Jennifer Gomez,Brandon Waller,Ford,Civic,2010,81000,8%,6789.444264,Income issues,31
+26 August 2022,Carl Tran,Krista Sanders,Honda,Civic,2012,340199,11%,36873.7247,Income issues,58
+30 January 2023,Amanda Rosales,Tiffany Dunn,Toyota,F-150,2011,410599,7%,28795.69646,Budget,57
+12 September 2022,Hailey Short,Matthew Crane,Chevrolet,Altima,2010,606699,5%,32388.54447,Income issues,42
+09 January 2023,Cindy Mcmillan,Lisa Rosales,Toyota,Altima,2019,475399,8%,39322.69582,Income issues,60
+08 November 2022,Tiffany Fisher,Jessica Hancock,Chevrolet,Corolla,2016,199299,7%,13644.9253,Budget,21
+19 September 2022,Melinda Stevens,Stephanie Bowman,Chevrolet,Altima,2013,378299,7%,24825.61443,Budget,69
+19 October 2022,Maria Nielsen,Mary Hayes,Nissan,F-150,2012,481699,5%,24877.80153,Budget,41
+09 July 2022,William Hart,Melissa Johns,Nissan,F-150,2021,490799,13%,64401.33891,Budget,51
+08 November 2022,Craig Brown,Christine Olson,Nissan,Corolla,2010,457799,9%,41257.61794,Budget,23
+30 January 2023,Thomas Case,Andrew Holmes,Honda,Altima,2012,366799,12%,45568.52728,Budget,57
+22 October 2022,Stephanie Smith,Justin Lozano,Toyota,Silverado,2018,571799,10%,58142.41637,Budget,40
+30 August 2022,Angela Garcia,Courtney Zuniga,Toyota,Corolla,2014,469299,6%,28107.27027,Income issues,65
+23 February 2023,Stephanie Fisher,Katherine Arroyo,Honda,F-150,2020,374799,13%,47447.9587,Budget,61
+14 June 2022,Tonya Short,Philip Morris,Nissan,Altima,2019,887499,9%,78928.7866,Income issues,34
+16 April 2023,Mark Smith,Jeremy Nichols,Honda,F-150,2012,1119381,10%,110332.7651,Budget,43
+13 June 2022,John Rodriguez,Jason Taylor,Toyota,Altima,2018,1119381,9%,103027.9353,Income issues,31
+19 March 2023,David Morgan,Luis Hall,Honda,Silverado,2012,1119381,10%,111442.5842,Budget,57
+22 June 2022,Joseph Crane,Michael Schultz,Ford,Altima,2012,536199,6%,33148.25278,Budget,34
+14 February 2023,Vincent Webster,Grant Turner,Honda,Civic,2011,357399,6%,21170.15555,Budget,25
+14 June 2022,Christy Davies MD,Erika Farrell,Honda,F-150,2019,438299,14%,63164.90628,Income issues,66
+05 August 2022,Matthew Jenkins,Alyssa Smith,Ford,Silverado,2021,298599,9%,25845.58687,Income issues,56
+22 October 2022,Regina Fleming,Marc Gonzalez,Honda,Silverado,2019,1447530,13%,186333.2794,Budget,49
+14 March 2023,Amber Hernandez,Jay Calhoun,Nissan,F-150,2013,304599,14%,43463.35534,Budget,19
+30 November 2022,Chris Morrison,Michael Johnson,Nissan,Corolla,2016,490000,12%,56617.23047,Budget,27
+04 July 2022,Audrey Kirk,Sarah Gibson,Nissan,Corolla,2019,199699,15%,29010.89104,Budget,68
+15 July 2022,Christian Taylor,Melissa Mooney,Honda,Silverado,2015,228699,8%,17389.3457,Budget,20
+07 February 2023,David Parker,Jacob Dickson,Honda,Civic,2020,415699,10%,41494.55627,Income issues,21
+19 March 2023,Alicia Schroeder,Casey Gaines,Ford,Civic,2014,299599,7%,20607.10613,Budget,36
+12 December 2022,Felicia Rich,Benjamin Bright,Nissan,Corolla,2018,205199,9%,18318.42313,Budget,37
+01 May 2023,Brittany Herrera,Jo Bennett,Chevrolet,Corolla,2014,322499,8%,25304.2427,Budget,61
+04 December 2022,Melinda Leonard,Jason Leonard,Honda,Silverado,2021,277099,11%,30801.34925,Income issues,68
+24 December 2022,Michael Tapia,Stephen Olson,Toyota,F-150,2016,241199,7%,17626.23513,High traffic urban area,60
+16 January 2023,Karen Mendoza,Julie Lewis,Nissan,Silverado,2020,362699,10%,34804.90981,Pandemic,69
+30 January 2023,Renee Vance,Lisa Holloway,Chevrolet,F-150,2016,822899,13%,105380.2667,High traffic urban area,25
+08 March 2023,Rebecca Williamson,Marilyn Valdez,Chevrolet,Corolla,2011,855999,11%,97713.50854,High traffic urban area,32
+24 January 2023,Jose Kelly,Timothy Hunter,Ford,F-150,2015,419699,12%,51285.94631,High traffic urban area,53
+30 July 2022,Amy Johnson,Deborah Robinson,Ford,Altima,2015,70000,13%,8901.312512,High traffic urban area,46
+27 February 2023,Victoria Kim,Stephanie Davis,Honda,Civic,2019,1826684,8%,143997.0734,Pandemic,58
+06 May 2022,Edward Dougherty,Sherry Terry,Ford,Corolla,2020,401799,13%,51306.69702,High traffic urban area,21
+01 September 2022,Rickey Tran,Mary Rogers,Nissan,Altima,2010,1352489,7%,97024.11226,Pandemic,46
+27 January 2023,Kyle Caldwell,Jacqueline Anderson,Ford,F-150,2013,460999,11%,52012.6898,High traffic urban area,18
+13 May 2022,Sarah Johnson,Robin Gay,Ford,Silverado,2013,516000,14%,72637.22616,Pandemic,56
+11 September 2022,Laura Bridges,William Robbins,Toyota,Civic,2019,270000,12%,31342.73539,High traffic urban area,18
+13 September 2022,Sophia Moreno,Crystal Norris,Chevrolet,Altima,2016,182199,10%,18296.26343,Pandemic,49
+20 January 2023,Joshua Graves,Christina Long,Toyota,Civic,2017,89000,9%,7865.324037,High traffic urban area,29
+02 June 2022,Kimberly Henderson,Amy Jackson,Ford,Civic,2014,312499,6%,19619.162,High traffic urban area,67
+07 October 2022,Rachel Booth,Christian Ortega,Honda,Civic,2010,246699,11%,26375.71167,High traffic urban area,31
+17 June 2022,Jared Berry,Kelly Curry,Ford,Silverado,2017,1490758,6%,88935.58559,High traffic urban area,52
+23 July 2022,Joseph Allen,Stephanie Grant,Nissan,Altima,2021,639499,5%,32498.17544,Pandemic,42
+11 March 2023,Marc Daniel,Jonathan Robbins,Chevrolet,Corolla,2019,102499,9%,8994.894452,High traffic urban area,32
+06 April 2023,Justin Mitchell,Rachel Smith,Nissan,Corolla,2011,673999,8%,54735.4489,High traffic urban area,47
+28 May 2022,Gregory Lutz,Jason Mcpherson,Chevrolet,Altima,2016,111000,15%,16563.99241,High traffic urban area,45
+31 May 2022,Rebecca Scott,Michelle Stone,Nissan,Silverado,2013,267899,7%,19423.74414,High traffic urban area,20
+28 July 2022,Theresa Nguyen,Diana Francis,Ford,Corolla,2019,523899,13%,67678.59223,High traffic urban area,66
+20 August 2022,Mikayla Haynes,Samantha White,Ford,Altima,2020,491499,15%,72763.60275,High traffic urban area,52
+29 March 2023,Steven Collins,Tracey Andrews,Toyota,Civic,2012,680199,8%,53704.54057,Pandemic,50
+07 April 2023,Alexandra Harris,Christian Jones,Ford,Silverado,2013,374199,8%,30176.88835,Pandemic,62
+12 June 2022,Amanda Garcia,Angela Thomas,Honda,Altima,2020,371899,15%,55599.72969,High traffic urban area,38
+26 June 2022,Wayne Cook,Ryan Arnold,Nissan,F-150,2022,726099,14%,100024.8821,Pandemic,65
+06 February 2023,Michelle Russell,Megan Myers,Ford,Silverado,2010,1112008,13%,140431.0405,High traffic urban area,60
+14 February 2023,Allison Cannon,Lisa Alvarez,Ford,Corolla,2020,1112008,12%,137960.3686,High traffic urban area,68
+24 January 2023,Austin Reynolds,Joseph Cook,Nissan,Altima,2011,1112008,7%,83222.8073,High traffic urban area,62
+19 June 2022,Cynthia Evans,Daniel Williams,Ford,Corolla,2013,1112008,6%,62242.0972,High traffic urban area,62
+26 July 2022,Jessica Small,Dennis Weiss,Toyota,Civic,2016,1112008,11%,126276.6764,Pandemic,40
+14 May 2022,Leslie Sanders,Deanna Newman,RENAULT,KIGER(2022-2023),2017,1112008,6%,62710.72766,High traffic urban area,32
+08 December 2022,Angela Anderson,Anna Evans,HYUNDAI,CRETA,2018,595999,8%,47797.01126,High traffic urban area,22
+04 July 2022,Brian Bishop,Rhonda Schmidt,HYUNDAI,VENUE,2019,275599,8%,21955.69623,High traffic urban area,33
+23 December 2022,James Moreno,Barbara Warren,TATA,TIGOR,2017,541799,14%,73527.26086,High traffic urban area,57
+24 April 2023,Jennifer Crawford,Jason Williams,HONDA,CITY(2017-2020),2013,180699,10%,18698.47232,High traffic urban area,60
+24 March 2023,Bradley Davis,Debra Fletcher,HYUNDAI,I20,2014,509099,12%,60039.02554,High traffic urban area,30
+16 October 2022,Amanda Ford,Sarah Lam,HYUNDAI,I20,2022,444499,9%,38281.05749,High traffic urban area,41
+14 August 2022,Carmen Ritter,Tracey Walls,MARUTI SUZUKI,SWIFT,2015,367999,8%,30497.11239,High traffic urban area,58
+08 June 2022,Christopher Parsons,Scott Beltran,RENAULT,DUSTER,2019,491399,11%,56160.38056,Pandemic,34
+24 July 2022,Nicholas Richards,Joseph Huff,TATA,HEXA,2018,531899,8%,42833.06102,High traffic urban area,67
+02 April 2023,Megan Frederick,Steven Schneider,VOLKSWAGEN,AMEO,2017,650799,6%,38344.62374,High traffic urban area,58
+20 August 2022,Sherri Rangel,Carolyn Reeves,HYUNDAI,CRETA,2010,283099,6%,17508.54174,High traffic urban area,41
+26 December 2022,George Archer,Dr. Lori May MD,HONDA,CITY,2017,664399,8%,50998.75172,High traffic urban area,42
+29 August 2022,Devin Vasquez,Thomas Long III,FORD,ECOSPORT,2010,333299,13%,44625.78109,High traffic urban area,50
+07 August 2022,Michelle Goodman,Taylor Phillips,MG,HECTOR PLUS,2022,297799,12%,36763.90154,High traffic urban area,40
+22 September 2022,Christopher Riley,Robin Perez,HONDA,WR V,2022,581099,10%,57712.90118,High traffic urban area,32
+27 April 2023,Sarah Russell,Sherry Brooks,MAHINDRA,BOLERO,2010,202799,5%,10781.2844,High traffic urban area,51
+05 January 2023,Timothy Andrews,Sarah Robinson,HONDA,CITY,2011,959399,6%,54528.58013,High traffic urban area,26
+14 October 2022,Mark Jenkins,Michelle Tate,MAHINDRA,XUV 500,2011,378999,8%,30765.40728,High traffic urban area,32
+08 September 2022,Deborah Humphrey,Annette James,VOLKSWAGEN,TIGUAN,2018,189599,7%,13194.76944,High traffic urban area,58
+13 May 2022,Cheryl Davis,Lauren Byrd,TOYOTA,FORTUNER,2017,400099,8%,30085.56633,High traffic urban area,51
+18 November 2022,Bobby Sullivan,Dr. Wesley Wise,AUDI,A6,2021,531399,6%,31054.97929,High traffic urban area,19
+21 December 2022,Dawn Turner,Paul Mclaughlin,AUDI,A6,2019,358799,11%,40878.43607,High traffic urban area,57
+13 September 2022,Thomas Welch,Theresa Anderson,TATA,TIGOR,2021,1367538,6%,86063.1099,High traffic urban area,66
+09 July 2022,Diana Todd,Thomas White,KIA,SONET,2022,484199,12%,60295.52217,Pandemic,62
+24 February 2023,Paul Flores,Julie Lowe,RENAULT,KWID,2013,380299,7%,26707.5923,Income issues,58
+13 November 2022,Rhonda Cannon,Lisa Wilson,HYUNDAI,VERNA,2011,536099,5%,27193.21947,Income issues,23
+07 April 2023,Eric Johnson,Miss Tina Bishop DVM,HYUNDAI,ALCAZAR(2021-2023),2016,530699,13%,66655.23085,Budget,45
+28 July 2022,Timothy Wyatt,Kimberly Dixon,HYUNDAI,GRAND I10,2021,235299,7%,15610.94326,Budget,20
+29 April 2023,Brandi Sloan,Angela Mccann,FORD,ECOSPORT(2017-2019),2015,50000,14%,6887.33697,Income issues,33
+01 June 2022,Joseph Perez,Tiffany Pruitt,JEEP,COMPASS,2020,164499,11%,18017.53214,Income issues,30
+27 July 2022,Steven Duran,Laura Ramirez,MAHINDRA,TUV 300,2012,242499,10%,25308.23045,Budget,50
+25 January 2023,Jenna Powers,Mark Beltran,VOLKSWAGEN,AMEO,2013,227099,8%,17126.58378,Budget,62
+08 June 2022,Ellen Freeman,David Roy,HYUNDAI,GRAND I10,2015,660199,6%,39085.89102,Budget,69
+20 May 2022,Austin Matthews,Edward Erickson,MARUTI SUZUKI,ALTO,2013,506299,11%,56877.17113,Budget,34
+03 September 2022,Jamie Pope,Kristy Wilson,NISSAN,MICRA ACTIVE,2013,328099,14%,46109.77545,Budget,49
+08 March 2023,Douglas Johnson,Kathryn Myers,HYUNDAI,XCENT,2021,517299,12%,63128.38378,Budget,65
+27 December 2022,Stephanie Baldwin,Julie Avery,HONDA,JAZZ,2020,322699,8%,24432.52685,High traffic urban area,66
+26 April 2023,Brittany Mooney,Meghan Cooley,FORD,FIGO ASPIRE,2022,302799,7%,21410.7124,High traffic urban area,41
+19 April 2023,Andrea Nguyen,Brian Nicholson,MAHINDRA,KUV100,2016,421499,10%,42184.49489,High traffic urban area,37
+04 September 2022,Miguel Reyes,Derrick Hernandez,MARUTI SUZUKI,SWIFT,2021,450399,9%,40094.4526,High traffic urban area,32
+08 September 2022,Cheryl Gonzalez,Regina Williams,HYUNDAI,I20,2022,359899,8%,30402.01478,High traffic urban area,42
+05 March 2023,Lynn Lopez,Victor Atkins,VOLKSWAGEN,POLO,2018,1129683,7%,81090.3922,High traffic urban area,31
+01 February 2023,William Wright,Brandon Strickland,HYUNDAI,ELITE I20,2013,200000,13%,25879.32573,High traffic urban area,61
+03 June 2022,Ryan Estrada,Miss Holly Phillips,FORD,ECOSPORT(2017-2019),2013,493399,10%,49637.06202,High traffic urban area,36
+11 October 2022,Brian Kim,Craig Klein,HONDA,ACCORD,2010,387199,12%,48220.21859,High traffic urban area,60
+08 June 2022,Austin Arroyo,Kayla Young,NISSAN,KICKS,2022,490999,13%,64269.95595,High traffic urban area,51
+10 August 2022,Latoya Taylor,Earl Brewer,MARUTI SUZUKI,DZIRE,2010,390000,5%,19828.46801,Pandemic,68
+18 October 2022,Jeanette Leonard,Shari Brown,HYUNDAI,SANTRO,2015,234399,10%,22692.1263,High traffic urban area,46
+29 September 2022,Meghan Rodriguez,Patrick Santiago,HONDA,CITY,2014,664599,15%,97412.92821,High traffic urban area,19
+21 September 2022,Carol Smith,Kelly Thomas,TOYOTA,COROLLA ALTIS,2013,313799,12%,36782.2607,High traffic urban area,30
+30 March 2023,Ashley Mcconnell,Renee Sharp,MAHINDRA,XUV700,2013,358399,13%,47346.90471,High traffic urban area,51
+17 February 2023,Kimberly Pena,Tracy Zavala,VOLKSWAGEN,VIRTUS,2016,383599,13%,51675.48627,High traffic urban area,28
+03 January 2023,Richard Ortiz,Susan Flynn,MARUTI SUZUKI,S PRESSO,2010,174099,11%,19957.50138,High traffic urban area,41
+10 May 2022,John Leonard,Valerie Blackwell,HONDA,WR V,2021,645099,11%,73553.32328,High traffic urban area,29
+13 August 2022,Jordan Nelson,Benjamin Christian,VOLKSWAGEN,POLO,2017,517199,9%,46008.19139,High traffic urban area,25
+29 December 2022,Andrew Wagner,Diane Williams,HONDA,AMAZE,2020,517199,14%,70962.38034,High traffic urban area,60
+09 November 2022,Shelly Robertson DVM,Rodney Wiggins,VOLKSWAGEN,VENTO,2013,393499,13%,50739.77414,High traffic urban area,63
+02 December 2022,Jamie Clark,Fred Blevins MD,MARUTI SUZUKI,WAGON R,2012,380199,6%,22435.64212,High traffic urban area,51
+05 May 2022,Patrick Reed,Kimberly Lawrence,HYUNDAI,EON,2022,481199,10%,48299.28519,High traffic urban area,22
+13 April 2023,Timothy Peterson,Carl Sutton,MAHINDRA,XUV500,2011,537599,6%,30312.36285,High traffic urban area,54
+16 January 2023,Robert Green,Megan Roberts,SKODA,KUSHAQ,2013,2571559,13%,337004.6468,Pandemic,18
+17 February 2023,Joshua Green,Denise Johnson,HYUNDAI,CRETA,2021,452399,9%,39547.44711,High traffic urban area,29
+12 February 2023,Ryan Hunt,Carol Dominguez,TOYOTA,INNOVA CRYSTA,2021,263199,9%,23264.23981,High traffic urban area,59
+04 September 2022,Shane White,Philip Spears,HYUNDAI,CRETA,2015,465699,7%,30715.94106,High traffic urban area,25
+23 April 2023,Corey Compton,Edward Barnes,TOYOTA,INNOVA(2012-2013),2017,200399,12%,23640.43423,High traffic urban area,19
+24 March 2023,Allen Howell,Hannah Weaver,MAHINDRA,VERITO(2011-2012),2019,252999,12%,29675.62756,High traffic urban area,56
+05 July 2022,Stephen Hamilton,Regina Moody,MARUTI SUZUKI,ALTO K10,2022,3250000,8%,266492.0268,High traffic urban area,31
+20 April 2023,Jasmine Jones,Caitlin Townsend,KIA,SONET,2014,300399,8%,23228.72687,High traffic urban area,45
+07 January 2023,Annette Russo,Andrew Brown,MAHINDRA,TUV 300,2019,768199,7%,54599.10546,High traffic urban area,23
+29 December 2022,Michelle Coleman,Brandon Sweeney,VOLKSWAGEN,POLO,2022,731399,9%,62207.93011,Pandemic,18
+09 March 2023,Lisa Clark,Christine Gross,TATA,NEXON,2012,199699,7%,14357.53432,Pandemic,43
+15 February 2023,Patrick Green,Gina Hall,TATA,TIGOR,2022,138299,15%,20503.96661,High traffic urban area,56
+18 April 2023,Brett Owens,Elaine Pearson,NISSAN,SUNNY,2015,620299,5%,33134.52451,High traffic urban area,43
+21 October 2022,Katelyn Velasquez,Brandon Mills,MARUTI SUZUKI,DZIRE(2017-2020),2013,556199,13%,70933.18719,High traffic urban area,64
+02 July 2022,Bradley Shepherd,Kenneth Avery,MARUTI SUZUKI,S CROSS,2012,260000,5%,13566.9127,High traffic urban area,67
+11 September 2022,Melissa Baker,Roger Livingston,MAHINDRA,XUV 500,2013,740799,11%,83237.55733,High traffic urban area,63
+07 June 2022,Victor Ochoa,Sarah Bullock,MARUTI SUZUKI,WAGON R,2018,293899,14%,39689.74157,Pandemic,54
+22 October 2022,Stephanie Griffith,Sharon Mccullough,MARUTI SUZUKI,SWIFT,2015,246999,7%,17227.56886,High traffic urban area,69
+13 August 2022,Kristen White,Deborah Brock,MARUTI SUZUKI,CELERIO,2012,346299,13%,43624.33835,High traffic urban area,34
+02 April 2023,Juan Keith,Ann Franco,HYUNDAI,ACCENT,2016,372199,7%,25426.19836,Pandemic,56
+12 May 2022,Jared Bryan,Amanda Warren,MARUTI SUZUKI,ERTIGA,2022,182099,13%,23352.93619,High traffic urban area,34
+09 April 2023,Peter Spencer,Daniel Atkins,TOYOTA,FORTUNER,2019,1125744,12%,138852.7328,High traffic urban area,58
+10 March 2023,Deborah Clayton,Anthony Vaughn,MARUTI SUZUKI,A STAR,2020,247099,10%,24461.26483,High traffic urban area,44
+21 September 2022,Joshua Dean,Steve Jones,KIA,SELTOS,2012,247099,14%,33799.53989,High traffic urban area,25
+07 April 2023,William Brown,Crystal Mccarthy,KIA,SELTOS,2012,247099,6%,15888.95853,High traffic urban area,27
+20 February 2023,Phillip Bullock,Krista Estes,KIA,CARENS,2018,247099,11%,25959.29591,Pandemic,26
+04 December 2022,Jason Vang,Cameron Ortega,MARUTI SUZUKI,WAGON R,2018,500000,7%,35530.04519,High traffic urban area,18
+04 June 2022,Steven Bentley,Alice Mendoza,RENAULT,DUSTER,2013,259399,6%,14823.86219,High traffic urban area,64
+01 May 2023,Megan Estes,Jennifer Ramsey,HYUNDAI,ELITE I20,2015,404399,9%,34805.00857,High traffic urban area,62
+27 June 2022,Sandra Brown,Bradley Gardner,HYUNDAI,ELITE I20,2015,504299,13%,68028.16708,High traffic urban area,59
+10 May 2022,Barry Gordon,Jamie Holland,HYUNDAI,ALCAZAR(2021-2023),2013,559599,8%,43767.85298,High traffic urban area,36
+02 July 2022,Brandon Valencia,Gregory Gutierrez,FORD,ECOSPORT,2021,1011199,14%,140890.4801,High traffic urban area,69
+22 December 2022,Joseph Ortiz,Trevor Luna,MARUTI SUZUKI,SWIFT,2022,545999,14%,75921.18477,High traffic urban area,39
+31 October 2022,Denise Dougherty,John Robinson,MARUTI SUZUKI,BALENO,2022,398299,8%,31462.30659,High traffic urban area,28
+07 August 2022,Richard Olsen,Donna Howe,VOLKSWAGEN,AMEO,2015,409299,8%,30784.89514,High traffic urban area,42
+07 September 2022,Kathryn Johnson,Daniel Bell,TOYOTA,INNOVA CRYSTA,2021,269599,8%,22851.64458,High traffic urban area,31
+07 October 2022,Megan Dixon,Brian Hall,FORD,ECOSPORT,2022,782899,7%,52591.43444,High traffic urban area,57
+30 June 2022,Patrick Green Jr.,Dr. Jennifer Carter,MAHINDRA,XUV700,2010,828499,13%,106086.5903,High traffic urban area,53
+23 July 2022,Lisa Larsen,Lance Saunders,RENAULT,DUSTER,2012,302099,12%,37253.7226,Pandemic,59
+07 February 2023,Michael Hansen,Scott Miller,VOLKSWAGEN,VENTO,2022,1477426,14%,204022.3265,High traffic urban area,32
+31 July 2022,Madison Hernandez,Dr. Roger Buchanan,FORD,ECOSPORT,2018,156599,12%,18255.62618,High traffic urban area,65
+01 April 2023,James Allen,Heather Bryant,MARUTI SUZUKI,SWIFT,2010,695599,6%,41321.42842,High traffic urban area,56
+11 March 2023,Francisco Henry,Dennis Foster,HYUNDAI,CRETA,2014,297299,5%,15702.53964,High traffic urban area,31
+18 June 2022,Michelle Barnett,Mark Johnson,TOYOTA,INNOVA CRYSTA,2021,676899,10%,64641.21316,High traffic urban area,59
+29 July 2022,Brian Waters,Stephanie Williams,NISSAN,MICRA,2016,324199,13%,42215.5845,Pandemic,22
+14 July 2022,Charles Davis,Jo Smith,MAHINDRA,XUV300,2021,574999,9%,51993.07219,High traffic urban area,47
+13 October 2022,Danielle Ramsey,Omar Snyder,HONDA,JAZZ,2015,151999,9%,13844.86422,Pandemic,23
+02 May 2022,Tasha Jackson,Lori Baldwin,FORD,FIGO,2014,270099,15%,39570.61872,High traffic urban area,69
+15 March 2023,Jessica Hunt,Teresa Hamilton,HONDA,JAZZ,2018,888899,11%,94198.91361,High traffic urban area,18
+29 October 2022,Charles Oliver,Joseph Holland DDS,HONDA,CITY(2017-2020),2022,607999,14%,85849.73427,Pandemic,50
+10 October 2022,Michael Peterson,Holly Howard,MG,HECTOR PLUS(2021-2023),2011,179199,5%,9015.811866,Pandemic,29
+11 November 2022,Kyle Dean,Robert Perry,MARUTI SUZUKI,ALTO 800,2016,197099,9%,18185.6911,High traffic urban area,65
+16 December 2022,Robert Burton,Hannah Brown,HONDA,CITY,2016,231699,12%,26653.95763,High traffic urban area,29
+12 December 2022,Nicole Collins,Eric Anderson,HYUNDAI,SANTRO,2021,479999,10%,48202.88018,High traffic urban area,49
+26 November 2022,Julie Palmer,Julie Stanley,TOYOTA,FORTUNER (2012_2016),2022,628299,13%,80984.46196,High traffic urban area,28
+10 April 2023,Sheila Austin,Brendan Singleton MD,MERCEDES BENZ,E-CLASS(2015-2017),2013,510899,10%,50993.58303,High traffic urban area,51
+01 December 2022,Kelly Stout,Nathan Yang,DATSUN,GO,2015,195059,10%,20373.41506,High traffic urban area,26
+16 December 2022,Victoria Jefferson,James Cox,MERCEDES BENZ,E-CLASS(2013-2015),2014,478299,11%,51675.84606,High traffic urban area,38
+18 February 2023,Veronica Pratt,Julie Kelly,MARUTI SUZUKI,DZIRE(2017-2020),2018,35000,10%,3522.283337,Pandemic,35
+11 July 2022,Jeanne Cole,Zachary Mcdonald,HYUNDAI,I20,2020,485399,6%,30156.58291,Pandemic,34
+12 September 2022,Alex Anderson,Brianna Knight,ISUZU,V CROSS,2014,485399,10%,50525.23033,High traffic urban area,51
+08 June 2022,Mrs. Michele Hill,Sonya Williams,KIA,SONET,2017,485399,12%,58654.88869,High traffic urban area,47
+31 July 2022,Lisa Rivera,Michael Shelton,HYUNDAI,SANTRO(2020-2023),2017,485399,14%,66303.3222,Pandemic,18
+01 December 2022,Crystal Lee,James Stone,MAHINDRA,THAR,2011,485399,7%,32903.04679,High traffic urban area,64
+24 February 2023,Jacqueline Murphy,Misty Wagner,HONDA,BRIO,2017,485399,14%,69233.01074,Pandemic,30
+30 September 2022,Amber Glenn,James Martinez,TOYOTA,COROLLA ALTIS,2021,485399,15%,71756.29314,High traffic urban area,59
+24 December 2022,Jessica White,Sherry Stewart,MG,ASTOR,2016,485399,6%,28231.58967,High traffic urban area,66
+10 April 2023,Cynthia Anderson,George Burke,HYUNDAI,I10,2019,255199,12%,29819.55667,Pandemic,40
+05 January 2023,Linda Owens,Paul Walker,FORD,ECOSPORT,2022,157299,15%,23463.3792,High traffic urban area,25
+26 April 2023,Hannah Reed,Dr. Dustin Lawrence,MAHINDRA,KUV100,2015,373799,14%,51152.30359,High traffic urban area,59
+21 May 2022,Tom Gomez,James Fuentes PhD,MARUTI SUZUKI,SWIFT,2019,237399,10%,22796.95276,High traffic urban area,66
+11 December 2022,Shane Brown,Jason Klein,HONDA,CITY,2013,766599,5%,38928.65275,High traffic urban area,54
+05 October 2022,Lauren Stephens,Kristine Davis,HYUNDAI,CRETA,2017,400699,8%,32475.30655,High traffic urban area,42
+06 November 2022,Carol Beard,Hunter Todd,MAHINDRA,XUV700,2021,981199,7%,66351.52414,Pandemic,48
+06 September 2022,Christine Brown,Jason Mack,MARUTI SUZUKI,CIAZ,2010,250000,10%,25996.1963,Budget,34
+07 September 2022,Joshua Freeman,Mary Reed,MAHINDRA,SCORPIO,2015,250000,7%,17195.68595,Income issues,19
+17 January 2023,Brendan Farmer,Theresa Gibbs,MAHINDRA,SCORPIO CLASSIC,2017,250000,14%,34477.16136,Budget,70
+27 February 2023,Matthew Terry,Samantha Hampton,FORD,ECOSPORT,2022,201799,6%,11906.16663,Income issues,43
+19 August 2022,Hannah Francis,Jose Fuller,HONDA,BR V,2012,333799,13%,43932.17104,Budget,46
+22 April 2023,Lorraine Brown,James Yoder,HYUNDAI,I10(2010_2017),2019,181899,8%,15315.63177,Budget,66
+02 June 2022,Gerald Adkins,Frederick Rice,TATA,TIAGO,2015,600000,7%,42678.35747,Budget,50
+08 July 2022,Jason Harrison,Andrew Campbell,MAHINDRA,XUV500,2018,474999,6%,26901.96155,Budget,55
+18 September 2022,Alexander Armstrong,Kathy Price,TOYOTA,FORTUNER,2015,390000,11%,43553.14237,Income issues,63
+12 September 2022,Elizabeth Pena,Cheryl Jensen,MAHINDRA,SCORPIO,2011,420099,12%,51833.67255,Income issues,32
+30 June 2022,Emily Hunt,Megan Peterson,TATA,TIAGO,2017,329199,14%,44716.06114,Budget,30
+03 April 2023,Terry Smith,Eric Lawrence Jr.,MARUTI SUZUKI,SWIFT,2022,336999,5%,17974.36923,Budget,35
+23 July 2022,William Nelson,Bryan Hansen,TATA,NEXON,2020,256499,7%,18421.18303,Income issues,59
+21 June 2022,Natalie Massey,Hannah Roach,MARUTI SUZUKI,SWIFT,2013,692899,7%,45326.38158,Budget,59
+11 April 2023,Amanda Smith,Sherry Dixon,MARUTI SUZUKI,CELERIO,2019,320599,13%,40310.75815,Budget,54
+26 January 2023,Robert Walton,Heather Salinas,Honda,Silverado,2016,727299,7%,50345.1273,Budget,63
+18 November 2022,Rachel Rodriguez,Linda Parker,Nissan,Corolla,2011,705499,10%,73988.63921,Budget,43
+16 September 2022,Maria Harmon,Kelli Brown,Nissan,F-150,2015,291699,13%,37215.27034,Budget,33
+03 March 2023,Jasmine Blake,Candice Rodriguez,Toyota,F-150,2010,340699,14%,46540.82754,Income issues,57
+15 June 2022,Jennifer Walker,Susan Chapman,Chevrolet,Altima,2014,563799,9%,50437.35763,Budget,25
+20 February 2023,Jordan James,Sandra Hopkins,Ford,Corolla,2014,197799,8%,16423.45238,Budget,26
+25 May 2022,Douglas Mcdonald,Denise Trevino,Ford,F-150,2015,257299,5%,13412.64812,Budget,50
+23 April 2023,John Moore,Jerry Santana,Nissan,Civic,2011,771599,10%,76261.32173,Budget,70
+19 April 2023,Brian Carroll,Tina Miranda,Nissan,Civic,2015,240899,7%,16083.15524,Budget,68
+23 September 2022,Tanner Townsend,Jane Davis,Ford,Civic,2019,227199,10%,21837.47803,Income issues,39
+09 July 2022,Jennifer Oneill,Micheal Stevens,Honda,F-150,2012,916099,6%,56378.65664,Budget,46
+17 September 2022,Madison Black,Emily Lewis,Nissan,Silverado,2022,582199,13%,73623.82734,Budget,57
+04 October 2022,Jason Williams,Leah White,Chevrolet,Corolla,2010,265699,6%,15646.67273,Budget,47
+31 January 2023,Angela Perez,Nicole Rodriguez,Nissan,Civic,2010,265699,5%,14471.29594,Income issues,40
+29 December 2022,Toni Baker,Randy Johnson Jr.,Ford,Altima,2017,265699,6%,14990.98174,Budget,52
+09 October 2022,John Murray,Kimberly Barber,Ford,Corolla,2022,265699,12%,30703.40254,Budget,40
+28 September 2022,Sean Richards,John Maddox,Nissan,F-150,2012,424499,13%,53080.06999,Income issues,67
+23 February 2023,Caitlin Griffin,Kristen Hall,Chevrolet,F-150,2015,442899,8%,33696.95914,Budget,67
+15 September 2022,Courtney Barnett,Joseph Glover,Honda,Civic,2019,274299,14%,39086.19779,Budget,37
+17 December 2022,Brooke Sharp,John Jackson,Chevrolet,Silverado,2021,921799,8%,74602.97772,Budget,67
+02 June 2022,Kathy Horton,Aimee Brown,Nissan,Corolla,2020,295599,5%,15342.38124,Income issues,64
+08 May 2022,Mary James,Katherine Levy,Toyota,Silverado,2012,618799,12%,74535.18788,Budget,28
+02 August 2022,Richard Prince,Matthew Taylor,Honda,Civic,2013,386499,15%,57575.74104,Income issues,54
+27 January 2023,Amanda Glover,Lisa Marshall,Ford,Civic,2011,811699,12%,94187.05541,Income issues,54
+12 April 2023,Amanda Henderson,Lisa Hall,Toyota,F-150,2014,1651146,15%,242844.5877,Income issues,24
+15 February 2023,Jared Adams,Connor White,Ford,Altima,2020,169299,9%,15067.35278,Income issues,27
+24 April 2023,Brittany Fry,Mrs. Holly Allison,Chevrolet,Silverado,2013,858799,14%,122547.1337,Budget,53
+18 December 2022,Michelle Sexton,Sergio Johnson,Toyota,Silverado,2020,285599,13%,36679.76574,Budget,32
+26 March 2023,Melissa Wagner,Erin Sullivan,Nissan,Corolla,2021,408899,13%,52074.1225,Income issues,24
+18 February 2023,Sandra Garrett,Johnny Andersen,Nissan,Silverado,2015,310299,13%,40732.05685,Income issues,45
+12 June 2022,Lisa Rios,James Jones,Chevrolet,Silverado,2020,455899,8%,37792.73575,Budget,49
+28 June 2022,Michael Willis,Calvin Rodriguez,Nissan,Altima,2022,1139985,9%,98427.18817,Income issues,51
+01 March 2023,Gary Sims,David Wheeler,Chevrolet,Silverado,2011,411599,12%,48022.51122,Budget,69
+03 December 2022,Lisa Perez,Maria Lopez,Honda,Altima,2010,275299,7%,20546.58849,Budget,41
+15 September 2022,Shane Ryan,Michelle Long,Toyota,F-150,2016,562399,9%,53026.49393,Budget,59
+16 July 2022,John Bennett,Michele Simmons,Ford,F-150,2020,180899,11%,19328.50338,Budget,26
+14 August 2022,Thomas Watkins,Kenneth Jacobs,Ford,Corolla,2019,216199,9%,19938.70806,Income issues,23
+28 September 2022,Brandon Strickland,Rose Nelson,Chevrolet,Silverado,2021,216199,6%,13993.87411,Budget,62
+12 January 2023,Matthew Cook,Sharon Rasmussen,Honda,Civic,2015,453799,11%,49190.35357,Budget,69
+16 August 2022,Sarah Watts,Casey Jones,Toyota,Civic,2018,256399,8%,21332.9733,Budget,46
+22 August 2022,Norman Huang,Steven Walters,Chevrolet,F-150,2010,1734168,14%,245519.6289,Income issues,35
+19 April 2023,Miss Betty Glenn,Clarence Ramirez,Chevrolet,F-150,2015,302099,14%,41505.20721,Income issues,32
+03 February 2023,James Wood,Matthew Williams,Chevrolet,Civic,2021,934599,11%,99400.41827,Income issues,46
+21 February 2023,Drew Chavez,Christopher Cook,Chevrolet,Altima,2011,547899,12%,67018.26703,Budget,33
+10 June 2022,Anthony Mckenzie,Tyrone Miller,Chevrolet,Civic,2013,492099,7%,36325.03517,Budget,32
+10 June 2022,Jose Johnson,Adam Smith,Toyota,Civic,2013,300000,9%,26732.27274,Budget,33
+04 October 2022,Lisa Patel,Deborah Jones,Ford,Altima,2012,640299,14%,88271.37148,Budget,67
+16 November 2022,James Adams,Kathryn Kemp,Toyota,Civic,2018,521099,8%,42592.15073,Income issues,67
+21 September 2022,Thomas Moore,Jonathan Villa,Toyota,Civic,2019,674199,8%,53976.53203,Income issues,42
+19 April 2023,Samuel Wright,Anna Jacobson,Nissan,Corolla,2021,285299,10%,28480.37947,Budget,20
+29 September 2022,Jared Gomez,David Hernandez,Nissan,Corolla,2013,200799,12%,23867.3872,Income issues,39
+24 August 2022,Nicholas Turner,Duane Larson,Toyota,F-150,2017,422299,14%,60836.08065,Budget,26
+27 April 2023,Morgan Williams,Ricardo Parker,Toyota,Civic,2018,347099,6%,20811.36885,Budget,51
+04 January 2023,Jordan Cooper,Michael Sanchez,Honda,Silverado,2013,797399,9%,75491.54344,Income issues,31
+20 April 2023,Madison Johnson,Kathryn Cox,Chevrolet,Civic,2019,370299,10%,38550.19713,Budget,68
+01 January 2023,Anna Lee,Derrick Carr,Chevrolet,Corolla,2013,461299,10%,44814.06601,Budget,44
+10 December 2022,Brandi Matthews,Mary Anderson,Chevrolet,Silverado,2017,367399,10%,35537.72727,Income issues,18
+07 September 2022,Vernon Hicks,Gail Aguilar,Nissan,Corolla,2013,491399,7%,35967.27163,Income issues,58
+04 June 2022,Danielle Craig,Jonathon Wagner,Ford,Civic,2022,410099,11%,43125.26927,Budget,26
+16 January 2023,Amy Delgado,Kelly Hayes,Ford,F-150,2020,850000,8%,65360.67053,Income issues,57
+29 June 2022,Douglas Summers,Eugene Miller,Honda,Silverado,2016,850000,9%,73431.48559,Budget,37
+18 October 2022,Eric Schultz,Beth Wheeler,Ford,Corolla,2020,850000,14%,118122.2202,Budget,24
+25 January 2023,Daniel Stephenson,Emily Cook,Ford,Silverado,2016,850000,12%,98540.23171,Budget,57
+13 October 2022,James Houston,James Perry,Honda,F-150,2021,850000,6%,51677.77488,Budget,48
+19 April 2023,Heather Huerta,Jill Bryant,Honda,Silverado,2014,850000,6%,48562.18054,Budget,39
+03 January 2023,Elizabeth Jones,Kelly Santiago,Chevrolet,Corolla,2012,850000,11%,95027.37853,Budget,51
+04 August 2022,Kimberly Sherman,Joshua Harper,Toyota,Altima,2019,850000,6%,49950.31128,Budget,57
+17 November 2022,Maria Washington,Lauren Hughes,Nissan,Corolla,2015,193499,10%,19154.91925,Budget,53
+18 June 2022,Elaine Mejia,Lisa Williams,Toyota,F-150,2012,193499,7%,12588.22063,Budget,70
+13 April 2023,Rebecca Mccoy,Summer Mitchell,Chevrolet,F-150,2017,193499,14%,27467.78522,Income issues,60
+13 October 2022,Mark Gibson,Natasha Haas,Toyota,Civic,2019,193499,15%,28224.69088,Budget,31
+28 December 2022,Samantha Williams,Roberto Brown,Chevrolet,Altima,2019,193499,14%,27688.87853,Income issues,41
+20 March 2023,Carla Fox,Brandy Fuentes,Chevrolet,Altima,2019,193499,11%,21061.66033,Budget,62
+06 October 2022,Jordan Lloyd,Alan Combs,Toyota,F-150,2011,461099,13%,58800.21913,Income issues,59
+23 April 2023,Jamie Martinez,Carla Kelly,Honda,Altima,2012,295299,8%,22888.20642,Budget,46
+06 April 2023,Alex Edwards,Lauren Dalton,Toyota,Civic,2010,266399,12%,31699.88484,Income issues,62
+20 December 2022,Elizabeth Osborn,Catherine Fuller,Nissan,Civic,2010,464499,6%,30104.43932,Income issues,42
+11 August 2022,Brandon Thomas,Erika Hughes,Ford,F-150,2012,570599,15%,83676.88517,Budget,37
+25 September 2022,Matthew Lee,Randy Jordan,Toyota,Civic,2014,270000,9%,24421.44413,Income issues,50
+12 December 2022,Steven Page,Anna Holmes,Chevrolet,Silverado,2022,662399,10%,67627.60064,Income issues,29
+01 March 2023,Jerome Walker,Mr. Thomas Jacobs,Nissan,F-150,2017,251199,5%,12566.24709,Budget,25
+29 October 2022,Sarah Johnson,Shawna Holloway,Toyota,Civic,2022,238099,14%,33650.63426,Budget,66
+05 November 2022,Gabrielle Mitchell,Terry Hudson,Nissan,Civic,2014,668999,10%,69269.45071,Budget,21
+08 October 2022,Mark Heath,David Morales,Ford,Silverado,2019,504799,11%,56847.38117,Budget,46
+12 May 2022,Richard Gonzalez,Nathan Adams,Ford,Silverado,2021,674299,12%,77906.41656,Budget,57
+13 August 2022,Stephanie Smith,David Alvarez,Ford,F-150,2020,423899,5%,21853.10099,Budget,61
+12 September 2022,Christine Powers,Brandon Wood,Nissan,Altima,2014,920999,6%,56969.26773,Budget,53
+10 August 2022,Andrew Buchanan,Gerald Roberts,Toyota,Corolla,2016,571199,7%,40826.03199,Income issues,37
+11 April 2023,Veronica Jones,Jason Rodriguez,Nissan,Civic,2013,3866000,12%,447747.3776,Budget,39
+24 July 2022,Michelle Nguyen,Jordan Lloyd,Chevrolet,Civic,2019,478899,7%,33761.42414,Income issues,53
+23 March 2023,Pamela Lopez,Gary Holmes,Honda,F-150,2020,210099,9%,18379.0746,Budget,35
+24 March 2023,Beverly Mcknight,Rose Brooks,Chevrolet,Silverado,2015,775000,10%,76936.9802,Income issues,69
+13 July 2022,Veronica Roman,David James,Honda,Corolla,2022,362899,8%,28404.20988,Budget,66
+21 May 2022,Michael Nielsen,Anthony Gilbert,Honda,Altima,2010,397899,11%,44400.93447,Budget,19
+20 May 2022,Jeffery Schneider,Matthew Graham,Toyota,Silverado,2010,397899,7%,28533.95691,Budget,47
+09 July 2022,Benjamin Mills,Kirk Brooks,Nissan,Civic,2010,397899,9%,37456.69923,Income issues,49
+18 August 2022,Angela Blackwell,Alex Knapp,Toyota,Silverado,2015,397899,13%,51739.3105,Income issues,31
+13 January 2023,Tammy English,Tammy Gonzalez DDS,Ford,Civic,2021,316699,10%,30948.36669,Budget,39
+08 January 2023,Pamela Thompson,Rachel Hicks,Toyota,Silverado,2019,251099,7%,17784.97179,Budget,58
+14 August 2022,Katrina Stevenson,George Torres,Nissan,Civic,2012,216999,11%,24809.89854,Budget,45
+16 June 2022,Isabella Rivera,Amanda Dunlap,Chevrolet,Altima,2013,1134935,9%,98735.95835,Budget,68
+14 January 2023,Andrea Beasley,Brittany Stone,Nissan,Corolla,2017,437299,14%,59066.51178,Budget,35
+12 February 2023,Joel Ayala,Sylvia Cordova,Nissan,Silverado,2013,180599,6%,10267.67421,Income issues,65
+21 January 2023,Eddie Newman,Patricia Gonzalez,Toyota,Civic,2015,769599,13%,98162.34066,Budget,45
+13 June 2022,Susan Wilson,Deborah Patterson,Chevrolet,Civic,2022,363499,5%,18763.07811,Budget,19
+30 July 2022,Kyle Moore,Jackie Rivera,Honda,Corolla,2013,363499,8%,28379.02388,Budget,65
+29 March 2023,Steven Schmitt,Denise Daniel,Ford,Civic,2014,363499,10%,36740.25271,Income issues,28
+05 December 2022,Nicholas Huber,Ashley Delgado,Honda,Silverado,2022,363499,14%,52643.92618,Budget,55
+28 April 2023,Michelle Ashley,Christopher Valenzuela,Toyota,Corolla,2018,363499,13%,47245.6026,Income issues,66
+08 November 2022,Charles Greer,Alexandra Meza,Toyota,Corolla,2010,363499,13%,46083.79201,Budget,29
+17 March 2023,Jennifer Chambers,Tracy Chandler,Toyota,Altima,2012,363499,7%,27101.04998,Income issues,56
+15 August 2022,Andrew Romero,Jeff Johnson,Toyota,Altima,2015,363499,7%,26578.27262,Budget,21
+31 January 2023,Stephanie Stewart,Stephanie Mendoza,Honda,Civic,2022,363499,11%,39043.2977,Budget,32
+07 June 2022,Terrance Rios,Marissa Riddle,Ford,Corolla,2019,401999,6%,25204.43648,Budget,54
+02 March 2023,Susan Eaton,Jeremy Powell,Toyota,Silverado,2021,874799,6%,53347.53372,Budget,61
+01 August 2022,Gregory Monroe,Diamond King,Honda,F-150,2012,17804,15%,2630.432166,Income issues,31
+30 April 2023,Peter Potter,Seth Davies,Chevrolet,Civic,2019,10577,11%,1215.941628,Budget,27
+20 June 2022,Robert Bullock,Cameron Yoder,Honda,Civic,2016,48325,9%,4215.474801,Budget,64
+30 January 2023,Laurie Gonzalez,Rachel Hudson,Toyota,Silverado,2011,37069,11%,4202.064243,Income issues,60
+28 April 2023,Katherine Mcdaniel,Sheila Horn,Nissan,Silverado,2013,11324,6%,724.942943,Budget,70
+03 May 2022,Tommy Neal,Mrs. Samantha Brooks,Honda,Civic,2014,20623,11%,2188.430883,Budget,36
+03 October 2022,Brittany Sanchez,Jaime Gallagher,Nissan,Altima,2017,13429,7%,915.8830948,Income issues,56
+11 July 2022,Valerie Malone,Helen Ball,Chevrolet,Corolla,2016,39203,7%,2836.696396,Income issues,69
+15 May 2022,Susan Ford,Mark Jones,Chevrolet,Altima,2015,11849,6%,667.2338015,Budget,39
+25 November 2022,Timothy Wyatt,Allison Grant,Honda,F-150,2022,38130,12%,4440.500914,Income issues,38
+14 January 2023,Dr. David Ramirez Jr.,Donna Kemp,Toyota,F-150,2022,13936,7%,999.6147851,Budget,36
+29 January 2023,Kimberly Christensen,Philip Keller,Chevrolet,Corolla,2015,39350,7%,2655.344794,Budget,46
+17 November 2022,Dana Bender,Kevin Frye,Chevrolet,Corolla,2019,10980,15%,1632.812391,Budget,59
+05 March 2023,Michael Downs,Christine Anderson,Ford,Altima,2022,18366,10%,1849.091816,Budget,64
+17 July 2022,Emma Waller,Kelsey Miller,Toyota,Altima,2012,17763,13%,2294.041594,Budget,49
+20 March 2023,Stacey Gonzalez,Bethany Guerra,Ford,F-150,2016,16722,8%,1286.111327,Budget,32
+10 January 2023,Gregory Black,Mark Montgomery,Honda,Corolla,2019,20606,8%,1730.724855,Budget,29
+21 December 2022,Christopher Rodriguez,Jordan Howard,Chevrolet,Civic,2015,32571,14%,4588.798689,Budget,24
+22 May 2022,Charles Black,Patricia Vega DVM,Ford,Civic,2014,43355,14%,6140.149885,Budget,41
+21 January 2023,Megan White,Jeff Dixon,Nissan,Silverado,2013,46528,13%,5981.778207,Income issues,41
+02 May 2022,Henry Khan,William Cox,Toyota,F-150,2015,22848,7%,1569.522631,Budget,32
+24 February 2023,Karen Johnson,James Reed,Honda,F-150,2020,40887,6%,2319.931687,Income issues,69
+28 March 2023,Darrell Williams,Paul Sloan,Ford,Altima,2022,15697,14%,2264.439405,Budget,65
+28 July 2022,Danielle Manning,Michele Green MD,Ford,Silverado,2013,43373,13%,5613.609114,Income issues,54
+01 November 2022,Debra Hutchinson,Lauren Ray,Ford,Silverado,2017,32195,7%,2355.58862,Budget,39
+17 December 2022,Anna Jenkins,Sarah Johnston,Ford,F-150,2021,29315,9%,2682.654739,Income issues,37
+16 May 2022,Donna Rodriguez,Gabriel Adams,Nissan,Corolla,2015,43368,14%,5995.606768,Income issues,51
+13 May 2022,Tracy Burns,Wendy Burton,Nissan,Altima,2018,44174,14%,6244.089645,Budget,26
+30 July 2022,Michael Roman,Michael Shaw,Nissan,Altima,2017,22615,7%,1622.757506,Income issues,42
+05 January 2023,Matthew Flores,Ernest Farley,Toyota,Corolla,2022,47453,7%,3096.139787,Income issues,21
+28 April 2023,Alexander Robertson,Mikayla Davila,Ford,Corolla,2015,32444,12%,4023.297048,Budget,53
+18 June 2022,Jennifer Neal,Jared Elliott,Chevrolet,Altima,2021,14594,13%,1872.316669,Budget,36
+30 March 2023,Mary Hinton,Susan Norris,Chevrolet,Silverado,2013,36970,15%,5521.040733,Budget,21
+15 April 2023,Christine Jackson,Brooke Brown,Honda,F-150,2012,15472,14%,2158.569793,Budget,33
+18 June 2022,Patrick Burnett,Tara Johnson DVM,Ford,Corolla,2020,21424,8%,1787.771076,Budget,49
+18 December 2022,William Ward,Amanda Adams,Nissan,Silverado,2022,45811,14%,6472.805679,Budget,31
+03 May 2022,Daniel Forbes,Kristin Kelly,Chevrolet,F-150,2014,48732,15%,7273.033835,Budget,68
+07 November 2022,Anthony Scott,Norman Combs,Chevrolet,Civic,2014,49438,13%,6353.48885,Income issues,49
+10 October 2022,Leslie Scott,Derrick Palmer,Toyota,F-150,2011,40465,9%,3716.779601,Budget,23
+12 March 2023,Jennifer Chapman,Michael Gonzalez,Ford,Corolla,2020,47306,8%,3967.179929,Income issues,30
+31 August 2022,Amy Salazar,James Perkins,Honda,Altima,2022,15752,13%,2101.24512,Budget,53
+05 February 2023,Timothy Murray,Julie Fletcher,Honda,Corolla,2010,42262,8%,3387.643341,Income issues,65
+16 October 2022,David Martinez,Isabella Boyd,Honda,Corolla,2020,11329,7%,744.4880567,Budget,60
+01 April 2023,Matthew Stewart,David Smith,Honda,F-150,2022,11587,11%,1218.083825,Budget,46
+26 September 2022,Jesse Stuart,Veronica Pacheco,Honda,Corolla,2021,42085,14%,5806.764231,Budget,54
+15 June 2022,Sabrina Owens,Laura Acevedo,Honda,Civic,2020,24521,10%,2338.664355,Income issues,59
+22 July 2022,Carrie Kline,Gary Montgomery,Ford,Civic,2017,27369,12%,3234.587935,Budget,52
+30 December 2022,Jamie Perkins,Glenda Gibson,Chevrolet,F-150,2017,15844,11%,1716.975924,Budget,41
+07 December 2022,Robert Walker,Abigail Garcia,Ford,Altima,2012,25434,7%,1795.825274,Income issues,43
+21 March 2023,Jordan Horn MD,Johnathan Young,Nissan,F-150,2014,18179,14%,2552.159826,Budget,63
+14 March 2023,Stephanie Webb,Gary Douglas,Chevrolet,Civic,2014,46526,6%,2747.624167,Budget,37
+21 October 2022,Claudia Torres,Haley Cochran,Toyota,Civic,2016,13019,10%,1272.649302,Income issues,44
+06 April 2023,David Brandt,Tara Weeks,Toyota,Civic,2020,39216,6%,2453.496361,Income issues,67
+05 July 2022,Vanessa Franco,Karen Harris,Toyota,Corolla,2021,28654,11%,3136.411511,Budget,27
+12 December 2022,Micheal Knapp,Christina Espinoza,Nissan,Silverado,2021,48730,15%,7104.836077,Income issues,60
+14 October 2022,Tiffany Crawford,Heather Hanson,Nissan,Silverado,2016,20817,12%,2564.6428,Budget,58
+07 August 2022,Gary Hoffman,Eric Bauer,Honda,Corolla,2010,21475,10%,2219.105614,Budget,53
+17 August 2022,John Morris,Glenn Garcia,Nissan,Silverado,2020,28060,14%,3933.326002,Budget,43
+20 December 2022,Vicki Bruce,Tracey Elliott,Chevrolet,F-150,2016,23356,11%,2473.694397,Budget,32
+10 February 2023,Megan Welch,Mary Jackson,Toyota,F-150,2022,21901,9%,1865.253343,Budget,54
+28 January 2023,Steven Vasquez,Jesus Mason,Chevrolet,F-150,2019,43573,9%,3854.264323,Budget,47
+26 November 2022,Jordan Lawson,Jennifer Bell,Chevrolet,Silverado,2016,25706,13%,3318.084483,Budget,57
+23 July 2022,Laurie Mcdaniel,Jonathan Carter,Ford,Altima,2021,36443,14%,5226.207892,Budget,63
+16 April 2023,Barry Hamilton,Cameron Galvan,Ford,F-150,2020,13934,6%,795.4524618,Budget,70
+24 February 2023,Sean Graves,James Stanton,Nissan,Civic,2010,12478,12%,1519.600962,Income issues,62
+02 September 2022,Roger Combs,James Bartlett,Chevrolet,Corolla,2022,44978,11%,5073.511391,Budget,40
+13 February 2023,Madison Lewis,Jennifer Pope,Honda,Altima,2012,41933,8%,3353.597936,Income issues,25
+10 October 2022,Nathan Lee,Phillip Mccoy,Chevrolet,Corolla,2016,44158,11%,4917.673744,Budget,19
+14 October 2022,Danielle Morgan,Joseph Matthews,Honda,Civic,2013,32857,11%,3684.74418,Income issues,25
+27 November 2022,Gregg Fox,Christopher Patterson,Chevrolet,F-150,2022,38909,10%,3769.660382,Budget,21
+30 April 2023,Kerry Johnson,Nicholas Patterson MD,Toyota,Altima,2020,17231,6%,1095.72216,Income issues,55
+31 December 2022,Holly Thompson,Karen Elliott,Chevrolet,F-150,2015,34912,9%,3206.221037,Income issues,34
+06 November 2022,Nathan Jones,Christina Pena,Nissan,F-150,2018,42975,5%,2174.831576,Budget,47
+04 March 2023,Christian Stewart,Rebecca Marshall,Chevrolet,Silverado,2012,33947,14%,4816.623015,Income issues,27
+12 July 2022,Monica Harrell,Ashley Williams,Nissan,Civic,2022,49471,7%,3608.861579,Income issues,67
+22 July 2022,Michael Cardenas,Amanda Wallace,Nissan,Silverado,2010,11728,5%,625.3460859,Budget,40
+16 September 2022,Jennifer Carlson,Margaret Vaughn,Ford,F-150,2012,40928,5%,2220.175789,Budget,53
+22 July 2022,Virginia Gomez,Robert Holden,Nissan,Civic,2014,14877,10%,1538.230025,Budget,24
+14 January 2023,Candace Ruiz,Alexandra Garcia,Nissan,F-150,2015,37275,8%,2902.177053,Budget,47
+17 May 2022,Rachel Ramirez,Jasmine Brooks,Ford,Altima,2022,28143,12%,3256.704615,Budget,53
+13 September 2022,Luis Conway,Marie King,Chevrolet,Altima,2013,41116,9%,3870.750887,Budget,47
+06 September 2022,Katherine Daniel,Kimberly Shelton,Toyota,Corolla,2014,11999,12%,1493.806698,Budget,38
+04 January 2023,Andrea Scott,Kathleen Wolfe,Honda,Corolla,2019,23725,11%,2639.015244,Income issues,48
+25 August 2022,Steven Baker,Craig Martin,Ford,Silverado,2014,34514,6%,1963.623175,Budget,47
+11 July 2022,Kelly Miller,Julie Cox,Nissan,Corolla,2020,22474,7%,1665.094502,Income issues,19
+28 February 2023,Joseph Ramsey,Tina Martinez,Toyota,F-150,2021,12144,10%,1184.998464,Budget,38
+19 January 2023,Carrie Chavez,Sarah Oneill,Nissan,Altima,2020,16418,10%,1603.419854,Income issues,57
+26 January 2023,Meghan Green,Sandra Mcintyre,Toyota,Civic,2020,13323,11%,1439.438172,Budget,70
+30 June 2022,Cody Garcia,Brittney Barr,Honda,Civic,2013,31386,14%,4298.698674,Budget,38
+18 May 2022,Christine Perkins,Michelle Payne,Nissan,Altima,2011,10267,13%,1318.448177,Budget,35
+27 June 2022,Micheal Stewart,Anthony Wilson,Nissan,Civic,2013,35492,14%,4832.20809,Income issues,46
+19 November 2022,Marie Cole,Richard Reid,Toyota,Civic,2011,14535,9%,1316.156747,Budget,32
+26 November 2022,Shawn Williams,Joyce Gross,Toyota,Silverado,2019,25426,13%,3318.510476,Budget,38
+28 April 2023,Jesse Reilly,Daniel Cox,Nissan,Corolla,2017,13586,8%,1019.919332,Income issues,41
+21 June 2022,Kelly Evans,Michael Price,Ford,F-150,2018,42214,11%,4608.878357,Budget,19
+26 July 2022,Melissa Roberts,Mary Burns,Chevrolet,Corolla,2017,45119,11%,4933.532716,Budget,18
+14 June 2022,Kevin Lozano,Troy Hamilton,Chevrolet,F-150,2011,37053,13%,4964.201848,Income issues,45
+30 August 2022,Jason Dalton,David Carroll,Ford,Civic,2011,15996,9%,1395.351751,Income issues,23
+22 February 2023,Lucas Ingram,David Woods,Nissan,Altima,2018,33511,10%,3351.325075,Budget,60
+08 April 2023,Jonathan Smith,Joshua Turner,Honda,Civic,2014,30175,15%,4421.888712,Income issues,52
+20 August 2022,Deborah Bryan,Cynthia Adams,Toyota,Silverado,2016,28693,14%,4074.279635,Budget,42
+19 February 2023,Suzanne May,Brandy Perez,Toyota,Corolla,2011,48048,6%,2859.894164,Budget,29
+09 July 2022,Kari Evans,James Miller,Toyota,Silverado,2017,41061,12%,4934.90881,Budget,31
+28 June 2022,Sean Price,Carla Young,Toyota,F-150,2014,32773,5%,1775.348969,Budget,30
+03 April 2023,Raymond Allen,Sean Brown,Nissan,Silverado,2013,33794,13%,4510.916758,Budget,23
+06 November 2022,Luis Nelson,Ashley Hunter,Honda,Corolla,2021,22116,12%,2611.504326,Budget,31
+16 February 2023,David Rivera,James Sullivan,Nissan,Altima,2012,38952,14%,5339.624454,Budget,40
+21 May 2022,April Moore MD,Lori Richards,Nissan,Corolla,2010,15401,8%,1160.034688,Budget,39
+20 September 2022,Breanna Pierce,Thomas Young,Nissan,Corolla,2022,41816,10%,4051.317273,Budget,28
+09 December 2022,Amy Smith,Carla Williams,Ford,F-150,2019,33592,6%,1911.879856,Income issues,23
+26 June 2022,Christy Ayala,Christina Hatfield,Honda,Silverado,2015,12960,9%,1164.461931,Budget,42
+23 June 2022,Christopher Zavala,Cindy Carey,Honda,Altima,2012,49501,9%,4270.656107,Income issues,68
+13 September 2022,Reginald Turner,Gary Brown,Toyota,Silverado,2019,28943,8%,2231.65139,Budget,24
+10 March 2023,Michelle Taylor,Megan Delacruz,Chevrolet,Corolla,2016,47255,7%,3404.600918,Income issues,24
+07 August 2022,James Wright,Anthony Young,Chevrolet,F-150,2014,38150,14%,5229.720081,Budget,21
+16 November 2022,Kristina Pena,Dana Massey,Chevrolet,Altima,2011,16976,9%,1606.444246,Income issues,49
+08 March 2023,Wendy Boyd,Karen Douglas,Honda,Corolla,2015,31481,13%,4207.476051,Income issues,41
+27 January 2023,Ryan Williams,Ellen Roberts,Chevrolet,F-150,2015,36917,7%,2613.624637,Budget,22
+29 September 2022,Stacy Jones,Casey Jones,Toyota,Silverado,2014,32660,13%,4400.470074,Income issues,42
+10 November 2022,Robert Shepherd,Austin Johnson,Toyota,F-150,2015,28252,5%,1472.933763,Income issues,30
+13 July 2022,Tammy Leonard,William Carpenter,Ford,Altima,2019,24575,11%,2630.952045,Budget,38
+03 February 2023,Natalie Rice,John Wells,Honda,F-150,2015,23452,9%,2219.089558,Budget,40
+26 August 2022,Laurie Ford,Emily Huff,Toyota,Silverado,2019,29700,8%,2501.425639,Budget,55
+27 July 2022,Matthew Mendez,Rhonda Briggs,Nissan,Civic,2016,31128,5%,1612.801373,Budget,37
+25 March 2023,Amy Ward,Tina Williams,Toyota,Corolla,2017,30473,13%,4023.205431,Budget,41
+22 December 2022,Cory Ortiz,Amy Monroe,Honda,Silverado,2020,37570,13%,4989.608062,Budget,38
+14 April 2023,Amy Smith,Bryan Lee,Honda,Altima,2014,40988,10%,3902.981369,Budget,42
+17 May 2022,Eric Johnson,Donna Martin,Chevrolet,Silverado,2014,29359,8%,2313.158775,Income issues,26
+12 April 2023,Mary Jones,Mr. Richard Lester,Honda,Silverado,2014,33074,14%,4753.312647,Budget,41
+28 April 2023,Nancy Martin,Lori Adams,Chevrolet,Civic,2022,40107,6%,2275.457434,Income issues,27
+20 August 2022,Michelle Rodriguez,Randy Rodriguez,Toyota,Civic,2014,19008,13%,2513.118036,Budget,61
+23 May 2022,Sara Love,John Reynolds,Nissan,Civic,2010,49136,11%,5635.026583,Income issues,58
+11 November 2022,Jared Trujillo,Roberto Mills,Nissan,Altima,2010,20774,10%,2001.432231,Budget,25
+16 September 2022,Tony Brooks,Nicholas Howard,Honda,F-150,2022,39950,12%,4749.969313,Budget,33
+20 December 2022,Robert Gray,Brandy Hess,Honda,Silverado,2021,25676,13%,3376.983415,Budget,57
+05 December 2022,Jennifer Hale,David Hayden,Nissan,Altima,2012,28471,10%,2903.023462,Income issues,39
+16 January 2023,Jason Perez,Jared Hansen,Honda,F-150,2011,14950,9%,1382.714124,Budget,60
+09 March 2023,Christopher Williams,Sarah Gomez,Ford,Silverado,2022,17705,5%,900.319446,Budget,39
+13 May 2022,Molly Jordan,Nicole Montgomery,Honda,Altima,2014,43179,12%,5338.374372,Income issues,42
+15 April 2023,Laura Vega,Felicia Smith,Toyota,F-150,2014,48184,6%,2682.565984,Budget,53
+08 September 2022,Loretta Reyes,Daniel Murphy,Toyota,Civic,2020,40138,8%,3114.921218,Budget,20
+17 September 2022,Karen Reese,Robert King,Chevrolet,F-150,2014,14284,11%,1628.385952,Income issues,46
+27 September 2022,Stephen Mcgrath,Philip Anderson,Chevrolet,Silverado,2014,10064,7%,737.2534841,Income issues,46
+16 November 2022,Billy Sanders,Sabrina May,Chevrolet,Silverado,2012,23485,13%,3069.124826,Budget,69
+06 May 2022,Melissa Nash,Lawrence Rice,Toyota,Silverado,2016,43907,7%,3020.301124,Income issues,28
+30 March 2023,Alvin Bates,Joseph Green,Chevrolet,Corolla,2019,39142,5%,2117.191866,Budget,42
+22 May 2022,Michael Johnston,Ricky Smith,Ford,F-150,2022,19264,6%,1232.189782,Budget,30
+19 July 2022,Jennifer Harris,Dana Bowman,Ford,Silverado,2014,10904,10%,1046.740361,Budget,50
+29 August 2022,Sierra Orozco,Dr. Nathaniel Frost Jr.,Toyota,Corolla,2010,31835,7%,2344.729916,Budget,59
+31 January 2023,Christopher Collins,Hector Harris,Chevrolet,Silverado,2010,10954,12%,1338.689885,Budget,54
+12 June 2022,Scott Sanchez,Mrs. Annette Barnes MD,Chevrolet,Civic,2013,17367,6%,972.0918004,Budget,50
+17 March 2023,Samuel Good,Michael Ware,Honda,Corolla,2010,43019,10%,4282.303511,Budget,25
+27 July 2022,Darin Torres,Kathleen Taylor,Toyota,F-150,2021,31006,7%,2276.074434,Budget,41
+25 June 2022,Ryan Hart,Gregory Vang,Ford,Altima,2011,37502,7%,2569.176928,Budget,35
+01 May 2023,Patrick Lee,Ricardo Wade,Honda,F-150,2018,45915,12%,5554.969028,Income issues,67
+30 October 2022,Brenda Brown,Wayne Colon,Honda,Corolla,2014,32685,11%,3531.610136,Budget,33
+26 August 2022,Chloe Mills,Andrew Rivera,Toyota,Silverado,2011,47698,13%,6153.488164,Income issues,19
+27 August 2022,Scott Wagner,Taylor Murphy,Nissan,F-150,2018,25996,13%,3327.321129,Budget,25
+06 May 2022,Destiny Garcia,Debbie Scott,Nissan,Corolla,2022,22518,9%,2009.159194,Income issues,32
+04 October 2022,Monica Choi,Charles Anderson,Ford,Altima,2014,28746,14%,4111.004845,Budget,30
+19 July 2022,Michael Carter DDS,Francisco Green,Nissan,Silverado,2019,19317,12%,2405.591517,Income issues,18
+12 January 2023,Tina Rivera,Shannon Morris,Honda,F-150,2018,17322,11%,1966.140129,Income issues,38
+14 March 2023,Erica Simpson,Ryan Smith,Ford,Silverado,2012,16028,13%,2150.225839,Budget,22
+01 February 2023,Rachel Thomas,Kenneth Conley,Honda,Silverado,2014,36566,7%,2727.022999,Income issues,40
+11 July 2022,Alicia Cline,Carlos Reilly,Ford,Corolla,2017,15015,11%,1666.554326,Income issues,54
+20 November 2022,Bryan Clements,Todd Pearson,Honda,F-150,2019,27913,6%,1775.736293,Budget,70
+31 October 2022,Claudia Lambert,Karen Gallegos,Honda,Altima,2017,28263,11%,3208.424781,Budget,52
+23 October 2022,Christine Skinner,Blake Mcdaniel,Ford,Silverado,2016,29991,11%,3229.921695,Budget,34
+31 August 2022,Julie Spence,Ms. Brandy Robinson,Toyota,F-150,2011,32352,6%,1921.324111,Budget,65
+22 October 2022,Amanda Bass,Tanya Smith,Ford,Altima,2014,35251,14%,5091.725464,Budget,38
+20 June 2022,Amy Torres,Katrina Black,Chevrolet,Civic,2018,14352,8%,1213.0067,Budget,35
+23 October 2022,Cynthia Green DDS,Andrea Newman,Honda,Corolla,2016,47051,14%,6685.582648,Budget,40
+30 October 2022,Nicholas Jones,Mary Moore,Ford,Corolla,2013,37195,9%,3448.104271,Income issues,23
+22 August 2022,Juan Stanley,Ronald Nolan,Toyota,Corolla,2016,13226,6%,733.2415851,Budget,45
+24 May 2022,Philip Watts,Audrey Aguilar,Ford,F-150,2015,39074,8%,2949.720835,Income issues,40
+04 January 2023,Larry Blake,Jenna Brown,Chevrolet,Silverado,2017,19480,12%,2394.748631,Budget,42
+06 December 2022,Tara Martin,Holly Henry,Ford,Civic,2017,18386,6%,1067.873576,Income issues,57
+28 June 2022,Donna Koch,Michael Stephens,Nissan,Corolla,2019,37139,12%,4551.721558,Budget,18
+17 April 2023,Laura Guzman,Charles Mcdonald,Ford,Silverado,2022,44571,12%,5337.234703,Budget,18
+24 March 2023,Debra Wise,Clayton Cain,Ford,Corolla,2021,32074,7%,2323.774807,Budget,56
+13 August 2022,Shawn James,Michelle Tate,Nissan,Altima,2022,44979,13%,5671.605091,Income issues,35
+12 October 2022,David King,Vanessa Jacobs,Honda,Corolla,2012,48927,15%,7127.737812,Budget,49
+02 April 2023,Michael Huang,John Ritter,Ford,Corolla,2017,27534,14%,3856.287761,Budget,49
+24 March 2023,Jennifer Meza,Sean Boone,Toyota,Corolla,2022,40377,11%,4630.394083,Income issues,34
+11 November 2022,Sarah Long,Elizabeth Vaughan,Ford,Silverado,2016,48481,9%,4549.788019,Budget,63
+07 July 2022,Patricia Moore,Laurie Mckenzie,Nissan,Corolla,2010,13071,10%,1334.510166,Budget,42
+25 April 2023,Jeanne Trevino,Juan Brown,Ford,Civic,2021,47828,12%,5906.768345,Income issues,41
+24 February 2023,Christopher Wright,Carrie Hodges,Ford,Corolla,2015,35398,11%,4005.582805,Income issues,26
+13 July 2022,Tanya Benitez,Rebecca Deleon,Toyota,Silverado,2010,26783,10%,2758.395059,Budget,48
+04 May 2022,Max Swanson,Joseph Reyes,Nissan,Altima,2012,38736,5%,1939.39759,Income issues,62
+25 May 2022,Luis Wright,Brenda Tran,Toyota,Corolla,2018,22649,11%,2521.656765,Budget,24
+13 August 2022,Madeline Bass,Barbara Gordon,Toyota,Corolla,2015,45230,12%,5651.590073,Budget,48
+20 December 2022,Timothy Christensen,Scott Cruz,Ford,Silverado,2019,30567,8%,2369.579783,Budget,31
+02 June 2022,Walter Hardy,Lauren Smith,Toyota,Civic,2014,22754,13%,2896.687543,Budget,41
+16 March 2023,Diana Hudson,Mr. Donald Ramirez MD,Chevrolet,F-150,2019,46205,7%,3171.60055,Budget,24
+15 August 2022,Joshua Brown,Harry Knox,Chevrolet,Altima,2016,13226,8%,1035.911238,Budget,60
+28 June 2022,Daniel Freeman,Jillian Thomas,Honda,Civic,2019,28210,14%,3865.358519,Budget,38
+14 March 2023,Juan Carney,Courtney Walker,Chevrolet,F-150,2015,28427,14%,4035.942676,Budget,58
+03 January 2023,Eric Garcia,Luis Holt,Toyota,Civic,2022,26539,6%,1559.728687,Budget,53
+25 September 2022,Stephanie Jones,Kimberly Carr,Ford,F-150,2011,40492,12%,5037.26044,Income issues,44
+14 December 2022,Gary Smith,Cody York,Toyota,Civic,2014,27374,15%,4073.953294,Budget,51
+01 July 2022,Amanda Pierce,Frank Edwards,Honda,Civic,2018,12629,12%,1465.977324,Income issues,36
+03 January 2023,Dr. Lawrence Gates,Julie Jenkins,Chevrolet,Silverado,2019,44090,7%,3000.599818,Budget,20
+29 September 2022,Mr. Michael Orr,Michelle Thomas,Ford,Civic,2021,13755,11%,1575.582478,Income issues,32
+22 October 2022,David Blake,Stephanie Jones,Nissan,Silverado,2012,27847,14%,3820.934732,Budget,66
+01 April 2023,Lisa Jenkins,Rhonda Dominguez,Honda,Civic,2011,42824,9%,3758.613449,Income issues,49
+04 August 2022,Andrea Wall,Victor Mccarthy,Honda,Civic,2016,13649,5%,727.8317126,Income issues,27
+14 December 2022,Robert Watson,Andre Jackson,Ford,Silverado,2015,38185,6%,2337.155783,Budget,29
+15 April 2023,Daniel Elliott,Kelly Carrillo,Toyota,Silverado,2017,43559,11%,5000.652064,Income issues,29
+22 June 2022,Rebecca Taylor,Mike Butler,Chevrolet,F-150,2022,12905,12%,1489.466199,Income issues,55
+08 August 2022,Juan Marsh,Sara Holland,Chevrolet,Altima,2010,28800,14%,3986.00288,Budget,57
+01 May 2022,Scott Gutierrez,Lori Shaffer,Chevrolet,Silverado,2020,32393,9%,2877.341338,Budget,29
+08 September 2022,Michael Robinson,Amanda Taylor,Nissan,Civic,2018,34961,8%,2630.676189,Budget,31
+27 October 2022,Danielle Bennett,Cody Leon,Chevrolet,Altima,2015,46740,12%,5643.125902,Budget,25
+03 September 2022,Steven Rose,Ryan Cannon,Honda,F-150,2021,28241,9%,2552.127834,Budget,61
+05 March 2023,Sandra Randall,Bobby Maldonado,Chevrolet,F-150,2015,41214,5%,2067.25464,Budget,53
+23 June 2022,Meghan Andrews,Tami Boyd,Chevrolet,Corolla,2019,45610,9%,3889.34788,Budget,22
+15 September 2022,Edward Rivers,Sean Scott,Chevrolet,Civic,2020,17467,10%,1817.05566,Income issues,28
+27 January 2023,Dr. Daniel Cox,Kelly Davis,Honda,F-150,2018,47915,12%,5748.25144,Budget,18
+08 March 2023,Dakota Smith,Denise Ruiz,Chevrolet,Silverado,2014,48217,12%,5731.117169,Income issues,44
+15 June 2022,Mr. Joseph Perez,Jamie Marshall,Toyota,Corolla,2019,48158,8%,3950.619685,Budget,32
+28 October 2022,Jerry Cervantes,Kristin Horton,Nissan,F-150,2017,18120,11%,1940.185915,Income issues,34
+08 September 2022,Matthew Brown,Lauren Cross,Nissan,Corolla,2017,48931,12%,5726.858437,Budget,67
+01 September 2022,Hector Campbell,Bradley Fernandez,Nissan,Corolla,2010,23385,9%,2201.99041,Budget,66
+24 August 2022,James Blair,Jonathan Fitzgerald,Chevrolet,Altima,2013,24553,7%,1614.904334,Budget,28
+02 July 2022,Megan Adams,Amanda Gonzales,Toyota,F-150,2011,44088,11%,4681.62954,Budget,70
+22 February 2023,Mario Johnson PhD,David Mcneil,Nissan,Corolla,2017,26139,11%,2841.032221,Income issues,37
+09 April 2023,Jesus Owens,Wesley Meyer,Ford,Civic,2017,33518,11%,3828.176953,Budget,28
+28 October 2022,Mr. James Gonzales,Rebecca Leon,Nissan,Civic,2016,28316,7%,2007.026171,Budget,43
+20 May 2022,Joseph Hurst,Kenneth Young,Toyota,Civic,2016,26581,11%,2930.005122,Income issues,37
+03 October 2022,Edward Stewart,Anthony Scott,Toyota,F-150,2017,14607,11%,1606.443272,Budget,54
+19 February 2023,Suzanne Gallegos,Alex Thomas,Honda,Corolla,2016,42371,8%,3494.132666,Budget,50
+02 January 2023,Sheryl Anderson,Logan Hayden,Ford,Corolla,2012,27022,8%,2044.195091,Income issues,46
+05 July 2022,Julie Gonzalez,Patrick Sanders,Chevrolet,F-150,2018,11743,11%,1240.966507,Income issues,60
+29 March 2023,Daniel Henderson,Kathleen Sanders,Toyota,F-150,2012,11338,15%,1683.697648,Budget,40
+22 May 2022,Andrew Le,Melissa Moore,FIAT,GRAND PUNTO,2014,39240,10%,3924.799032,Income issues,64
+13 October 2022,Darren Gregory,Laura Skinner,FORD,FIGO,2022,34287,7%,2234.03331,Budget,18
+12 May 2022,Cathy Colon,Andrew Jackson,TOYOTA,INNOVA CRYSTA,2022,47698,7%,3444.333824,Budget,37
+25 July 2022,David Lee,Heidi Johnson,MG,HECTOR,2014,47272,10%,4582.168076,Budget,36
+06 July 2022,Jocelyn Smith,Erika Ferguson,MARUTI SUZUKI,SWIFT,2018,33003,14%,4733.48691,Budget,51
+17 December 2022,Paula Hale,Samuel Lewis,FORD,ENDEAVOUR(2016_2019),2013,19723,9%,1770.610091,Budget,26
+12 March 2023,Eric Young,Mrs. Danielle Mendoza MD,RENAULT,KIGER(2021-2022),2010,19900,11%,2122.541625,Budget,68
+22 January 2023,Nathan Williams,Jeffrey Rogers,HYUNDAI,CRETA,2021,23353,14%,3257.319673,Budget,27
+19 May 2022,Richard Horn,Andrew Randolph,SKODA,KUSHAQ,2015,19980,14%,2807.946356,Budget,28
+13 December 2022,Peggy Smith,Alan Hayes,TOYOTA,COROLLA ALTIS(2014-2017),2018,17593,13%,2205.767033,Budget,49
+08 July 2022,Terry King,Christopher Washington,HONDA,CITY(2011-2014),2021,45798,10%,4737.955458,Income issues,70
+17 March 2023,Rachel Kramer,Mr. Kevin Duncan,SKODA,SUPERB,2011,18266,12%,2223.153992,Budget,30
+16 December 2022,Leah Powers,Jennifer Ali,HYUNDAI,EON,2014,12709,14%,1775.962067,Income issues,27
+25 December 2022,Martin Hess,Jillian Young,MARUTI SUZUKI,BALENO,2018,47391,8%,3808.355332,Budget,19
+22 December 2022,Kelsey Ross,Joshua Thompson,TOYOTA,FORTUNER,2019,38673,12%,4726.999298,Income issues,64
+08 March 2023,Ashley Mcgee,Wendy Sampson,TOYOTA,CAMRY,2018,36634,12%,4302.500958,Budget,42
+13 January 2023,Victoria Baker,Lindsay Anderson,HYUNDAI,GRAND I10,2019,38398,10%,3891.818265,Income issues,69
+27 April 2023,Kelly Ortiz,Nicole Mcdonald,TATA,ALTROZ,2022,48255,10%,4705.481623,Income issues,28
+07 March 2023,Michael Hull,Kimberly Brewer,HYUNDAI,I20 ACTIVE,2015,21850,8%,1691.210587,Budget,47
+02 August 2022,Nancy Carr,Elizabeth Price,HYUNDAI,GRAND I10,2013,38687,12%,4525.404094,Income issues,69
+24 September 2022,Jeffrey Vargas,Monique Lane,FORD,ECOSPORT,2010,24827,7%,1697.759547,Income issues,56
+26 November 2022,Angela Cruz,Amanda Hudson,FORD,FIGO,2010,22035,12%,2579.725421,Budget,28
+04 April 2023,Rebecca Nielsen,Meghan Knight,MAHINDRA,XUV500,2021,20180,13%,2535.105827,Budget,50
+01 July 2022,Lauren Anthony,Jillian Guerrero,TATA,TIAGO,2020,34235,6%,2149.222836,Budget,39
+21 September 2022,April Mendez,Amy Pena,VOLKSWAGEN,POLO,2014,30552,8%,2501.944318,Budget,35
+02 November 2022,Robert Griffin,Shaun Smith,HYUNDAI,I20,2013,23457,8%,1934.055827,Budget,59
+24 March 2023,Melissa Pierce,Jamie Sanchez,MAHINDRA,XUV500,2020,36005,8%,2982.92181,Budget,44
+06 September 2022,Stephanie Jones,Donna Douglas,BMW,5 SERIES,2022,19198,12%,2287.523131,Budget,66
+09 February 2023,Lindsey Winters,Candace Lynch,MARUTI SUZUKI,BALENO,2022,35807,6%,2143.662182,Income issues,20
+16 November 2022,Michael Snyder DDS,Franklin Rose,VOLKSWAGEN,POLO,2017,30017,14%,4064.359127,Budget,45
+09 May 2022,Jennifer Davis,Lori Taylor,MAHINDRA,THAR,2012,15485,12%,1823.178021,Income issues,49
+26 May 2022,Thomas Cervantes,Karen Castro,FORD,ECOSPORT,2022,29110,12%,3480.432631,Budget,60
+10 March 2023,Phillip Smith,Jonathan Smith,MAHINDRA,XUV500(2011_2015),2011,42254,11%,4444.028711,Income issues,61
+30 September 2022,Dr. Anthony Johnson,Mrs. Leslie Gillespie,MAHINDRA,XUV 500,2022,49126,12%,5678.991561,Budget,36
+27 February 2023,Robin Wagner,Jennifer Calhoun,HYUNDAI,CRETA,2012,31006,13%,4037.397749,Budget,33
+30 August 2022,Max Monroe,Kristen Hill,HYUNDAI,VERNA(2017-2020),2015,45891,7%,3356.714976,Budget,49
+14 March 2023,William Ortega,Christopher Bright,TOYOTA,INNOVA CRYSTA,2017,46578,9%,4376.370684,Income issues,31
+18 May 2022,Rachael Gray,Robert Lawson,TOYOTA,COROLLA ALTIS(2014-2017),2020,45620,13%,5766.92665,Income issues,19
+01 April 2023,Jennifer Olson,Sandra Foster,SKODA,OCTAVIA,2016,12677,10%,1322.794996,Budget,39
+16 November 2022,Matthew Henson,Virginia Bell,TATA,TIAGO,2015,35064,10%,3606.254106,Budget,66
+14 August 2022,Jennifer Park,Amy Duke,HYUNDAI,ELANTRA,2012,22076,8%,1665.601226,Budget,25
+19 June 2022,Michael Garcia,Michael Russell,MARUTI SUZUKI,SWIFT DZIRE,2022,12610,10%,1310.728104,Budget,63
+07 January 2023,Rebecca Hernandez,William Jordan,HONDA,AMAZE,2012,37022,6%,2218.662309,Budget,56
+07 April 2023,Brittany Hebert,Dr. Sarah Soto,RENAULT,KWID,2022,26579,11%,3008.007883,Income issues,20
+05 March 2023,Katherine Mendez,Laura Branch,KIA,SONET,2018,15565,11%,1683.100238,Budget,58
+05 August 2022,Anthony Maynard,Rebecca Ward,NISSAN,MICRA,2016,46251,15%,6893.14825,Budget,34
+05 April 2023,John Stone,Kathryn Thompson,MARUTI SUZUKI,BALENO,2013,42881,9%,3985.543063,Budget,28
+01 December 2022,Brian Hunter,Linda Hernandez,MARUTI SUZUKI,ERTIGA,2013,25602,12%,2984.483558,Income issues,22
+26 December 2022,Matthew Burke,Nicholas Maynard,MAHINDRA,XUV300,2015,45887,13%,6058.365113,Budget,37
+21 October 2022,Ronald Walker,Elijah Wilson,RENAULT,KWID,2018,48614,6%,2885.076244,Income issues,54
+19 May 2022,Bobby Morgan,Sabrina Brown,TATA,TIAGO,2015,43080,6%,2702.163888,Budget,65
+06 December 2022,Lori Malone,Frances Sanchez,MARUTI SUZUKI,VITARA BREZZA,2019,43334,11%,4886.605299,Income issues,57
+19 July 2022,Deborah Daniels MD,Nathan Gutierrez,MARUTI SUZUKI,VITARA BREZZA,2016,15943,7%,1040.565251,Budget,38
+26 November 2022,Matthew Tate,Randy Lopez,TOYOTA,FORTUNER,2012,13150,12%,1550.742637,Budget,70
+05 September 2022,Julie Wilson,Karen Mendez,SKODA,OCTAVIA,2019,27320,14%,3768.3323,Budget,56
+10 June 2022,Caroline Diaz,Jacqueline Brady,MAHINDRA,THAR,2017,42392,8%,3326.228977,Budget,56
+25 September 2022,Linda Harris,John Martin,HYUNDAI,VERNA,2021,28229,13%,3735.981671,Income issues,22
+02 March 2023,William Cooper,Brandi Brown,KIA,CARENS,2013,37817,10%,3770.79338,Budget,57
+22 June 2022,Heather Diaz,Scott Coleman,MARUTI SUZUKI,SWIFT,2018,28471,7%,1979.424958,Budget,53
+12 January 2023,Virginia Brown,Michael Daniels,MG,HECTOR PLUS(2021-2023),2015,26086,10%,2638.714044,Income issues,53
+10 August 2022,Elizabeth Miller,Kimberly Medina,TOYOTA,INNOVA,2021,36057,9%,3105.475058,Budget,19
+19 May 2022,Brian Yates,Christine Kelly,MARUTI SUZUKI,SWIFT DZIRE,2011,20165,8%,1633.785786,Budget,49
+26 January 2023,Pamela Reyes,Timothy Castillo,BMW,X1,2010,32716,7%,2400.901222,Income issues,44
+12 February 2023,Joshua Sims,Jesse Johns,SKODA,OCTAVIA,2022,47532,10%,4631.14554,Income issues,27
+09 April 2023,Jennifer Johnson,Brian Fields,MERCEDES BENZ,CLA,2011,11307,7%,784.1622035,Budget,60
+18 November 2022,Robert Smith,Christopher Owens,MG,ASTOR,2015,45314,5%,2373.901719,Income issues,62
+23 October 2022,Jo Hernandez,Robert Mendez,RENAULT,DUSTER,2014,20646,13%,2762.841379,Budget,52
+08 January 2023,Kyle Joseph,Larry Burke,JEEP,COMPASS(2021-2023),2010,13467,7%,956.6766506,Budget,30
+11 January 2023,Ronald Hernandez,Jenny Wilcox MD,HYUNDAI,VERNA,2011,25247,14%,3599.859311,Budget,66
+26 August 2022,Nicole Holloway,Erica Olson,HYUNDAI,GRAND I10,2021,19417,7%,1449.686679,Budget,29
+23 January 2023,Christine Maldonado,Ms. Jessica Edwards,TATA,NEXON,2010,48933,5%,2606.504582,Budget,24
+15 November 2022,Teresa Maldonado,Kevin Miller,JEEP,COMPASS,2012,17386,8%,1426.22874,Budget,51
+01 September 2022,John Wells,Kelly Miles,HONDA,JAZZ,2013,43380,9%,3954.872523,Budget,67
+05 June 2022,Benjamin Rodriguez,Fred Stone,HONDA,AMAZE,2014,20941,14%,3019.967877,Budget,50
+19 March 2023,Nicole Wallace,Jennifer Smith,MAHINDRA,THAR,2013,28030,14%,4017.514871,Budget,37
+10 February 2023,Joyce Johnson,Amy Christensen,MARUTI SUZUKI,DZIRE(2017_2020),2016,24421,14%,3503.469654,Income issues,69
+09 November 2022,Lori Johnson,Stephanie Diaz,HYUNDAI,EON,2011,20314,7%,1381.619833,Budget,60
+10 July 2022,Amy Johnson,Jose Howe,RENAULT,KWID(2015_2019),2020,30469,13%,3818.941665,Income issues,21
+15 July 2022,Christina Allison,Arthur Hale,HYUNDAI,GRAND I10(2017-2020),2015,33653,9%,3186.227724,Budget,44
+05 January 2023,Jerry Martinez,Samantha Kline,HYUNDAI,CRETA,2015,30112,7%,2074.171483,Income issues,26
+01 December 2022,Mary Perez,Dr. Michael Austin,HYUNDAI,GRAND I10,2018,32451,8%,2454.818852,Budget,40
+27 January 2023,Jimmy Schneider,Larry Francis,MERCEDES BENZ,ML CLASS,2017,23198,11%,2542.722253,Income issues,41
+26 November 2022,Diana Hernandez,Elizabeth Baker,KIA,SELTOS,2018,34114,14%,4796.7485,Income issues,62
+08 April 2023,Jason Moore,Robert Thomas,JEEP,COMPASS,2013,15449,7%,1124.129074,Budget,39
+03 January 2023,Nathan Burns,Michelle Johnson,HYUNDAI,VERNA,2012,41978,13%,5565.173317,Income issues,53
+07 August 2022,Shelley Bird,Jacqueline Bryant,HYUNDAI,ELITE I20,2018,44210,8%,3455.052682,Income issues,24
+13 February 2023,Priscilla Lopez,Carlos Price,HONDA,CITY,2013,34831,6%,2019.966501,Budget,41
+27 February 2023,Daniel Ramos,James Torres,TOYOTA,INNOVA CRYSTA,2013,43016,11%,4700.647113,Budget,19
+24 July 2022,Jennifer Dougherty,Jeffrey Gonzales,MARUTI SUZUKI,CIAZ,2020,45800,8%,3496.410917,Budget,36
+24 March 2023,Kathryn Boyd,Alicia Holt,HONDA,CRV,2010,15964,10%,1632.698624,Budget,21
+25 December 2022,Angela Thompson,James Ward,HYUNDAI,AURA,2020,46751,13%,6067.33122,Budget,25
+04 March 2023,Shawna Rodriguez,Robin Obrien,MARUTI SUZUKI,WAGON R 1.0,2013,28252,9%,2560.963704,Budget,65
+15 February 2023,Jill Aguilar,Dustin Baldwin,AUDI,A4,2010,40260,12%,4736.907863,Budget,42
+01 July 2022,Thomas Lee,Jeffrey Scott,MARUTI SUZUKI,CELERIO X,2010,33160,9%,2982.376642,Income issues,40
+26 September 2022,Kristin Gibson,Tammy Hall,HONDA,AMAZE,2018,29388,7%,2073.035165,Budget,58
+26 March 2023,Sean Vaughn,Pamela Hernandez,HYUNDAI,TUCSON,2020,19386,9%,1711.815092,Income issues,40
+25 October 2022,Bryan Miles,Philip Greer,HYUNDAI,TUCSON,2018,30511,13%,4023.194632,Budget,62
+11 September 2022,Patrick Moore,Billy Garcia,HYUNDAI,CRETA,2018,19309,9%,1656.694055,Income issues,38
+27 October 2022,Sarah Ruiz,Rebecca Baker,KIA,CARENS,2011,16790,7%,1169.911766,Budget,37
+20 June 2022,Debra Leonard,Cory Moody,MARUTI SUZUKI,SWIFT,2012,44186,13%,5587.47793,Budget,65
+06 July 2022,Helen Mclean,Ashley Roberts,MARUTI SUZUKI,BALENO,2020,41842,11%,4455.469906,Budget,55
+05 January 2023,Heidi Jones,Diana Parks,MARUTI SUZUKI,ALTO K10,2021,43553,14%,6286.09356,Income issues,43
+25 December 2022,Keith Moore,Clinton Stuart,JEEP,WRANGLER,2011,34633,11%,3866.451731,Budget,43
+04 August 2022,Shawn James,Alexandra Smith,HYUNDAI,VERNA,2010,45061,13%,5730.704632,Budget,45
+31 December 2022,Robert Howell,Lisa Ayala,HONDA,JAZZ,2015,34955,10%,3628.609534,Income issues,64
+08 November 2022,Dr. Ryan Johnson,Mr. Brian Hoffman MD,HONDA,JAZZ,2018,21187,7%,1430.764621,Budget,28
+31 August 2022,Veronica Parker,Derek Moreno,MARUTI SUZUKI,ERTIGA,2017,49778,12%,5911.912964,Budget,69
+24 October 2022,Regina Rosales,Oscar Moon,TATA,NEXON,2021,29007,5%,1536.314948,Income issues,54
+04 August 2022,Tanner Massey,Leslie Curry,HYUNDAI,I10,2015,19434,9%,1688.25325,Income issues,52
+26 August 2022,Ricardo Romero,Debra Hammond,KIA,CARENS,2013,28737,13%,3657.866036,Budget,23
+22 February 2023,John Jones,Stephanie Whitaker,HYUNDAI,ELANTRA,2015,13236,12%,1522.682499,Income issues,26
+04 April 2023,Kurt Mueller,Dr. Robert Berger MD,TOYOTA,COROLLA ALTIS,2017,47034,8%,3711.059416,Budget,48
+01 September 2022,Angela Horne,Mary Morris,HONDA,CITY 5TH GEN,2016,10783,11%,1193.74973,Budget,49
+03 June 2022,Elizabeth Brooks,Randy Rogers,HYUNDAI,ELITE I20,2020,47249,12%,5632.453904,Budget,53
+26 November 2022,Mr. Don Neal DDS,Monica Murphy,HYUNDAI,VERNA,2021,30332,9%,2849.645792,Budget,69
+29 May 2022,Glenn Ryan,Ashley Berg,HONDA,AMAZE,2013,39190,10%,4086.312721,Budget,26
+30 June 2022,Donald Ruiz,Keith Woods,HONDA,WR V,2021,10511,15%,1566.255891,Budget,21
+16 September 2022,Miss Meghan Williams,Diana Phillips,RENAULT,TRIBER,2021,23367,15%,3434.211117,Budget,59
+17 February 2023,Sean Foster,Jordan Gonzalez,MARUTI SUZUKI,BALENO,2021,29123,11%,3067.043664,Budget,21
+31 May 2022,Julie Mejia,Rachel Torres,MAHINDRA,XUV500(2017_2018),2012,11066,14%,1533.642801,Budget,22
+08 February 2023,Kathryn Osborne,Alicia Chavez,BMW,X1,2017,27817,10%,2779.783612,Income issues,26
+22 October 2022,Julie Herring,Nicholas Larson,AUDI,A3,2018,44484,8%,3562.695216,Budget,41
+23 March 2023,Crystal Adams,William Bryan,MARUTI SUZUKI,ALTO 800,2015,24098,7%,1730.183609,Income issues,37
+19 November 2022,Juan Douglas,James Christian,HYUNDAI,CRETA,2018,18020,8%,1394.682943,Budget,30
+25 October 2022,William Lowery,Robin Sims,KIA,SELTOS(2020-2022),2017,40999,14%,5706.158331,Income issues,49
+28 February 2023,Stephanie Lewis,Brandon Miller,TATA,TIAGO,2016,34348,11%,3866.256375,Budget,49
+21 January 2023,Anne Reyes,Bradley Williams,SKODA,OCTAVIA(2015-2017),2019,38249,13%,5126.402551,Income issues,58
+14 June 2022,Jose Rivera,Jennifer Martin,TOYOTA,INNOVA CRYSTA,2016,34349,6%,1974.387655,Income issues,70
+10 December 2022,Christopher Ramirez,Riley Davis,MERCEDES BENZ,C CLASS,2021,49056,9%,4230.494409,Budget,27
+16 February 2023,Jeffery Lee,George Pearson,MAHINDRA,TUV 300,2021,20813,9%,1807.187279,Income issues,65
+28 December 2022,Gary Welch,William Small,RENAULT,TRIBER,2022,48171,6%,3068.149795,Income issues,57
+29 March 2023,Jennifer Ochoa,Samantha Ortega,RENAULT,CAPTUR,2012,13206,7%,886.1330432,Budget,20
+08 April 2023,Gerald Turner,Austin Myers,AUDI,A3(2014-2017),2022,30330,6%,1924.049748,Budget,34
+17 August 2022,Regina Reynolds,Ashley Rose,HONDA,BR V,2020,47272,15%,6864.381438,Budget,59
+27 September 2022,Megan Curtis,Monica Williams,MARUTI SUZUKI,SWIFT DZIRE,2017,11086,10%,1125.319189,Budget,54
+25 September 2022,Brittany Wright,Nicole Miller,MARUTI SUZUKI,WAGON R 1.0,2021,47174,14%,6657.844599,Budget,36
+31 July 2022,Karina Jones,Christian Mcdonald DVM,HONDA,WR V,2016,36319,14%,5001.888604,Budget,21
+24 August 2022,Michael Lam,Edwin Martin,HYUNDAI,VENUE,2019,42801,9%,4039.653877,Budget,52
+30 April 2023,Cheryl Jones,Angela Wilson,HONDA,CITY(2011-2014),2021,46857,5%,2543.829442,Income issues,43
+04 February 2023,Mary Fox,Luke Murray,TATA,HARRIER,2019,27645,12%,3323.177096,Budget,32
+08 January 2023,Julie Henderson,Troy Montgomery,HYUNDAI,I20,2011,16966,12%,1978.918458,Income issues,55
+17 May 2022,Joseph Nguyen,William Newman,MARUTI SUZUKI,VITARA BREZZA,2020,20458,7%,1402.515011,Budget,31
+08 February 2023,Tina Garcia,Paul Barrera,TATA,MANZA(2011_2015),2011,32832,13%,4266.544892,Income issues,45
+26 November 2022,Deanna Richards,Sara Vasquez,MARUTI SUZUKI,SWIFT,2012,19671,14%,2827.492111,Budget,53
+08 November 2022,Michelle Boyer,Angela Anderson,MARUTI SUZUKI,CELERIO,2022,19297,14%,2712.318196,Budget,24
+24 October 2022,David Wells,Karen Trujillo,MARUTI SUZUKI,CELERIO,2017,42328,8%,3215.852341,Budget,47
+19 September 2022,William Griffin,Kimberly Carroll,MARUTI SUZUKI,ZEN ESTILO,2020,27073,14%,3803.842622,Income issues,63
+07 July 2022,Emma English,Alyssa Smith,HYUNDAI,GRAND I10,2012,42749,13%,5629.619122,Budget,38
+16 February 2023,Michael Harding,Diana Mcbride,MARUTI SUZUKI,SWIFT DZIRE,2010,24485,11%,2597.80328,Budget,59
+07 December 2022,Keith Lewis,Melissa Gibson,MARUTI SUZUKI,DZIRE,2013,15404,7%,1025.947177,Income issues,54
+15 January 2023,Anita Martin,Jose Kline,HYUNDAI,CRETA,2011,31442,6%,1967.934404,Budget,26
+24 June 2022,Eric Watts,Jacqueline Mcdonald,MERCEDES BENZ,CLA CLASS,2012,47714,10%,4853.819841,Budget,68
+12 February 2023,Michael Parker,Tyler Ford,KIA,SELTOS,2013,44835,7%,3018.897969,Income issues,41
+18 June 2022,Heather Frazier,Rose Macdonald,JEEP,COMPASS,2011,46203,10%,4817.597806,Income issues,68
+11 August 2022,Kathleen Knight,Charles Davis,HONDA,CITY,2021,15322,13%,1949.478337,Budget,21
+22 May 2022,Steven Griffin,Tyler Chapman,TATA,TIGOR(2018-2020),2015,11593,9%,1098.501747,Income issues,32
+18 February 2023,Joshua Webb,Cameron Hays,MERCEDES BENZ,C CLASS,2012,27085,14%,3684.963129,Budget,20
+19 January 2023,Paul Dawson,Sally Roy,VOLKSWAGEN,POLO(2012-2014),2021,21491,6%,1341.420431,Budget,59
+07 January 2023,Jennifer Erickson,Thomas Johnson,FORD,ENDEAVOUR,2019,40683,8%,3307.685875,Budget,53
+04 January 2023,Michael Gilbert,Mr. Cameron Stafford PhD,AUDI,A6(2011-2015),2020,20424,12%,2449.40794,Budget,66
+17 September 2022,Elizabeth Reynolds,Candice Brown,TOYOTA,COROLLA ALTIS,2016,46015,6%,2939.104711,Budget,47
+13 January 2023,Lauren Roberts,Jason Chambers,MARUTI SUZUKI,EECO,2019,16433,9%,1440.524389,Budget,58
+27 December 2022,William Chandler,Eric Thompson,MAHINDRA,XUV500,2018,10496,13%,1384.864362,Budget,28
+05 August 2022,Joseph Brandt,Jose Gonzalez,SKODA,SUPERB,2010,27005,7%,1855.740213,Budget,68
+08 October 2022,Douglas Baker,Debra Moore,MARUTI SUZUKI,BALENO,2015,37354,9%,3528.835646,Budget,60
+10 January 2023,Robert Carson,William Moody,HYUNDAI,I10(2010_2017),2020,41291,10%,4231.026586,Income issues,47
+25 July 2022,Alyssa Wood,Joseph Day,MAHINDRA,XUV300,2018,44894,10%,4692.545542,Budget,18
+31 December 2022,Kelli Carter,Brittany Gibbs,MARUTI SUZUKI,XL6,2012,35920,12%,4166.16047,Income issues,32
+17 July 2022,Thomas Hines,Justin Smith,HYUNDAI,I10,2015,13070,8%,1009.420261,Budget,27
+21 May 2022,Theresa Bender,Matthew Nguyen,MARUTI SUZUKI,SWIFT DZIRE,2014,12204,8%,984.6597525,Income issues,65
+21 July 2022,Margaret Clark,Eric Russell,MARUTI SUZUKI,BALENO,2018,31935,9%,2723.770916,Budget,68
+18 July 2022,Joshua Dean,Ann Castro,HYUNDAI,VERNA,2016,49893,11%,5363.660043,Income issues,55
+04 May 2022,Patrick Bailey,Steven Walters,HYUNDAI,i20,2019,36190,12%,4179.82139,Income issues,30
+10 October 2022,Rachel Griffin,Emily Yang,MAHINDRA,SCORPIO,2015,49021,5%,2670.398834,Budget,24
+12 January 2023,Jennifer Allen,Taylor Santos,MAHINDRA,KUV100,2010,11295,7%,792.1526205,Income issues,57
+06 October 2022,Marc Thompson,Kristopher Richard,HYUNDAI,AURA,2014,15144,10%,1582.069963,Income issues,23
+31 January 2023,Kimberly Atkinson,Caitlin Miller,TOYOTA,COROLLA ALTIS,2012,12330,10%,1286.697216,Budget,69
+18 August 2022,Susan Hughes,Walter Martin,MERCEDES BENZ,E-CLASS(2009-2013),2013,48499,11%,5208.079579,Budget,60
+03 February 2023,Gina Martinez,Todd Wagner,MARUTI SUZUKI,SWIFT,2021,46692,5%,2500.509899,Budget,25
+15 November 2022,Daniel Myers,Benjamin Harrington DDS,FORD,FIGO(2012-2015),2018,45919,14%,6318.516458,Budget,18
+26 November 2022,Jose Evans,Heather Young,RENAULT,TRIBER,2014,46708,14%,6407.141538,Budget,37
+26 November 2022,Christopher Knight,Michelle Miller,TATA,ALTROZ,2018,46257,10%,4782.666161,Budget,61
+03 May 2022,Mitchell Hurst,Christopher Hansen,MARUTI SUZUKI,CIAZ,2019,14720,11%,1645.817859,Budget,41
+05 January 2023,Michael Short,Shannon Gonzalez,HONDA,JAZZ,2020,14030,9%,1236.751516,Income issues,69
+04 September 2022,Peter Johnson,Michael Watts,MARUTI SUZUKI,WAGON R 1.0,2022,27230,6%,1742.469909,Budget,32
+06 December 2022,Christopher Ramos,Morgan Macias,HONDA,CITY,2018,20873,7%,1553.936229,Income issues,60
+08 June 2022,Makayla Huffman,Henry Quinn,FORD,FIGO,2021,43796,13%,5674.271655,Budget,43
+02 September 2022,Erica Adams,Adam Donaldson,KIA,SELTOS,2015,29940,7%,2050.405157,Income issues,61
+05 August 2022,Maria Benton,Jeffrey Gray,MARUTI SUZUKI,CELERIO X,2022,39435,11%,4393.910337,Budget,57
+29 September 2022,Richard Moore,William Jordan,FORD,ECOSPORT,2013,44038,14%,6084.599521,Budget,56
+26 June 2022,Ricky Palmer,Amy Martin,MAHINDRA,XUV500,2011,31604,9%,2852.658153,Budget,66
+16 October 2022,Dustin Davis,David Rasmussen,MARUTI SUZUKI,CELERIO,2016,14918,10%,1544.448382,Income issues,52
+10 February 2023,Megan Ortiz,Craig Moyer,VOLKSWAGEN,VENTO,2018,11750,10%,1205.737048,Budget,63
+19 June 2022,Alexander Chandler,Joshua Martin,VOLKSWAGEN,POLO,2010,37161,10%,3538.965433,Budget,50
+24 December 2022,Keith Stokes,Dale Cohen,MAHINDRA,SCORPIO,2013,25432,14%,3635.226685,Income issues,21
+06 March 2023,John King,Krista Meyer,MARUTI SUZUKI,BALENO,2015,13145,12%,1612.947409,Budget,42
+30 April 2023,Cassandra Martinez,Randy Johnson,TOYOTA,URBAN CRUISER,2018,21797,9%,1880.912054,Budget,40
+04 January 2023,Jill Olson,John Terry,SKODA,OCTAVIA,2021,34498,11%,3840.354373,Income issues,67
+18 March 2023,Paul Hill,Megan Owens,MARUTI SUZUKI,RITZ,2020,41986,9%,3964.28722,Income issues,35
+11 November 2022,Emily Thompson,Brandy Perry,BMW,X1(2010-2012),2013,21340,7%,1563.838695,Budget,18
+04 February 2023,Emily Brown,Justin Wilson,Chevrolet,F-150,2019,30341,9%,2846.539123,Income issues,52
